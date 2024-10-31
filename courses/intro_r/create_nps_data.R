@@ -6,6 +6,18 @@ load(csg_sp_path("jr_data_library", "data", "raw", "bjs", "nps", "icpsr_38871-v1
 
 nps <- read_rds(csg_sp_path("jr_data_library", "data", "analysis", "bjs", "nps", "bjs_nps_state.rds"))
 
+
+sum_with_na <- function(vec){
+  
+  if ( all(is.na(vec)) ){
+    val <- NA
+  } else {
+    val <- sum(vec, na.rm = TRUE)
+  }
+  
+  return(val)
+}
+
 nps |>
   filter(indicator == "Prison admissions under jurisdiction") %>%
   filter(group_cat == "adm_type") |>
@@ -75,8 +87,6 @@ da38871.0001 |>
   ) |>
   relocate(unknown, .after = other)
 
-admissions |>
-  filter(is.na(state_name)) |>view()
 
 da38871.0001 |>
   janitor::clean_names() |>
@@ -185,12 +195,12 @@ admissions <- da38871.0001 |>
   ) %>%
   rowwise() |>
   mutate(
-    adm_viol_newm  = sum(parnewm, adcrnewm, na.rm = TRUE),
-    adm_viol_newf  = sum(parnewf, adcrnewf, na.rm = TRUE),
-    adm_viol_techm = sum(parnom, adcrnom, na.rm = TRUE),
-    adm_viol_techf = sum(parnof, adcrnof, na.rm = TRUE),     
-    adm_othm       = sum(adtransm, adawolm, adescapf, adawesm, adretm, adothm, na.rm = TRUE),
-    adm_othf       = sum(adtransf, adawolf, adescapf, adawesf, adretf, adothf, na.rm = TRUE)
+    adm_viol_newm  = sum_with_na(c(parnewm, adcrnewm)),
+    adm_viol_newf  = sum_with_na(c(parnewf, adcrnewf)),
+    adm_viol_techm = sum_with_na(c(parnom, adcrnom)),
+    adm_viol_techf = sum_with_na(c(parnof, adcrnof)),     
+    adm_othm       = sum_with_na(c(adtransm, adawolm, adescapf, adawesm, adretm, adothm)),
+    adm_othf       = sum_with_na(c(adtransf, adawolf, adescapf, adawesf, adretf, adothf))
   ) %>%
   ungroup() |>
   select(
@@ -214,7 +224,7 @@ admissions <- da38871.0001 |>
   pivot_wider(names_from = sex, values_from = n) |>
   filter(!is.na(state_name))
 
-admissions |>write_csv("nps-admissions.csv")
+admissions |> write_csv("nps-admissions.csv")
 
 
 releases <- da38871.0001 |>
