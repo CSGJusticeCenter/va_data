@@ -27,17 +27,17 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Alabama,AL,adm_total,4336,326
 1983,Alabama,AL,adm_new_commit,4103,316
 1983,Alabama,AL,adm_viol_new,96,4
-1983,Alabama,AL,adm_viol_tech,0,0
+1983,Alabama,AL,adm_viol_tech,NA,NA
 1983,Alabama,AL,adm_oth,137,6
 1984,Alabama,AL,adm_total,4393,362
 1984,Alabama,AL,adm_new_commit,4108,340
 1984,Alabama,AL,adm_viol_new,71,3
-1984,Alabama,AL,adm_viol_tech,0,0
+1984,Alabama,AL,adm_viol_tech,NA,NA
 1984,Alabama,AL,adm_oth,214,19
 1985,Alabama,AL,adm_total,4050,357
 1985,Alabama,AL,adm_new_commit,3795,338
 1985,Alabama,AL,adm_viol_new,49,3
-1985,Alabama,AL,adm_viol_tech,0,0
+1985,Alabama,AL,adm_viol_tech,NA,NA
 1985,Alabama,AL,adm_oth,206,16
 1986,Alabama,AL,adm_total,3973,311
 1986,Alabama,AL,adm_new_commit,3088,249
@@ -106,9 +106,9 @@ year,state_name,state_abbr,adm_type,m,f
 1998,Alabama,AL,adm_oth,327,59
 1999,Alabama,AL,adm_total,7583,915
 1999,Alabama,AL,adm_new_commit,NA,NA
-1999,Alabama,AL,adm_viol_new,0,0
-1999,Alabama,AL,adm_viol_tech,0,0
-1999,Alabama,AL,adm_oth,0,0
+1999,Alabama,AL,adm_viol_new,NA,NA
+1999,Alabama,AL,adm_viol_tech,NA,NA
+1999,Alabama,AL,adm_oth,NA,NA
 2000,Alabama,AL,adm_total,5812,690
 2000,Alabama,AL,adm_new_commit,4896,603
 2000,Alabama,AL,adm_viol_new,59,5
@@ -251,7 +251,7 @@ year,state_name,state_abbr,adm_type,m,f
 1982,Alaska,AK,adm_oth,80,6
 1983,Alaska,AK,adm_total,828,36
 1983,Alaska,AK,adm_new_commit,604,27
-1983,Alaska,AK,adm_viol_new,0,0
+1983,Alaska,AK,adm_viol_new,NA,NA
 1983,Alaska,AK,adm_viol_tech,54,2
 1983,Alaska,AK,adm_oth,170,7
 1984,Alaska,AK,adm_total,735,31
@@ -306,9 +306,9 @@ year,state_name,state_abbr,adm_type,m,f
 1993,Alaska,AK,adm_oth,1069,43
 1994,Alaska,AK,adm_total,NA,NA
 1994,Alaska,AK,adm_new_commit,NA,NA
-1994,Alaska,AK,adm_viol_new,0,0
-1994,Alaska,AK,adm_viol_tech,0,0
-1994,Alaska,AK,adm_oth,0,0
+1994,Alaska,AK,adm_viol_new,NA,NA
+1994,Alaska,AK,adm_viol_tech,NA,NA
+1994,Alaska,AK,adm_oth,NA,NA
 1995,Alaska,AK,adm_total,1783,216
 1995,Alaska,AK,adm_new_commit,1153,167
 1995,Alaska,AK,adm_viol_new,122,10
@@ -361,58 +361,58 @@ year,state_name,state_abbr,adm_type,m,f
 2004,Alaska,AK,adm_oth,0,0
 2005,Alaska,AK,adm_total,2593,275
 2005,Alaska,AK,adm_new_commit,NA,NA
-2005,Alaska,AK,adm_viol_new,0,0
-2005,Alaska,AK,adm_viol_tech,0,0
-2005,Alaska,AK,adm_oth,0,0
+2005,Alaska,AK,adm_viol_new,NA,NA
+2005,Alaska,AK,adm_viol_tech,NA,NA
+2005,Alaska,AK,adm_oth,NA,NA
 2006,Alaska,AK,adm_total,NA,NA
 2006,Alaska,AK,adm_new_commit,NA,NA
-2006,Alaska,AK,adm_viol_new,0,0
-2006,Alaska,AK,adm_viol_tech,0,0
-2006,Alaska,AK,adm_oth,0,0
+2006,Alaska,AK,adm_viol_new,NA,NA
+2006,Alaska,AK,adm_viol_tech,NA,NA
+2006,Alaska,AK,adm_oth,NA,NA
 2007,Alaska,AK,adm_total,2777,495
 2007,Alaska,AK,adm_new_commit,NA,NA
-2007,Alaska,AK,adm_viol_new,0,0
-2007,Alaska,AK,adm_viol_tech,0,0
-2007,Alaska,AK,adm_oth,0,0
+2007,Alaska,AK,adm_viol_new,NA,NA
+2007,Alaska,AK,adm_viol_tech,NA,NA
+2007,Alaska,AK,adm_oth,NA,NA
 2008,Alaska,AK,adm_total,4198,659
 2008,Alaska,AK,adm_new_commit,NA,NA
-2008,Alaska,AK,adm_viol_new,0,0
-2008,Alaska,AK,adm_viol_tech,0,0
-2008,Alaska,AK,adm_oth,0,0
+2008,Alaska,AK,adm_viol_new,NA,NA
+2008,Alaska,AK,adm_viol_tech,NA,NA
+2008,Alaska,AK,adm_oth,NA,NA
 2009,Alaska,AK,adm_total,2341,420
 2009,Alaska,AK,adm_new_commit,NA,NA
-2009,Alaska,AK,adm_viol_new,0,0
-2009,Alaska,AK,adm_viol_tech,0,0
-2009,Alaska,AK,adm_oth,0,0
+2009,Alaska,AK,adm_viol_new,NA,NA
+2009,Alaska,AK,adm_viol_tech,NA,NA
+2009,Alaska,AK,adm_oth,NA,NA
 2010,Alaska,AK,adm_total,2287,363
 2010,Alaska,AK,adm_new_commit,NA,NA
-2010,Alaska,AK,adm_viol_new,0,0
-2010,Alaska,AK,adm_viol_tech,0,0
+2010,Alaska,AK,adm_viol_new,NA,NA
+2010,Alaska,AK,adm_viol_tech,NA,NA
 2010,Alaska,AK,adm_oth,2287,363
 2011,Alaska,AK,adm_total,3090,699
 2011,Alaska,AK,adm_new_commit,NA,NA
-2011,Alaska,AK,adm_viol_new,0,0
-2011,Alaska,AK,adm_viol_tech,0,0
+2011,Alaska,AK,adm_viol_new,NA,NA
+2011,Alaska,AK,adm_viol_tech,NA,NA
 2011,Alaska,AK,adm_oth,3090,699
 2012,Alaska,AK,adm_total,3199,707
 2012,Alaska,AK,adm_new_commit,NA,NA
-2012,Alaska,AK,adm_viol_new,0,0
-2012,Alaska,AK,adm_viol_tech,0,0
+2012,Alaska,AK,adm_viol_new,NA,NA
+2012,Alaska,AK,adm_viol_tech,NA,NA
 2012,Alaska,AK,adm_oth,3199,707
 2013,Alaska,AK,adm_total,3199,707
 2013,Alaska,AK,adm_new_commit,NA,NA
-2013,Alaska,AK,adm_viol_new,0,0
-2013,Alaska,AK,adm_viol_tech,0,0
+2013,Alaska,AK,adm_viol_new,NA,NA
+2013,Alaska,AK,adm_viol_tech,NA,NA
 2013,Alaska,AK,adm_oth,3199,707
 2014,Alaska,AK,adm_total,3145,701
 2014,Alaska,AK,adm_new_commit,NA,NA
-2014,Alaska,AK,adm_viol_new,0,0
-2014,Alaska,AK,adm_viol_tech,0,0
+2014,Alaska,AK,adm_viol_new,NA,NA
+2014,Alaska,AK,adm_viol_tech,NA,NA
 2014,Alaska,AK,adm_oth,3145,701
 2015,Alaska,AK,adm_total,3131,1140
 2015,Alaska,AK,adm_new_commit,NA,NA
-2015,Alaska,AK,adm_viol_new,0,0
-2015,Alaska,AK,adm_viol_tech,0,0
+2015,Alaska,AK,adm_viol_new,NA,NA
+2015,Alaska,AK,adm_viol_tech,NA,NA
 2015,Alaska,AK,adm_oth,3131,1140
 2016,Alaska,AK,adm_total,1502,302
 2016,Alaska,AK,adm_new_commit,1374,276
@@ -702,32 +702,32 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Arkansas,AR,adm_total,2083,146
 1983,Arkansas,AR,adm_new_commit,1614,137
 1983,Arkansas,AR,adm_viol_new,413,9
-1983,Arkansas,AR,adm_viol_tech,0,0
+1983,Arkansas,AR,adm_viol_tech,NA,NA
 1983,Arkansas,AR,adm_oth,56,0
 1984,Arkansas,AR,adm_total,2059,145
 1984,Arkansas,AR,adm_new_commit,1536,106
 1984,Arkansas,AR,adm_viol_new,493,39
-1984,Arkansas,AR,adm_viol_tech,0,0
+1984,Arkansas,AR,adm_viol_tech,NA,NA
 1984,Arkansas,AR,adm_oth,30,0
 1985,Arkansas,AR,adm_total,2124,192
 1985,Arkansas,AR,adm_new_commit,1528,153
 1985,Arkansas,AR,adm_viol_new,582,38
-1985,Arkansas,AR,adm_viol_tech,0,0
+1985,Arkansas,AR,adm_viol_tech,NA,NA
 1985,Arkansas,AR,adm_oth,14,1
 1986,Arkansas,AR,adm_total,2140,159
 1986,Arkansas,AR,adm_new_commit,1591,138
 1986,Arkansas,AR,adm_viol_new,530,21
-1986,Arkansas,AR,adm_viol_tech,0,0
+1986,Arkansas,AR,adm_viol_tech,NA,NA
 1986,Arkansas,AR,adm_oth,19,0
 1987,Arkansas,AR,adm_total,2963,205
 1987,Arkansas,AR,adm_new_commit,2192,168
 1987,Arkansas,AR,adm_viol_new,759,33
-1987,Arkansas,AR,adm_viol_tech,0,0
+1987,Arkansas,AR,adm_viol_tech,NA,NA
 1987,Arkansas,AR,adm_oth,12,4
 1988,Arkansas,AR,adm_total,2591,264
 1988,Arkansas,AR,adm_new_commit,1893,233
 1988,Arkansas,AR,adm_viol_new,675,30
-1988,Arkansas,AR,adm_viol_tech,0,0
+1988,Arkansas,AR,adm_viol_tech,NA,NA
 1988,Arkansas,AR,adm_oth,23,1
 1989,Arkansas,AR,adm_total,3293,250
 1989,Arkansas,AR,adm_new_commit,2395,188
@@ -1642,47 +1642,47 @@ year,state_name,state_abbr,adm_type,m,f
 1991,Delaware,DE,adm_total,1086,120
 1991,Delaware,DE,adm_new_commit,721,73
 1991,Delaware,DE,adm_viol_new,31,3
-1991,Delaware,DE,adm_viol_tech,0,0
+1991,Delaware,DE,adm_viol_tech,NA,NA
 1991,Delaware,DE,adm_oth,334,44
 1992,Delaware,DE,adm_total,1209,114
 1992,Delaware,DE,adm_new_commit,929,89
 1992,Delaware,DE,adm_viol_new,91,6
-1992,Delaware,DE,adm_viol_tech,0,0
+1992,Delaware,DE,adm_viol_tech,NA,NA
 1992,Delaware,DE,adm_oth,189,19
 1993,Delaware,DE,adm_total,1195,132
 1993,Delaware,DE,adm_new_commit,881,94
 1993,Delaware,DE,adm_viol_new,101,18
-1993,Delaware,DE,adm_viol_tech,0,0
+1993,Delaware,DE,adm_viol_tech,NA,NA
 1993,Delaware,DE,adm_oth,213,20
 1994,Delaware,DE,adm_total,1104,150
 1994,Delaware,DE,adm_new_commit,778,112
 1994,Delaware,DE,adm_viol_new,181,13
-1994,Delaware,DE,adm_viol_tech,0,0
+1994,Delaware,DE,adm_viol_tech,NA,NA
 1994,Delaware,DE,adm_oth,145,25
 1995,Delaware,DE,adm_total,1174,153
 1995,Delaware,DE,adm_new_commit,745,85
 1995,Delaware,DE,adm_viol_new,289,50
-1995,Delaware,DE,adm_viol_tech,0,0
+1995,Delaware,DE,adm_viol_tech,NA,NA
 1995,Delaware,DE,adm_oth,140,18
 1996,Delaware,DE,adm_total,1328,153
 1996,Delaware,DE,adm_new_commit,832,104
 1996,Delaware,DE,adm_viol_new,335,28
-1996,Delaware,DE,adm_viol_tech,0,0
+1996,Delaware,DE,adm_viol_tech,NA,NA
 1996,Delaware,DE,adm_oth,161,21
 1997,Delaware,DE,adm_total,1597,165
 1997,Delaware,DE,adm_new_commit,951,112
 1997,Delaware,DE,adm_viol_new,369,38
-1997,Delaware,DE,adm_viol_tech,0,0
+1997,Delaware,DE,adm_viol_tech,NA,NA
 1997,Delaware,DE,adm_oth,277,15
 1998,Delaware,DE,adm_total,1657,231
 1998,Delaware,DE,adm_new_commit,950,168
 1998,Delaware,DE,adm_viol_new,487,26
-1998,Delaware,DE,adm_viol_tech,0,0
+1998,Delaware,DE,adm_viol_tech,NA,NA
 1998,Delaware,DE,adm_oth,220,37
 1999,Delaware,DE,adm_total,2394,295
 1999,Delaware,DE,adm_new_commit,1136,192
 1999,Delaware,DE,adm_viol_new,625,38
-1999,Delaware,DE,adm_viol_tech,0,0
+1999,Delaware,DE,adm_viol_tech,NA,NA
 1999,Delaware,DE,adm_oth,633,65
 2000,Delaware,DE,adm_total,2454,306
 2000,Delaware,DE,adm_new_commit,1276,178
@@ -1691,7 +1691,7 @@ year,state_name,state_abbr,adm_type,m,f
 2000,Delaware,DE,adm_oth,424,10
 2001,Delaware,DE,adm_total,2135,330
 2001,Delaware,DE,adm_new_commit,1187,190
-2001,Delaware,DE,adm_viol_new,0,0
+2001,Delaware,DE,adm_viol_new,NA,NA
 2001,Delaware,DE,adm_viol_tech,749,100
 2001,Delaware,DE,adm_oth,199,40
 2002,Delaware,DE,adm_total,3764,534
@@ -1702,7 +1702,7 @@ year,state_name,state_abbr,adm_type,m,f
 2003,Delaware,DE,adm_total,1944,306
 2003,Delaware,DE,adm_new_commit,1272,142
 2003,Delaware,DE,adm_viol_new,544,112
-2003,Delaware,DE,adm_viol_tech,0,0
+2003,Delaware,DE,adm_viol_tech,NA,NA
 2003,Delaware,DE,adm_oth,127,52
 2004,Delaware,DE,adm_total,1535,205
 2004,Delaware,DE,adm_new_commit,1028,106
@@ -1717,7 +1717,7 @@ year,state_name,state_abbr,adm_type,m,f
 2006,Delaware,DE,adm_total,1381,175
 2006,Delaware,DE,adm_new_commit,1029,81
 2006,Delaware,DE,adm_viol_new,318,84
-2006,Delaware,DE,adm_viol_tech,0,0
+2006,Delaware,DE,adm_viol_tech,NA,NA
 2006,Delaware,DE,adm_oth,34,10
 2007,Delaware,DE,adm_total,1687,224
 2007,Delaware,DE,adm_new_commit,1267,119
@@ -1832,32 +1832,32 @@ year,state_name,state_abbr,adm_type,m,f
 1984,District of Columbia,DC,adm_total,2426,197
 1984,District of Columbia,DC,adm_new_commit,1278,127
 1984,District of Columbia,DC,adm_viol_new,270,11
-1984,District of Columbia,DC,adm_viol_tech,78,0
+1984,District of Columbia,DC,adm_viol_tech,78,NA
 1984,District of Columbia,DC,adm_oth,800,59
 1985,District of Columbia,DC,adm_total,3263,187
 1985,District of Columbia,DC,adm_new_commit,1554,108
 1985,District of Columbia,DC,adm_viol_new,420,16
-1985,District of Columbia,DC,adm_viol_tech,143,0
+1985,District of Columbia,DC,adm_viol_tech,143,NA
 1985,District of Columbia,DC,adm_oth,1146,63
 1986,District of Columbia,DC,adm_total,3144,161
 1986,District of Columbia,DC,adm_new_commit,1410,91
 1986,District of Columbia,DC,adm_viol_new,440,15
-1986,District of Columbia,DC,adm_viol_tech,177,0
+1986,District of Columbia,DC,adm_viol_tech,177,NA
 1986,District of Columbia,DC,adm_oth,1117,55
 1987,District of Columbia,DC,adm_total,3835,261
 1987,District of Columbia,DC,adm_new_commit,1818,160
 1987,District of Columbia,DC,adm_viol_new,600,24
-1987,District of Columbia,DC,adm_viol_tech,233,0
+1987,District of Columbia,DC,adm_viol_tech,233,NA
 1987,District of Columbia,DC,adm_oth,1184,77
 1988,District of Columbia,DC,adm_total,5227,251
 1988,District of Columbia,DC,adm_new_commit,1749,127
 1988,District of Columbia,DC,adm_viol_new,1231,71
-1988,District of Columbia,DC,adm_viol_tech,478,0
+1988,District of Columbia,DC,adm_viol_tech,478,NA
 1988,District of Columbia,DC,adm_oth,1769,53
 1989,District of Columbia,DC,adm_total,5271,267
 1989,District of Columbia,DC,adm_new_commit,1565,136
 1989,District of Columbia,DC,adm_viol_new,1280,74
-1989,District of Columbia,DC,adm_viol_tech,507,0
+1989,District of Columbia,DC,adm_viol_tech,507,NA
 1989,District of Columbia,DC,adm_oth,1919,57
 1990,District of Columbia,DC,adm_total,5848,258
 1990,District of Columbia,DC,adm_new_commit,1046,91
@@ -1867,27 +1867,27 @@ year,state_name,state_abbr,adm_type,m,f
 1991,District of Columbia,DC,adm_total,6214,261
 1991,District of Columbia,DC,adm_new_commit,976,85
 1991,District of Columbia,DC,adm_viol_new,1601,98
-1991,District of Columbia,DC,adm_viol_tech,638,0
+1991,District of Columbia,DC,adm_viol_tech,638,NA
 1991,District of Columbia,DC,adm_oth,2999,78
 1992,District of Columbia,DC,adm_total,7279,303
 1992,District of Columbia,DC,adm_new_commit,828,72
 1992,District of Columbia,DC,adm_viol_new,1602,100
-1992,District of Columbia,DC,adm_viol_tech,643,0
+1992,District of Columbia,DC,adm_viol_tech,643,NA
 1992,District of Columbia,DC,adm_oth,4206,131
 1993,District of Columbia,DC,adm_total,7176,283
 1993,District of Columbia,DC,adm_new_commit,581,70
 1993,District of Columbia,DC,adm_viol_new,1170,93
-1993,District of Columbia,DC,adm_viol_tech,482,0
+1993,District of Columbia,DC,adm_viol_tech,482,NA
 1993,District of Columbia,DC,adm_oth,4943,120
 1994,District of Columbia,DC,adm_total,8341,305
 1994,District of Columbia,DC,adm_new_commit,803,60
 1994,District of Columbia,DC,adm_viol_new,1616,85
-1994,District of Columbia,DC,adm_viol_tech,669,0
+1994,District of Columbia,DC,adm_viol_tech,669,NA
 1994,District of Columbia,DC,adm_oth,5253,160
 1995,District of Columbia,DC,adm_total,4436,277
 1995,District of Columbia,DC,adm_new_commit,3143,237
 1995,District of Columbia,DC,adm_viol_new,676,16
-1995,District of Columbia,DC,adm_viol_tech,0,0
+1995,District of Columbia,DC,adm_viol_tech,NA,NA
 1995,District of Columbia,DC,adm_oth,625,24
 1996,District of Columbia,DC,adm_total,6223,483
 1996,District of Columbia,DC,adm_new_commit,3021,283
@@ -1907,7 +1907,7 @@ year,state_name,state_abbr,adm_type,m,f
 1999,District of Columbia,DC,adm_total,5774,194
 1999,District of Columbia,DC,adm_new_commit,926,89
 1999,District of Columbia,DC,adm_viol_new,970,63
-1999,District of Columbia,DC,adm_viol_tech,0,0
+1999,District of Columbia,DC,adm_viol_tech,NA,NA
 1999,District of Columbia,DC,adm_oth,3669,42
 2000,District of Columbia,DC,adm_total,3079,219
 2000,District of Columbia,DC,adm_new_commit,782,86
@@ -1916,114 +1916,114 @@ year,state_name,state_abbr,adm_type,m,f
 2000,District of Columbia,DC,adm_oth,1619,56
 2001,District of Columbia,DC,adm_total,NA,NA
 2001,District of Columbia,DC,adm_new_commit,NA,NA
-2001,District of Columbia,DC,adm_viol_new,0,0
-2001,District of Columbia,DC,adm_viol_tech,0,0
-2001,District of Columbia,DC,adm_oth,0,0
+2001,District of Columbia,DC,adm_viol_new,NA,NA
+2001,District of Columbia,DC,adm_viol_tech,NA,NA
+2001,District of Columbia,DC,adm_oth,NA,NA
 2002,District of Columbia,DC,adm_total,NA,NA
 2002,District of Columbia,DC,adm_new_commit,NA,NA
-2002,District of Columbia,DC,adm_viol_new,0,0
-2002,District of Columbia,DC,adm_viol_tech,0,0
-2002,District of Columbia,DC,adm_oth,0,0
+2002,District of Columbia,DC,adm_viol_new,NA,NA
+2002,District of Columbia,DC,adm_viol_tech,NA,NA
+2002,District of Columbia,DC,adm_oth,NA,NA
 2003,District of Columbia,DC,adm_total,NA,NA
 2003,District of Columbia,DC,adm_new_commit,NA,NA
-2003,District of Columbia,DC,adm_viol_new,0,0
-2003,District of Columbia,DC,adm_viol_tech,0,0
-2003,District of Columbia,DC,adm_oth,0,0
+2003,District of Columbia,DC,adm_viol_new,NA,NA
+2003,District of Columbia,DC,adm_viol_tech,NA,NA
+2003,District of Columbia,DC,adm_oth,NA,NA
 2004,District of Columbia,DC,adm_total,NA,NA
 2004,District of Columbia,DC,adm_new_commit,NA,NA
-2004,District of Columbia,DC,adm_viol_new,0,0
-2004,District of Columbia,DC,adm_viol_tech,0,0
-2004,District of Columbia,DC,adm_oth,0,0
+2004,District of Columbia,DC,adm_viol_new,NA,NA
+2004,District of Columbia,DC,adm_viol_tech,NA,NA
+2004,District of Columbia,DC,adm_oth,NA,NA
 2005,District of Columbia,DC,adm_total,NA,NA
 2005,District of Columbia,DC,adm_new_commit,NA,NA
-2005,District of Columbia,DC,adm_viol_new,0,0
-2005,District of Columbia,DC,adm_viol_tech,0,0
-2005,District of Columbia,DC,adm_oth,0,0
+2005,District of Columbia,DC,adm_viol_new,NA,NA
+2005,District of Columbia,DC,adm_viol_tech,NA,NA
+2005,District of Columbia,DC,adm_oth,NA,NA
 2006,District of Columbia,DC,adm_total,NA,NA
 2006,District of Columbia,DC,adm_new_commit,NA,NA
-2006,District of Columbia,DC,adm_viol_new,0,0
-2006,District of Columbia,DC,adm_viol_tech,0,0
-2006,District of Columbia,DC,adm_oth,0,0
+2006,District of Columbia,DC,adm_viol_new,NA,NA
+2006,District of Columbia,DC,adm_viol_tech,NA,NA
+2006,District of Columbia,DC,adm_oth,NA,NA
 2007,District of Columbia,DC,adm_total,NA,NA
 2007,District of Columbia,DC,adm_new_commit,NA,NA
-2007,District of Columbia,DC,adm_viol_new,0,0
-2007,District of Columbia,DC,adm_viol_tech,0,0
-2007,District of Columbia,DC,adm_oth,0,0
+2007,District of Columbia,DC,adm_viol_new,NA,NA
+2007,District of Columbia,DC,adm_viol_tech,NA,NA
+2007,District of Columbia,DC,adm_oth,NA,NA
 2008,District of Columbia,DC,adm_total,NA,NA
 2008,District of Columbia,DC,adm_new_commit,NA,NA
-2008,District of Columbia,DC,adm_viol_new,0,0
-2008,District of Columbia,DC,adm_viol_tech,0,0
-2008,District of Columbia,DC,adm_oth,0,0
+2008,District of Columbia,DC,adm_viol_new,NA,NA
+2008,District of Columbia,DC,adm_viol_tech,NA,NA
+2008,District of Columbia,DC,adm_oth,NA,NA
 2009,District of Columbia,DC,adm_total,NA,NA
 2009,District of Columbia,DC,adm_new_commit,NA,NA
-2009,District of Columbia,DC,adm_viol_new,0,0
-2009,District of Columbia,DC,adm_viol_tech,0,0
-2009,District of Columbia,DC,adm_oth,0,0
+2009,District of Columbia,DC,adm_viol_new,NA,NA
+2009,District of Columbia,DC,adm_viol_tech,NA,NA
+2009,District of Columbia,DC,adm_oth,NA,NA
 2010,District of Columbia,DC,adm_total,NA,NA
 2010,District of Columbia,DC,adm_new_commit,NA,NA
-2010,District of Columbia,DC,adm_viol_new,0,0
-2010,District of Columbia,DC,adm_viol_tech,0,0
-2010,District of Columbia,DC,adm_oth,0,0
+2010,District of Columbia,DC,adm_viol_new,NA,NA
+2010,District of Columbia,DC,adm_viol_tech,NA,NA
+2010,District of Columbia,DC,adm_oth,NA,NA
 2011,District of Columbia,DC,adm_total,NA,NA
 2011,District of Columbia,DC,adm_new_commit,NA,NA
-2011,District of Columbia,DC,adm_viol_new,0,0
-2011,District of Columbia,DC,adm_viol_tech,0,0
-2011,District of Columbia,DC,adm_oth,0,0
+2011,District of Columbia,DC,adm_viol_new,NA,NA
+2011,District of Columbia,DC,adm_viol_tech,NA,NA
+2011,District of Columbia,DC,adm_oth,NA,NA
 2012,District of Columbia,DC,adm_total,NA,NA
 2012,District of Columbia,DC,adm_new_commit,NA,NA
-2012,District of Columbia,DC,adm_viol_new,0,0
-2012,District of Columbia,DC,adm_viol_tech,0,0
-2012,District of Columbia,DC,adm_oth,0,0
+2012,District of Columbia,DC,adm_viol_new,NA,NA
+2012,District of Columbia,DC,adm_viol_tech,NA,NA
+2012,District of Columbia,DC,adm_oth,NA,NA
 2013,District of Columbia,DC,adm_total,NA,NA
 2013,District of Columbia,DC,adm_new_commit,NA,NA
-2013,District of Columbia,DC,adm_viol_new,0,0
-2013,District of Columbia,DC,adm_viol_tech,0,0
-2013,District of Columbia,DC,adm_oth,0,0
+2013,District of Columbia,DC,adm_viol_new,NA,NA
+2013,District of Columbia,DC,adm_viol_tech,NA,NA
+2013,District of Columbia,DC,adm_oth,NA,NA
 2014,District of Columbia,DC,adm_total,NA,NA
 2014,District of Columbia,DC,adm_new_commit,NA,NA
-2014,District of Columbia,DC,adm_viol_new,0,0
-2014,District of Columbia,DC,adm_viol_tech,0,0
-2014,District of Columbia,DC,adm_oth,0,0
+2014,District of Columbia,DC,adm_viol_new,NA,NA
+2014,District of Columbia,DC,adm_viol_tech,NA,NA
+2014,District of Columbia,DC,adm_oth,NA,NA
 2015,District of Columbia,DC,adm_total,NA,NA
 2015,District of Columbia,DC,adm_new_commit,NA,NA
-2015,District of Columbia,DC,adm_viol_new,0,0
-2015,District of Columbia,DC,adm_viol_tech,0,0
-2015,District of Columbia,DC,adm_oth,0,0
+2015,District of Columbia,DC,adm_viol_new,NA,NA
+2015,District of Columbia,DC,adm_viol_tech,NA,NA
+2015,District of Columbia,DC,adm_oth,NA,NA
 2016,District of Columbia,DC,adm_total,NA,NA
 2016,District of Columbia,DC,adm_new_commit,NA,NA
-2016,District of Columbia,DC,adm_viol_new,0,0
-2016,District of Columbia,DC,adm_viol_tech,0,0
-2016,District of Columbia,DC,adm_oth,0,0
+2016,District of Columbia,DC,adm_viol_new,NA,NA
+2016,District of Columbia,DC,adm_viol_tech,NA,NA
+2016,District of Columbia,DC,adm_oth,NA,NA
 2017,District of Columbia,DC,adm_total,NA,NA
 2017,District of Columbia,DC,adm_new_commit,NA,NA
-2017,District of Columbia,DC,adm_viol_new,0,0
-2017,District of Columbia,DC,adm_viol_tech,0,0
-2017,District of Columbia,DC,adm_oth,0,0
+2017,District of Columbia,DC,adm_viol_new,NA,NA
+2017,District of Columbia,DC,adm_viol_tech,NA,NA
+2017,District of Columbia,DC,adm_oth,NA,NA
 2018,District of Columbia,DC,adm_total,NA,NA
 2018,District of Columbia,DC,adm_new_commit,NA,NA
-2018,District of Columbia,DC,adm_viol_new,0,0
-2018,District of Columbia,DC,adm_viol_tech,0,0
-2018,District of Columbia,DC,adm_oth,0,0
+2018,District of Columbia,DC,adm_viol_new,NA,NA
+2018,District of Columbia,DC,adm_viol_tech,NA,NA
+2018,District of Columbia,DC,adm_oth,NA,NA
 2019,District of Columbia,DC,adm_total,NA,NA
 2019,District of Columbia,DC,adm_new_commit,NA,NA
-2019,District of Columbia,DC,adm_viol_new,0,0
-2019,District of Columbia,DC,adm_viol_tech,0,0
-2019,District of Columbia,DC,adm_oth,0,0
+2019,District of Columbia,DC,adm_viol_new,NA,NA
+2019,District of Columbia,DC,adm_viol_tech,NA,NA
+2019,District of Columbia,DC,adm_oth,NA,NA
 2020,District of Columbia,DC,adm_total,NA,NA
 2020,District of Columbia,DC,adm_new_commit,NA,NA
-2020,District of Columbia,DC,adm_viol_new,0,0
-2020,District of Columbia,DC,adm_viol_tech,0,0
-2020,District of Columbia,DC,adm_oth,0,0
+2020,District of Columbia,DC,adm_viol_new,NA,NA
+2020,District of Columbia,DC,adm_viol_tech,NA,NA
+2020,District of Columbia,DC,adm_oth,NA,NA
 2021,District of Columbia,DC,adm_total,NA,NA
 2021,District of Columbia,DC,adm_new_commit,NA,NA
-2021,District of Columbia,DC,adm_viol_new,0,0
-2021,District of Columbia,DC,adm_viol_tech,0,0
-2021,District of Columbia,DC,adm_oth,0,0
+2021,District of Columbia,DC,adm_viol_new,NA,NA
+2021,District of Columbia,DC,adm_viol_tech,NA,NA
+2021,District of Columbia,DC,adm_oth,NA,NA
 2022,District of Columbia,DC,adm_total,NA,NA
 2022,District of Columbia,DC,adm_new_commit,NA,NA
-2022,District of Columbia,DC,adm_viol_new,0,0
-2022,District of Columbia,DC,adm_viol_tech,0,0
-2022,District of Columbia,DC,adm_oth,0,0
+2022,District of Columbia,DC,adm_viol_new,NA,NA
+2022,District of Columbia,DC,adm_viol_tech,NA,NA
+2022,District of Columbia,DC,adm_oth,NA,NA
 1978,Florida,FL,adm_total,8479,409
 1978,Florida,FL,adm_new_commit,6078,293
 1978,Florida,FL,adm_viol_new,473,23
@@ -2182,7 +2182,7 @@ year,state_name,state_abbr,adm_type,m,f
 2009,Florida,FL,adm_total,33906,4157
 2009,Florida,FL,adm_new_commit,33100,4051
 2009,Florida,FL,adm_viol_new,119,2
-2009,Florida,FL,adm_viol_tech,0,0
+2009,Florida,FL,adm_viol_tech,NA,NA
 2009,Florida,FL,adm_oth,678,104
 2010,Florida,FL,adm_total,28988,3828
 2010,Florida,FL,adm_new_commit,28247,3739
@@ -2277,27 +2277,27 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Georgia,GA,adm_total,9324,697
 1983,Georgia,GA,adm_new_commit,7861,624
 1983,Georgia,GA,adm_viol_new,1214,44
-1983,Georgia,GA,adm_viol_tech,0,0
+1983,Georgia,GA,adm_viol_tech,NA,NA
 1983,Georgia,GA,adm_oth,249,29
 1984,Georgia,GA,adm_total,9116,625
 1984,Georgia,GA,adm_new_commit,7244,532
 1984,Georgia,GA,adm_viol_new,1671,70
-1984,Georgia,GA,adm_viol_tech,0,0
+1984,Georgia,GA,adm_viol_tech,NA,NA
 1984,Georgia,GA,adm_oth,201,23
 1985,Georgia,GA,adm_total,9225,672
 1985,Georgia,GA,adm_new_commit,7283,575
 1985,Georgia,GA,adm_viol_new,1743,73
-1985,Georgia,GA,adm_viol_tech,0,0
+1985,Georgia,GA,adm_viol_tech,NA,NA
 1985,Georgia,GA,adm_oth,199,24
 1986,Georgia,GA,adm_total,9829,743
 1986,Georgia,GA,adm_new_commit,7818,627
 1986,Georgia,GA,adm_viol_new,1886,99
-1986,Georgia,GA,adm_viol_tech,0,0
+1986,Georgia,GA,adm_viol_tech,NA,NA
 1986,Georgia,GA,adm_oth,125,17
 1987,Georgia,GA,adm_total,11833,932
 1987,Georgia,GA,adm_new_commit,9416,782
 1987,Georgia,GA,adm_viol_new,2244,125
-1987,Georgia,GA,adm_viol_tech,0,0
+1987,Georgia,GA,adm_viol_tech,NA,NA
 1987,Georgia,GA,adm_oth,173,25
 1988,Georgia,GA,adm_total,9866,769
 1988,Georgia,GA,adm_new_commit,7497,632
@@ -2801,8 +2801,8 @@ year,state_name,state_abbr,adm_type,m,f
 1997,Idaho,ID,adm_oth,10,0
 1998,Idaho,ID,adm_total,2242,379
 1998,Idaho,ID,adm_new_commit,1211,120
-1998,Idaho,ID,adm_viol_new,0,0
-1998,Idaho,ID,adm_viol_tech,0,0
+1998,Idaho,ID,adm_viol_new,NA,NA
+1998,Idaho,ID,adm_viol_tech,NA,NA
 1998,Idaho,ID,adm_oth,1031,259
 1999,Idaho,ID,adm_total,1972,365
 1999,Idaho,ID,adm_new_commit,1195,198
@@ -2842,22 +2842,22 @@ year,state_name,state_abbr,adm_type,m,f
 2006,Idaho,ID,adm_total,3430,711
 2006,Idaho,ID,adm_new_commit,3199,672
 2006,Idaho,ID,adm_viol_new,219,39
-2006,Idaho,ID,adm_viol_tech,0,0
+2006,Idaho,ID,adm_viol_tech,NA,NA
 2006,Idaho,ID,adm_oth,0,0
 2007,Idaho,ID,adm_total,3421,642
 2007,Idaho,ID,adm_new_commit,3199,616
 2007,Idaho,ID,adm_viol_new,214,26
-2007,Idaho,ID,adm_viol_tech,0,0
+2007,Idaho,ID,adm_viol_tech,NA,NA
 2007,Idaho,ID,adm_oth,0,0
 2008,Idaho,ID,adm_total,3286,593
 2008,Idaho,ID,adm_new_commit,3016,568
 2008,Idaho,ID,adm_viol_new,258,25
-2008,Idaho,ID,adm_viol_tech,0,0
+2008,Idaho,ID,adm_viol_tech,NA,NA
 2008,Idaho,ID,adm_oth,0,0
 2009,Idaho,ID,adm_total,3301,569
 2009,Idaho,ID,adm_new_commit,2971,535
 2009,Idaho,ID,adm_viol_new,319,32
-2009,Idaho,ID,adm_viol_tech,0,0
+2009,Idaho,ID,adm_viol_tech,NA,NA
 2009,Idaho,ID,adm_oth,2,2
 2010,Idaho,ID,adm_total,3607,701
 2010,Idaho,ID,adm_new_commit,3357,664
@@ -3177,47 +3177,47 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Indiana,IN,adm_total,4334,303
 1983,Indiana,IN,adm_new_commit,4044,299
 1983,Indiana,IN,adm_viol_new,177,1
-1983,Indiana,IN,adm_viol_tech,0,0
+1983,Indiana,IN,adm_viol_tech,NA,NA
 1983,Indiana,IN,adm_oth,113,3
 1984,Indiana,IN,adm_total,3880,271
 1984,Indiana,IN,adm_new_commit,3661,258
 1984,Indiana,IN,adm_viol_new,141,6
-1984,Indiana,IN,adm_viol_tech,0,0
+1984,Indiana,IN,adm_viol_tech,NA,NA
 1984,Indiana,IN,adm_oth,78,7
 1985,Indiana,IN,adm_total,4081,323
 1985,Indiana,IN,adm_new_commit,3835,300
 1985,Indiana,IN,adm_viol_new,175,8
-1985,Indiana,IN,adm_viol_tech,0,0
+1985,Indiana,IN,adm_viol_tech,NA,NA
 1985,Indiana,IN,adm_oth,71,15
 1986,Indiana,IN,adm_total,4214,299
 1986,Indiana,IN,adm_new_commit,3997,283
 1986,Indiana,IN,adm_viol_new,146,5
-1986,Indiana,IN,adm_viol_tech,0,0
+1986,Indiana,IN,adm_viol_tech,NA,NA
 1986,Indiana,IN,adm_oth,71,11
 1987,Indiana,IN,adm_total,4473,352
 1987,Indiana,IN,adm_new_commit,4224,329
 1987,Indiana,IN,adm_viol_new,172,17
-1987,Indiana,IN,adm_viol_tech,0,0
+1987,Indiana,IN,adm_viol_tech,NA,NA
 1987,Indiana,IN,adm_oth,77,6
 1988,Indiana,IN,adm_total,4822,365
 1988,Indiana,IN,adm_new_commit,4509,333
 1988,Indiana,IN,adm_viol_new,252,20
-1988,Indiana,IN,adm_viol_tech,0,0
+1988,Indiana,IN,adm_viol_tech,NA,NA
 1988,Indiana,IN,adm_oth,61,12
 1989,Indiana,IN,adm_total,4863,441
 1989,Indiana,IN,adm_new_commit,4490,409
 1989,Indiana,IN,adm_viol_new,321,25
-1989,Indiana,IN,adm_viol_tech,0,0
+1989,Indiana,IN,adm_viol_tech,NA,NA
 1989,Indiana,IN,adm_oth,52,7
 1990,Indiana,IN,adm_total,4783,465
 1990,Indiana,IN,adm_new_commit,4520,432
 1990,Indiana,IN,adm_viol_new,243,32
-1990,Indiana,IN,adm_viol_tech,0,0
+1990,Indiana,IN,adm_viol_tech,NA,NA
 1990,Indiana,IN,adm_oth,20,1
 1991,Indiana,IN,adm_total,5437,490
 1991,Indiana,IN,adm_new_commit,5045,458
 1991,Indiana,IN,adm_viol_new,381,28
-1991,Indiana,IN,adm_viol_tech,0,0
+1991,Indiana,IN,adm_viol_tech,NA,NA
 1991,Indiana,IN,adm_oth,11,4
 1992,Indiana,IN,adm_total,6007,515
 1992,Indiana,IN,adm_new_commit,5464,480
@@ -3522,12 +3522,12 @@ year,state_name,state_abbr,adm_type,m,f
 2007,Iowa,IA,adm_total,4999,733
 2007,Iowa,IA,adm_new_commit,2869,428
 2007,Iowa,IA,adm_viol_new,759,80
-2007,Iowa,IA,adm_viol_tech,0,0
+2007,Iowa,IA,adm_viol_tech,NA,NA
 2007,Iowa,IA,adm_oth,1370,225
 2008,Iowa,IA,adm_total,4836,761
 2008,Iowa,IA,adm_new_commit,2703,370
 2008,Iowa,IA,adm_viol_new,1094,191
-2008,Iowa,IA,adm_viol_tech,0,0
+2008,Iowa,IA,adm_viol_tech,NA,NA
 2008,Iowa,IA,adm_oth,1038,200
 2009,Iowa,IA,adm_total,3896,481
 2009,Iowa,IA,adm_new_commit,2671,331
@@ -4751,47 +4751,47 @@ year,state_name,state_abbr,adm_type,m,f
 1982,Massachusetts,MA,adm_oth,378,22
 1983,Massachusetts,MA,adm_total,2146,397
 1983,Massachusetts,MA,adm_new_commit,1342,349
-1983,Massachusetts,MA,adm_viol_new,0,0
+1983,Massachusetts,MA,adm_viol_new,NA,NA
 1983,Massachusetts,MA,adm_viol_tech,363,25
 1983,Massachusetts,MA,adm_oth,441,23
 1984,Massachusetts,MA,adm_total,2636,384
 1984,Massachusetts,MA,adm_new_commit,1423,348
-1984,Massachusetts,MA,adm_viol_new,0,0
+1984,Massachusetts,MA,adm_viol_new,NA,NA
 1984,Massachusetts,MA,adm_viol_tech,499,15
 1984,Massachusetts,MA,adm_oth,714,21
 1985,Massachusetts,MA,adm_total,2996,309
 1985,Massachusetts,MA,adm_new_commit,1542,281
-1985,Massachusetts,MA,adm_viol_new,0,0
+1985,Massachusetts,MA,adm_viol_new,NA,NA
 1985,Massachusetts,MA,adm_viol_tech,636,17
 1985,Massachusetts,MA,adm_oth,818,11
 1986,Massachusetts,MA,adm_total,3456,188
 1986,Massachusetts,MA,adm_new_commit,1638,173
-1986,Massachusetts,MA,adm_viol_new,0,0
+1986,Massachusetts,MA,adm_viol_new,NA,NA
 1986,Massachusetts,MA,adm_viol_tech,796,10
 1986,Massachusetts,MA,adm_oth,1022,5
 1987,Massachusetts,MA,adm_total,3757,256
 1987,Massachusetts,MA,adm_new_commit,1891,234
-1987,Massachusetts,MA,adm_viol_new,0,0
+1987,Massachusetts,MA,adm_viol_new,NA,NA
 1987,Massachusetts,MA,adm_viol_tech,939,14
 1987,Massachusetts,MA,adm_oth,927,8
 1988,Massachusetts,MA,adm_total,4103,264
 1988,Massachusetts,MA,adm_new_commit,1903,238
-1988,Massachusetts,MA,adm_viol_new,0,0
+1988,Massachusetts,MA,adm_viol_new,NA,NA
 1988,Massachusetts,MA,adm_viol_tech,1159,14
 1988,Massachusetts,MA,adm_oth,1041,12
 1989,Massachusetts,MA,adm_total,4644,358
 1989,Massachusetts,MA,adm_new_commit,2522,322
-1989,Massachusetts,MA,adm_viol_new,0,0
+1989,Massachusetts,MA,adm_viol_new,NA,NA
 1989,Massachusetts,MA,adm_viol_tech,1078,21
 1989,Massachusetts,MA,adm_oth,1044,15
 1990,Massachusetts,MA,adm_total,4925,386
 1990,Massachusetts,MA,adm_new_commit,2552,345
-1990,Massachusetts,MA,adm_viol_new,0,0
+1990,Massachusetts,MA,adm_viol_new,NA,NA
 1990,Massachusetts,MA,adm_viol_tech,1298,29
 1990,Massachusetts,MA,adm_oth,1075,12
 1991,Massachusetts,MA,adm_total,5051,434
 1991,Massachusetts,MA,adm_new_commit,2407,298
-1991,Massachusetts,MA,adm_viol_new,0,0
+1991,Massachusetts,MA,adm_viol_new,NA,NA
 1991,Massachusetts,MA,adm_viol_tech,1439,97
 1991,Massachusetts,MA,adm_oth,1205,39
 1992,Massachusetts,MA,adm_total,5069,333
@@ -4866,22 +4866,22 @@ year,state_name,state_abbr,adm_type,m,f
 2005,Massachusetts,MA,adm_oth,27,8
 2006,Massachusetts,MA,adm_total,2373,336
 2006,Massachusetts,MA,adm_new_commit,2123,295
-2006,Massachusetts,MA,adm_viol_new,0,0
+2006,Massachusetts,MA,adm_viol_new,NA,NA
 2006,Massachusetts,MA,adm_viol_tech,232,36
 2006,Massachusetts,MA,adm_oth,12,5
 2007,Massachusetts,MA,adm_total,2407,297
 2007,Massachusetts,MA,adm_new_commit,2174,250
-2007,Massachusetts,MA,adm_viol_new,0,0
+2007,Massachusetts,MA,adm_viol_new,NA,NA
 2007,Massachusetts,MA,adm_viol_tech,206,40
 2007,Massachusetts,MA,adm_oth,25,7
 2008,Massachusetts,MA,adm_total,2641,378
 2008,Massachusetts,MA,adm_new_commit,2352,326
-2008,Massachusetts,MA,adm_viol_new,0,0
+2008,Massachusetts,MA,adm_viol_new,NA,NA
 2008,Massachusetts,MA,adm_viol_tech,265,45
 2008,Massachusetts,MA,adm_oth,24,7
 2009,Massachusetts,MA,adm_total,2518,330
 2009,Massachusetts,MA,adm_new_commit,2114,299
-2009,Massachusetts,MA,adm_viol_new,0,0
+2009,Massachusetts,MA,adm_viol_new,NA,NA
 2009,Massachusetts,MA,adm_viol_tech,348,28
 2009,Massachusetts,MA,adm_oth,52,3
 2010,Massachusetts,MA,adm_total,2559,370
@@ -5656,22 +5656,22 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Missouri,MO,adm_oth,247,0
 1984,Missouri,MO,adm_total,4103,190
 1984,Missouri,MO,adm_new_commit,2998,158
-1984,Missouri,MO,adm_viol_new,0,0
+1984,Missouri,MO,adm_viol_new,NA,NA
 1984,Missouri,MO,adm_viol_tech,836,30
 1984,Missouri,MO,adm_oth,269,2
 1985,Missouri,MO,adm_total,4517,264
 1985,Missouri,MO,adm_new_commit,3187,210
-1985,Missouri,MO,adm_viol_new,0,0
+1985,Missouri,MO,adm_viol_new,NA,NA
 1985,Missouri,MO,adm_viol_tech,1057,41
 1985,Missouri,MO,adm_oth,273,13
 1986,Missouri,MO,adm_total,5048,359
 1986,Missouri,MO,adm_new_commit,3615,283
-1986,Missouri,MO,adm_viol_new,0,0
+1986,Missouri,MO,adm_viol_new,NA,NA
 1986,Missouri,MO,adm_viol_tech,1080,50
 1986,Missouri,MO,adm_oth,353,26
 1987,Missouri,MO,adm_total,5680,432
 1987,Missouri,MO,adm_new_commit,4079,345
-1987,Missouri,MO,adm_viol_new,0,0
+1987,Missouri,MO,adm_viol_new,NA,NA
 1987,Missouri,MO,adm_viol_tech,1233,51
 1987,Missouri,MO,adm_oth,368,36
 1988,Missouri,MO,adm_total,6196,509
@@ -5876,22 +5876,22 @@ year,state_name,state_abbr,adm_type,m,f
 1982,Montana,MT,adm_oth,33,3
 1983,Montana,MT,adm_total,434,21
 1983,Montana,MT,adm_new_commit,323,20
-1983,Montana,MT,adm_viol_new,0,0
+1983,Montana,MT,adm_viol_new,NA,0
 1983,Montana,MT,adm_viol_tech,85,1
 1983,Montana,MT,adm_oth,26,0
 1984,Montana,MT,adm_total,498,30
 1984,Montana,MT,adm_new_commit,366,21
-1984,Montana,MT,adm_viol_new,0,0
+1984,Montana,MT,adm_viol_new,NA,NA
 1984,Montana,MT,adm_viol_tech,107,7
 1984,Montana,MT,adm_oth,25,2
 1985,Montana,MT,adm_total,519,36
 1985,Montana,MT,adm_new_commit,362,18
-1985,Montana,MT,adm_viol_new,27,0
+1985,Montana,MT,adm_viol_new,27,NA
 1985,Montana,MT,adm_viol_tech,98,14
 1985,Montana,MT,adm_oth,32,4
 1986,Montana,MT,adm_total,527,32
 1986,Montana,MT,adm_new_commit,411,20
-1986,Montana,MT,adm_viol_new,5,0
+1986,Montana,MT,adm_viol_new,5,NA
 1986,Montana,MT,adm_viol_tech,84,12
 1986,Montana,MT,adm_oth,27,0
 1987,Montana,MT,adm_total,579,41
@@ -6381,12 +6381,12 @@ year,state_name,state_abbr,adm_type,m,f
 1993,Nevada,NV,adm_oth,51,17
 1994,Nevada,NV,adm_total,3355,346
 1994,Nevada,NV,adm_new_commit,2672,292
-1994,Nevada,NV,adm_viol_new,0,0
+1994,Nevada,NV,adm_viol_new,NA,NA
 1994,Nevada,NV,adm_viol_tech,569,43
 1994,Nevada,NV,adm_oth,114,11
 1995,Nevada,NV,adm_total,3490,430
 1995,Nevada,NV,adm_new_commit,2745,365
-1995,Nevada,NV,adm_viol_new,0,0
+1995,Nevada,NV,adm_viol_new,NA,NA
 1995,Nevada,NV,adm_viol_tech,603,39
 1995,Nevada,NV,adm_oth,142,26
 1996,Nevada,NV,adm_total,3835,437
@@ -6431,7 +6431,7 @@ year,state_name,state_abbr,adm_type,m,f
 2003,Nevada,NV,adm_oth,261,26
 2004,Nevada,NV,adm_total,6173,733
 2004,Nevada,NV,adm_new_commit,4937,648
-2004,Nevada,NV,adm_viol_new,0,0
+2004,Nevada,NV,adm_viol_new,NA,NA
 2004,Nevada,NV,adm_viol_tech,885,78
 2004,Nevada,NV,adm_oth,335,7
 2005,Nevada,NV,adm_total,4996,678
@@ -6551,82 +6551,82 @@ year,state_name,state_abbr,adm_type,m,f
 1982,New Hampshire,NH,adm_oth,15,0
 1983,New Hampshire,NH,adm_total,275,9
 1983,New Hampshire,NH,adm_new_commit,225,8
-1983,New Hampshire,NH,adm_viol_new,0,0
+1983,New Hampshire,NH,adm_viol_new,NA,NA
 1983,New Hampshire,NH,adm_viol_tech,33,0
 1983,New Hampshire,NH,adm_oth,17,1
 1984,New Hampshire,NH,adm_total,295,9
 1984,New Hampshire,NH,adm_new_commit,220,9
-1984,New Hampshire,NH,adm_viol_new,0,0
+1984,New Hampshire,NH,adm_viol_new,NA,NA
 1984,New Hampshire,NH,adm_viol_tech,56,0
 1984,New Hampshire,NH,adm_oth,19,0
 1985,New Hampshire,NH,adm_total,329,11
 1985,New Hampshire,NH,adm_new_commit,245,9
-1985,New Hampshire,NH,adm_viol_new,0,0
+1985,New Hampshire,NH,adm_viol_new,NA,NA
 1985,New Hampshire,NH,adm_viol_tech,75,1
 1985,New Hampshire,NH,adm_oth,9,1
 1986,New Hampshire,NH,adm_total,396,11
 1986,New Hampshire,NH,adm_new_commit,308,9
-1986,New Hampshire,NH,adm_viol_new,0,0
+1986,New Hampshire,NH,adm_viol_new,NA,NA
 1986,New Hampshire,NH,adm_viol_tech,77,2
 1986,New Hampshire,NH,adm_oth,11,0
 1987,New Hampshire,NH,adm_total,423,12
 1987,New Hampshire,NH,adm_new_commit,301,6
-1987,New Hampshire,NH,adm_viol_new,0,0
+1987,New Hampshire,NH,adm_viol_new,NA,NA
 1987,New Hampshire,NH,adm_viol_tech,114,6
 1987,New Hampshire,NH,adm_oth,8,0
 1988,New Hampshire,NH,adm_total,495,17
 1988,New Hampshire,NH,adm_new_commit,398,15
-1988,New Hampshire,NH,adm_viol_new,0,0
+1988,New Hampshire,NH,adm_viol_new,NA,NA
 1988,New Hampshire,NH,adm_viol_tech,94,2
 1988,New Hampshire,NH,adm_oth,3,0
 1989,New Hampshire,NH,adm_total,546,31
 1989,New Hampshire,NH,adm_new_commit,413,25
-1989,New Hampshire,NH,adm_viol_new,0,0
+1989,New Hampshire,NH,adm_viol_new,NA,NA
 1989,New Hampshire,NH,adm_viol_tech,124,5
 1989,New Hampshire,NH,adm_oth,9,1
 1990,New Hampshire,NH,adm_total,654,27
 1990,New Hampshire,NH,adm_new_commit,515,23
-1990,New Hampshire,NH,adm_viol_new,0,0
+1990,New Hampshire,NH,adm_viol_new,NA,NA
 1990,New Hampshire,NH,adm_viol_tech,125,4
 1990,New Hampshire,NH,adm_oth,14,0
 1991,New Hampshire,NH,adm_total,775,53
 1991,New Hampshire,NH,adm_new_commit,633,44
-1991,New Hampshire,NH,adm_viol_new,0,0
+1991,New Hampshire,NH,adm_viol_new,NA,NA
 1991,New Hampshire,NH,adm_viol_tech,130,6
 1991,New Hampshire,NH,adm_oth,12,3
 1992,New Hampshire,NH,adm_total,868,48
 1992,New Hampshire,NH,adm_new_commit,686,42
-1992,New Hampshire,NH,adm_viol_new,0,0
+1992,New Hampshire,NH,adm_viol_new,NA,NA
 1992,New Hampshire,NH,adm_viol_tech,171,5
 1992,New Hampshire,NH,adm_oth,11,1
 1993,New Hampshire,NH,adm_total,890,67
 1993,New Hampshire,NH,adm_new_commit,661,59
-1993,New Hampshire,NH,adm_viol_new,0,0
+1993,New Hampshire,NH,adm_viol_new,NA,NA
 1993,New Hampshire,NH,adm_viol_tech,215,6
 1993,New Hampshire,NH,adm_oth,14,2
 1994,New Hampshire,NH,adm_total,986,79
 1994,New Hampshire,NH,adm_new_commit,711,66
-1994,New Hampshire,NH,adm_viol_new,0,0
+1994,New Hampshire,NH,adm_viol_new,NA,NA
 1994,New Hampshire,NH,adm_viol_tech,249,12
 1994,New Hampshire,NH,adm_oth,26,1
 1995,New Hampshire,NH,adm_total,892,76
 1995,New Hampshire,NH,adm_new_commit,601,57
-1995,New Hampshire,NH,adm_viol_new,0,0
+1995,New Hampshire,NH,adm_viol_new,NA,NA
 1995,New Hampshire,NH,adm_viol_tech,277,19
 1995,New Hampshire,NH,adm_oth,14,0
 1996,New Hampshire,NH,adm_total,923,73
 1996,New Hampshire,NH,adm_new_commit,587,54
-1996,New Hampshire,NH,adm_viol_new,0,0
+1996,New Hampshire,NH,adm_viol_new,NA,NA
 1996,New Hampshire,NH,adm_viol_tech,321,19
 1996,New Hampshire,NH,adm_oth,15,0
 1997,New Hampshire,NH,adm_total,965,74
 1997,New Hampshire,NH,adm_new_commit,620,57
-1997,New Hampshire,NH,adm_viol_new,0,0
+1997,New Hampshire,NH,adm_viol_new,NA,NA
 1997,New Hampshire,NH,adm_viol_tech,330,17
 1997,New Hampshire,NH,adm_oth,15,0
 1998,New Hampshire,NH,adm_total,930,70
 1998,New Hampshire,NH,adm_new_commit,580,49
-1998,New Hampshire,NH,adm_viol_new,0,0
+1998,New Hampshire,NH,adm_viol_new,NA,NA
 1998,New Hampshire,NH,adm_viol_tech,338,20
 1998,New Hampshire,NH,adm_oth,12,1
 1999,New Hampshire,NH,adm_total,1001,82
@@ -6666,7 +6666,7 @@ year,state_name,state_abbr,adm_type,m,f
 2005,New Hampshire,NH,adm_oth,208,14
 2006,New Hampshire,NH,adm_total,2512,164
 2006,New Hampshire,NH,adm_new_commit,616,75
-2006,New Hampshire,NH,adm_viol_new,0,0
+2006,New Hampshire,NH,adm_viol_new,NA,NA
 2006,New Hampshire,NH,adm_viol_tech,526,83
 2006,New Hampshire,NH,adm_oth,177,6
 2007,New Hampshire,NH,adm_total,1388,121
@@ -6676,12 +6676,12 @@ year,state_name,state_abbr,adm_type,m,f
 2007,New Hampshire,NH,adm_oth,227,13
 2008,New Hampshire,NH,adm_total,1256,208
 2008,New Hampshire,NH,adm_new_commit,NA,NA
-2008,New Hampshire,NH,adm_viol_new,0,0
-2008,New Hampshire,NH,adm_viol_tech,0,0
-2008,New Hampshire,NH,adm_oth,0,0
+2008,New Hampshire,NH,adm_viol_new,NA,NA
+2008,New Hampshire,NH,adm_viol_tech,NA,NA
+2008,New Hampshire,NH,adm_oth,NA,NA
 2009,New Hampshire,NH,adm_total,1323,222
 2009,New Hampshire,NH,adm_new_commit,193,20
-2009,New Hampshire,NH,adm_viol_new,0,0
+2009,New Hampshire,NH,adm_viol_new,NA,NA
 2009,New Hampshire,NH,adm_viol_tech,624,104
 2009,New Hampshire,NH,adm_oth,507,98
 2010,New Hampshire,NH,adm_total,1313,202
@@ -7041,42 +7041,42 @@ year,state_name,state_abbr,adm_type,m,f
 1990,New Mexico,NM,adm_oth,41,5
 1991,New Mexico,NM,adm_total,1519,113
 1991,New Mexico,NM,adm_new_commit,1075,77
-1991,New Mexico,NM,adm_viol_new,0,0
+1991,New Mexico,NM,adm_viol_new,NA,NA
 1991,New Mexico,NM,adm_viol_tech,409,35
 1991,New Mexico,NM,adm_oth,35,1
 1992,New Mexico,NM,adm_total,2082,173
 1992,New Mexico,NM,adm_new_commit,1321,114
-1992,New Mexico,NM,adm_viol_new,0,0
+1992,New Mexico,NM,adm_viol_new,NA,NA
 1992,New Mexico,NM,adm_viol_tech,706,51
 1992,New Mexico,NM,adm_oth,55,8
 1993,New Mexico,NM,adm_total,2136,198
 1993,New Mexico,NM,adm_new_commit,1130,133
-1993,New Mexico,NM,adm_viol_new,0,0
+1993,New Mexico,NM,adm_viol_new,NA,NA
 1993,New Mexico,NM,adm_viol_tech,933,64
 1993,New Mexico,NM,adm_oth,73,1
 1994,New Mexico,NM,adm_total,2163,155
 1994,New Mexico,NM,adm_new_commit,1101,96
-1994,New Mexico,NM,adm_viol_new,0,0
+1994,New Mexico,NM,adm_viol_new,NA,NA
 1994,New Mexico,NM,adm_viol_tech,1001,53
 1994,New Mexico,NM,adm_oth,61,6
 1995,New Mexico,NM,adm_total,2136,210
 1995,New Mexico,NM,adm_new_commit,1138,122
-1995,New Mexico,NM,adm_viol_new,0,0
+1995,New Mexico,NM,adm_viol_new,NA,NA
 1995,New Mexico,NM,adm_viol_tech,948,88
 1995,New Mexico,NM,adm_oth,50,0
 1996,New Mexico,NM,adm_total,2494,351
 1996,New Mexico,NM,adm_new_commit,1412,230
-1996,New Mexico,NM,adm_viol_new,0,0
+1996,New Mexico,NM,adm_viol_new,NA,NA
 1996,New Mexico,NM,adm_viol_tech,1033,120
 1996,New Mexico,NM,adm_oth,49,1
 1997,New Mexico,NM,adm_total,2699,334
 1997,New Mexico,NM,adm_new_commit,1587,252
-1997,New Mexico,NM,adm_viol_new,0,0
+1997,New Mexico,NM,adm_viol_new,NA,NA
 1997,New Mexico,NM,adm_viol_tech,1056,81
 1997,New Mexico,NM,adm_oth,56,1
 1998,New Mexico,NM,adm_total,2194,153
 1998,New Mexico,NM,adm_new_commit,1530,101
-1998,New Mexico,NM,adm_viol_new,0,0
+1998,New Mexico,NM,adm_viol_new,NA,NA
 1998,New Mexico,NM,adm_viol_tech,619,52
 1998,New Mexico,NM,adm_oth,45,0
 1999,New Mexico,NM,adm_total,1814,144
@@ -7236,27 +7236,27 @@ year,state_name,state_abbr,adm_type,m,f
 1984,New York,NY,adm_oth,712,35
 1985,New York,NY,adm_total,14959,610
 1985,New York,NY,adm_new_commit,11925,495
-1985,New York,NY,adm_viol_new,0,0
+1985,New York,NY,adm_viol_new,NA,NA
 1985,New York,NY,adm_viol_tech,2068,83
 1985,New York,NY,adm_oth,966,32
 1986,New York,NY,adm_total,18255,856
 1986,New York,NY,adm_new_commit,14198,721
-1986,New York,NY,adm_viol_new,0,0
+1986,New York,NY,adm_viol_new,NA,NA
 1986,New York,NY,adm_viol_tech,3055,115
 1986,New York,NY,adm_oth,1002,20
 1987,New York,NY,adm_total,19300,955
 1987,New York,NY,adm_new_commit,14850,802
-1987,New York,NY,adm_viol_new,0,0
+1987,New York,NY,adm_viol_new,NA,NA
 1987,New York,NY,adm_viol_tech,3278,114
 1987,New York,NY,adm_oth,1172,39
 1988,New York,NY,adm_total,22450,1177
 1988,New York,NY,adm_new_commit,16372,1014
-1988,New York,NY,adm_viol_new,0,0
+1988,New York,NY,adm_viol_new,NA,NA
 1988,New York,NY,adm_viol_tech,4658,112
 1988,New York,NY,adm_oth,1420,51
 1989,New York,NY,adm_total,26600,1898
 1989,New York,NY,adm_new_commit,19923,1612
-1989,New York,NY,adm_viol_new,0,0
+1989,New York,NY,adm_viol_new,NA,NA
 1989,New York,NY,adm_viol_tech,5083,243
 1989,New York,NY,adm_oth,1594,43
 1990,New York,NY,adm_total,28244,1935
@@ -7266,47 +7266,47 @@ year,state_name,state_abbr,adm_type,m,f
 1990,New York,NY,adm_oth,1877,50
 1991,New York,NY,adm_total,27162,2581
 1991,New York,NY,adm_new_commit,21856,2263
-1991,New York,NY,adm_viol_new,0,0
+1991,New York,NY,adm_viol_new,NA,NA
 1991,New York,NY,adm_viol_tech,3070,214
 1991,New York,NY,adm_oth,2236,104
 1992,New York,NY,adm_total,29709,2318
 1992,New York,NY,adm_new_commit,23265,1888
-1992,New York,NY,adm_viol_new,0,0
+1992,New York,NY,adm_viol_new,NA,NA
 1992,New York,NY,adm_viol_tech,4174,309
 1992,New York,NY,adm_oth,2270,121
 1993,New York,NY,adm_total,33289,2513
 1993,New York,NY,adm_new_commit,23016,1881
-1993,New York,NY,adm_viol_new,0,0
+1993,New York,NY,adm_viol_new,NA,NA
 1993,New York,NY,adm_viol_tech,5983,372
 1993,New York,NY,adm_oth,4290,260
 1994,New York,NY,adm_total,32103,2454
 1994,New York,NY,adm_new_commit,21357,1796
-1994,New York,NY,adm_viol_new,0,0
+1994,New York,NY,adm_viol_new,NA,NA
 1994,New York,NY,adm_viol_tech,6208,340
 1994,New York,NY,adm_oth,4538,318
 1995,New York,NY,adm_total,32163,2525
 1995,New York,NY,adm_new_commit,21145,1835
-1995,New York,NY,adm_viol_new,0,0
+1995,New York,NY,adm_viol_new,NA,NA
 1995,New York,NY,adm_viol_tech,7350,432
 1995,New York,NY,adm_oth,3668,258
 1996,New York,NY,adm_total,29760,2392
 1996,New York,NY,adm_new_commit,19482,1710
-1996,New York,NY,adm_viol_new,0,0
+1996,New York,NY,adm_viol_new,NA,NA
 1996,New York,NY,adm_viol_tech,7761,479
 1996,New York,NY,adm_oth,2517,203
 1997,New York,NY,adm_total,27639,2229
 1997,New York,NY,adm_new_commit,19129,1675
-1997,New York,NY,adm_viol_new,0,0
+1997,New York,NY,adm_viol_new,NA,NA
 1997,New York,NY,adm_viol_tech,6480,354
 1997,New York,NY,adm_oth,2030,200
 1998,New York,NY,adm_total,26702,2169
 1998,New York,NY,adm_new_commit,17962,1535
-1998,New York,NY,adm_viol_new,0,0
+1998,New York,NY,adm_viol_new,NA,NA
 1998,New York,NY,adm_viol_tech,7137,476
 1998,New York,NY,adm_oth,1603,158
 1999,New York,NY,adm_total,27285,2220
 1999,New York,NY,adm_new_commit,17668,1498
-1999,New York,NY,adm_viol_new,0,0
+1999,New York,NY,adm_viol_new,NA,NA
 1999,New York,NY,adm_viol_tech,8251,614
 1999,New York,NY,adm_oth,1361,108
 2000,New York,NY,adm_total,26622,2052
@@ -7341,22 +7341,22 @@ year,state_name,state_abbr,adm_type,m,f
 2005,New York,NY,adm_oth,676,53
 2006,New York,NY,adm_total,24553,1740
 2006,New York,NY,adm_new_commit,15072,1180
-2006,New York,NY,adm_viol_new,0,0
+2006,New York,NY,adm_viol_new,NA,NA
 2006,New York,NY,adm_viol_tech,8858,529
 2006,New York,NY,adm_oth,620,31
 2007,New York,NY,adm_total,25157,1761
 2007,New York,NY,adm_new_commit,15288,1173
-2007,New York,NY,adm_viol_new,0,0
+2007,New York,NY,adm_viol_new,NA,NA
 2007,New York,NY,adm_viol_tech,9188,536
 2007,New York,NY,adm_oth,679,52
 2008,New York,NY,adm_total,24257,1682
 2008,New York,NY,adm_new_commit,14108,1070
-2008,New York,NY,adm_viol_new,0,0
+2008,New York,NY,adm_viol_new,NA,NA
 2008,New York,NY,adm_viol_tech,9451,576
 2008,New York,NY,adm_oth,698,36
 2009,New York,NY,adm_total,23031,1517
 2009,New York,NY,adm_new_commit,13892,982
-2009,New York,NY,adm_viol_new,0,0
+2009,New York,NY,adm_viol_new,NA,NA
 2009,New York,NY,adm_viol_tech,8609,496
 2009,New York,NY,adm_oth,529,39
 2010,New York,NY,adm_total,22512,1346
@@ -7452,92 +7452,92 @@ year,state_name,state_abbr,adm_type,m,f
 1983,North Carolina,NC,adm_total,8460,483
 1983,North Carolina,NC,adm_new_commit,7193,455
 1983,North Carolina,NC,adm_viol_new,789,17
-1983,North Carolina,NC,adm_viol_tech,0,0
+1983,North Carolina,NC,adm_viol_tech,NA,NA
 1983,North Carolina,NC,adm_oth,478,11
 1984,North Carolina,NC,adm_total,8429,520
 1984,North Carolina,NC,adm_new_commit,7369,475
 1984,North Carolina,NC,adm_viol_new,635,27
-1984,North Carolina,NC,adm_viol_tech,0,0
+1984,North Carolina,NC,adm_viol_tech,NA,NA
 1984,North Carolina,NC,adm_oth,425,18
 1985,North Carolina,NC,adm_total,8731,538
 1985,North Carolina,NC,adm_new_commit,7764,510
 1985,North Carolina,NC,adm_viol_new,511,23
-1985,North Carolina,NC,adm_viol_tech,0,0
+1985,North Carolina,NC,adm_viol_tech,NA,NA
 1985,North Carolina,NC,adm_oth,456,5
 1986,North Carolina,NC,adm_total,9041,599
 1986,North Carolina,NC,adm_new_commit,8099,570
 1986,North Carolina,NC,adm_viol_new,501,22
-1986,North Carolina,NC,adm_viol_tech,0,0
+1986,North Carolina,NC,adm_viol_tech,NA,NA
 1986,North Carolina,NC,adm_oth,441,7
 1987,North Carolina,NC,adm_total,10010,682
 1987,North Carolina,NC,adm_new_commit,8794,612
 1987,North Carolina,NC,adm_viol_new,732,42
-1987,North Carolina,NC,adm_viol_tech,0,0
+1987,North Carolina,NC,adm_viol_tech,NA,NA
 1987,North Carolina,NC,adm_oth,484,28
 1988,North Carolina,NC,adm_total,11775,826
 1988,North Carolina,NC,adm_new_commit,9978,735
 1988,North Carolina,NC,adm_viol_new,1338,81
-1988,North Carolina,NC,adm_viol_tech,0,0
+1988,North Carolina,NC,adm_viol_tech,NA,NA
 1988,North Carolina,NC,adm_oth,459,10
 1989,North Carolina,NC,adm_total,14465,1244
 1989,North Carolina,NC,adm_new_commit,12057,1072
 1989,North Carolina,NC,adm_viol_new,1978,148
-1989,North Carolina,NC,adm_viol_tech,0,0
+1989,North Carolina,NC,adm_viol_tech,NA,NA
 1989,North Carolina,NC,adm_oth,430,24
 1990,North Carolina,NC,adm_total,16916,1473
 1990,North Carolina,NC,adm_new_commit,14280,1343
 1990,North Carolina,NC,adm_viol_new,2228,114
-1990,North Carolina,NC,adm_viol_tech,0,0
+1990,North Carolina,NC,adm_viol_tech,NA,NA
 1990,North Carolina,NC,adm_oth,408,16
 1991,North Carolina,NC,adm_total,19789,1907
 1991,North Carolina,NC,adm_new_commit,16339,1717
 1991,North Carolina,NC,adm_viol_new,3156,164
-1991,North Carolina,NC,adm_viol_tech,0,0
+1991,North Carolina,NC,adm_viol_tech,NA,NA
 1991,North Carolina,NC,adm_oth,294,26
 1992,North Carolina,NC,adm_total,22832,2018
 1992,North Carolina,NC,adm_new_commit,18496,1786
 1992,North Carolina,NC,adm_viol_new,4103,224
-1992,North Carolina,NC,adm_viol_tech,0,0
+1992,North Carolina,NC,adm_viol_tech,NA,NA
 1992,North Carolina,NC,adm_oth,233,8
 1993,North Carolina,NC,adm_total,23213,2364
 1993,North Carolina,NC,adm_new_commit,18579,2109
 1993,North Carolina,NC,adm_viol_new,4423,242
-1993,North Carolina,NC,adm_viol_tech,0,0
+1993,North Carolina,NC,adm_viol_tech,NA,NA
 1993,North Carolina,NC,adm_oth,211,13
 1994,North Carolina,NC,adm_total,21543,2324
 1994,North Carolina,NC,adm_new_commit,16257,1945
 1994,North Carolina,NC,adm_viol_new,5051,375
-1994,North Carolina,NC,adm_viol_tech,0,0
+1994,North Carolina,NC,adm_viol_tech,NA,NA
 1994,North Carolina,NC,adm_oth,235,4
 1995,North Carolina,NC,adm_total,17871,1863
 1995,North Carolina,NC,adm_new_commit,11999,1345
 1995,North Carolina,NC,adm_viol_new,5326,475
-1995,North Carolina,NC,adm_viol_tech,0,0
+1995,North Carolina,NC,adm_viol_tech,NA,NA
 1995,North Carolina,NC,adm_oth,546,43
 1996,North Carolina,NC,adm_total,13043,1316
 1996,North Carolina,NC,adm_new_commit,8674,927
 1996,North Carolina,NC,adm_viol_new,4194,385
-1996,North Carolina,NC,adm_viol_tech,0,0
+1996,North Carolina,NC,adm_viol_tech,NA,NA
 1996,North Carolina,NC,adm_oth,175,4
 1997,North Carolina,NC,adm_total,11238,1078
 1997,North Carolina,NC,adm_new_commit,8284,794
 1997,North Carolina,NC,adm_viol_new,2651,261
-1997,North Carolina,NC,adm_viol_tech,0,0
+1997,North Carolina,NC,adm_viol_tech,NA,NA
 1997,North Carolina,NC,adm_oth,303,23
 1998,North Carolina,NC,adm_total,10492,911
 1998,North Carolina,NC,adm_new_commit,8846,736
 1998,North Carolina,NC,adm_viol_new,1519,162
-1998,North Carolina,NC,adm_viol_tech,0,0
+1998,North Carolina,NC,adm_viol_tech,NA,NA
 1998,North Carolina,NC,adm_oth,127,13
 1999,North Carolina,NC,adm_total,9532,775
 1999,North Carolina,NC,adm_new_commit,8220,677
 1999,North Carolina,NC,adm_viol_new,1204,97
-1999,North Carolina,NC,adm_viol_tech,0,0
+1999,North Carolina,NC,adm_viol_tech,NA,NA
 1999,North Carolina,NC,adm_oth,1,1
 2000,North Carolina,NC,adm_total,9105,743
 2000,North Carolina,NC,adm_new_commit,8376,687
 2000,North Carolina,NC,adm_viol_new,700,55
-2000,North Carolina,NC,adm_viol_tech,0,0
+2000,North Carolina,NC,adm_viol_tech,NA,NA
 2000,North Carolina,NC,adm_oth,29,1
 2001,North Carolina,NC,adm_total,8848,681
 2001,North Carolina,NC,adm_new_commit,8213,638
@@ -7577,7 +7577,7 @@ year,state_name,state_abbr,adm_type,m,f
 2008,North Carolina,NC,adm_total,10874,952
 2008,North Carolina,NC,adm_new_commit,10449,928
 2008,North Carolina,NC,adm_viol_new,407,12
-2008,North Carolina,NC,adm_viol_tech,0,0
+2008,North Carolina,NC,adm_viol_tech,NA,NA
 2008,North Carolina,NC,adm_oth,18,12
 2009,North Carolina,NC,adm_total,11119,1053
 2009,North Carolina,NC,adm_new_commit,10709,1040
@@ -7716,42 +7716,42 @@ year,state_name,state_abbr,adm_type,m,f
 1990,North Dakota,ND,adm_oth,5,0
 1991,North Dakota,ND,adm_total,314,26
 1991,North Dakota,ND,adm_new_commit,270,23
-1991,North Dakota,ND,adm_viol_new,0,0
+1991,North Dakota,ND,adm_viol_new,NA,NA
 1991,North Dakota,ND,adm_viol_tech,40,3
 1991,North Dakota,ND,adm_oth,4,0
 1992,North Dakota,ND,adm_total,304,13
 1992,North Dakota,ND,adm_new_commit,232,11
-1992,North Dakota,ND,adm_viol_new,0,0
+1992,North Dakota,ND,adm_viol_new,NA,NA
 1992,North Dakota,ND,adm_viol_tech,63,2
 1992,North Dakota,ND,adm_oth,9,0
 1993,North Dakota,ND,adm_total,329,23
 1993,North Dakota,ND,adm_new_commit,258,17
-1993,North Dakota,ND,adm_viol_new,0,0
+1993,North Dakota,ND,adm_viol_new,NA,NA
 1993,North Dakota,ND,adm_viol_tech,69,6
 1993,North Dakota,ND,adm_oth,2,0
 1994,North Dakota,ND,adm_total,373,27
 1994,North Dakota,ND,adm_new_commit,298,21
-1994,North Dakota,ND,adm_viol_new,0,0
+1994,North Dakota,ND,adm_viol_new,NA,NA
 1994,North Dakota,ND,adm_viol_tech,75,6
 1994,North Dakota,ND,adm_oth,0,0
 1995,North Dakota,ND,adm_total,434,44
 1995,North Dakota,ND,adm_new_commit,358,37
-1995,North Dakota,ND,adm_viol_new,0,0
+1995,North Dakota,ND,adm_viol_new,NA,NA
 1995,North Dakota,ND,adm_viol_tech,70,7
 1995,North Dakota,ND,adm_oth,6,0
 1996,North Dakota,ND,adm_total,536,49
 1996,North Dakota,ND,adm_new_commit,445,43
-1996,North Dakota,ND,adm_viol_new,0,0
+1996,North Dakota,ND,adm_viol_new,NA,NA
 1996,North Dakota,ND,adm_viol_tech,86,6
 1996,North Dakota,ND,adm_oth,5,0
 1997,North Dakota,ND,adm_total,535,56
 1997,North Dakota,ND,adm_new_commit,427,48
-1997,North Dakota,ND,adm_viol_new,0,0
+1997,North Dakota,ND,adm_viol_new,NA,NA
 1997,North Dakota,ND,adm_viol_tech,101,8
 1997,North Dakota,ND,adm_oth,7,0
 1998,North Dakota,ND,adm_total,690,75
 1998,North Dakota,ND,adm_new_commit,546,67
-1998,North Dakota,ND,adm_viol_new,0,0
+1998,North Dakota,ND,adm_viol_new,NA,NA
 1998,North Dakota,ND,adm_viol_tech,143,7
 1998,North Dakota,ND,adm_oth,1,1
 1999,North Dakota,ND,adm_total,656,68
@@ -7786,7 +7786,7 @@ year,state_name,state_abbr,adm_type,m,f
 2004,North Dakota,ND,adm_oth,0,0
 2005,North Dakota,ND,adm_total,913,180
 2005,North Dakota,ND,adm_new_commit,708,139
-2005,North Dakota,ND,adm_viol_new,0,0
+2005,North Dakota,ND,adm_viol_new,NA,NA
 2005,North Dakota,ND,adm_viol_tech,201,39
 2005,North Dakota,ND,adm_oth,3,2
 2006,North Dakota,ND,adm_total,906,196
@@ -7796,7 +7796,7 @@ year,state_name,state_abbr,adm_type,m,f
 2006,North Dakota,ND,adm_oth,3,1
 2007,North Dakota,ND,adm_total,884,153
 2007,North Dakota,ND,adm_new_commit,642,120
-2007,North Dakota,ND,adm_viol_new,0,0
+2007,North Dakota,ND,adm_viol_new,NA,NA
 2007,North Dakota,ND,adm_viol_tech,236,30
 2007,North Dakota,ND,adm_oth,5,3
 2008,North Dakota,ND,adm_total,923,168
@@ -7806,7 +7806,7 @@ year,state_name,state_abbr,adm_type,m,f
 2008,North Dakota,ND,adm_oth,5,3
 2009,North Dakota,ND,adm_total,880,167
 2009,North Dakota,ND,adm_new_commit,440,81
-2009,North Dakota,ND,adm_viol_new,0,0
+2009,North Dakota,ND,adm_viol_new,NA,NA
 2009,North Dakota,ND,adm_viol_tech,437,84
 2009,North Dakota,ND,adm_oth,2,2
 2010,North Dakota,ND,adm_total,844,180
@@ -9477,87 +9477,87 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Tennessee,TN,adm_total,4397,261
 1983,Tennessee,TN,adm_new_commit,3393,239
 1983,Tennessee,TN,adm_viol_new,492,19
-1983,Tennessee,TN,adm_viol_tech,0,0
+1983,Tennessee,TN,adm_viol_tech,NA,NA
 1983,Tennessee,TN,adm_oth,512,3
 1984,Tennessee,TN,adm_total,4808,313
 1984,Tennessee,TN,adm_new_commit,3717,274
 1984,Tennessee,TN,adm_viol_new,518,32
-1984,Tennessee,TN,adm_viol_tech,0,0
+1984,Tennessee,TN,adm_viol_tech,NA,NA
 1984,Tennessee,TN,adm_oth,573,7
 1985,Tennessee,TN,adm_total,4517,338
 1985,Tennessee,TN,adm_new_commit,3217,318
 1985,Tennessee,TN,adm_viol_new,1086,20
-1985,Tennessee,TN,adm_viol_tech,0,0
+1985,Tennessee,TN,adm_viol_tech,NA,NA
 1985,Tennessee,TN,adm_oth,214,0
 1986,Tennessee,TN,adm_total,3443,344
 1986,Tennessee,TN,adm_new_commit,2707,304
 1986,Tennessee,TN,adm_viol_new,610,40
-1986,Tennessee,TN,adm_viol_tech,0,0
+1986,Tennessee,TN,adm_viol_tech,NA,NA
 1986,Tennessee,TN,adm_oth,126,0
 1987,Tennessee,TN,adm_total,2504,329
 1987,Tennessee,TN,adm_new_commit,1662,258
 1987,Tennessee,TN,adm_viol_new,731,63
-1987,Tennessee,TN,adm_viol_tech,0,0
+1987,Tennessee,TN,adm_viol_tech,NA,NA
 1987,Tennessee,TN,adm_oth,111,8
 1988,Tennessee,TN,adm_total,2052,270
 1988,Tennessee,TN,adm_new_commit,1284,208
 1988,Tennessee,TN,adm_viol_new,636,54
-1988,Tennessee,TN,adm_viol_tech,0,0
+1988,Tennessee,TN,adm_viol_tech,NA,NA
 1988,Tennessee,TN,adm_oth,132,8
 1989,Tennessee,TN,adm_total,4331,377
 1989,Tennessee,TN,adm_new_commit,2646,278
 1989,Tennessee,TN,adm_viol_new,1546,93
-1989,Tennessee,TN,adm_viol_tech,0,0
+1989,Tennessee,TN,adm_viol_tech,NA,NA
 1989,Tennessee,TN,adm_oth,139,6
 1990,Tennessee,TN,adm_total,4475,358
 1990,Tennessee,TN,adm_new_commit,2876,268
 1990,Tennessee,TN,adm_viol_new,1468,86
-1990,Tennessee,TN,adm_viol_tech,0,0
+1990,Tennessee,TN,adm_viol_tech,NA,NA
 1990,Tennessee,TN,adm_oth,131,4
 1991,Tennessee,TN,adm_total,5858,492
 1991,Tennessee,TN,adm_new_commit,3702,324
 1991,Tennessee,TN,adm_viol_new,2045,164
-1991,Tennessee,TN,adm_viol_tech,0,0
+1991,Tennessee,TN,adm_viol_tech,NA,NA
 1991,Tennessee,TN,adm_oth,111,4
 1992,Tennessee,TN,adm_total,6227,537
 1992,Tennessee,TN,adm_new_commit,3960,354
 1992,Tennessee,TN,adm_viol_new,2161,173
-1992,Tennessee,TN,adm_viol_tech,0,0
+1992,Tennessee,TN,adm_viol_tech,NA,NA
 1992,Tennessee,TN,adm_oth,106,10
 1993,Tennessee,TN,adm_total,6288,407
 1993,Tennessee,TN,adm_new_commit,3718,251
 1993,Tennessee,TN,adm_viol_new,2461,148
-1993,Tennessee,TN,adm_viol_tech,0,0
+1993,Tennessee,TN,adm_viol_tech,NA,NA
 1993,Tennessee,TN,adm_oth,109,8
 1994,Tennessee,TN,adm_total,6027,514
 1994,Tennessee,TN,adm_new_commit,3176,298
 1994,Tennessee,TN,adm_viol_new,2761,209
-1994,Tennessee,TN,adm_viol_tech,0,0
+1994,Tennessee,TN,adm_viol_tech,NA,NA
 1994,Tennessee,TN,adm_oth,90,7
 1995,Tennessee,TN,adm_total,6496,587
 1995,Tennessee,TN,adm_new_commit,3677,387
 1995,Tennessee,TN,adm_viol_new,2708,194
-1995,Tennessee,TN,adm_viol_tech,0,0
+1995,Tennessee,TN,adm_viol_tech,NA,NA
 1995,Tennessee,TN,adm_oth,111,6
 1996,Tennessee,TN,adm_total,7539,781
 1996,Tennessee,TN,adm_new_commit,4116,462
 1996,Tennessee,TN,adm_viol_new,3310,313
-1996,Tennessee,TN,adm_viol_tech,0,0
+1996,Tennessee,TN,adm_viol_tech,NA,NA
 1996,Tennessee,TN,adm_oth,113,6
 1997,Tennessee,TN,adm_total,8446,866
 1997,Tennessee,TN,adm_new_commit,4493,508
 1997,Tennessee,TN,adm_viol_new,3851,349
-1997,Tennessee,TN,adm_viol_tech,0,0
+1997,Tennessee,TN,adm_viol_tech,NA,NA
 1997,Tennessee,TN,adm_oth,102,9
 1998,Tennessee,TN,adm_total,7830,940
 1998,Tennessee,TN,adm_new_commit,4323,532
 1998,Tennessee,TN,adm_viol_new,3437,399
-1998,Tennessee,TN,adm_viol_tech,0,0
+1998,Tennessee,TN,adm_viol_tech,NA,NA
 1998,Tennessee,TN,adm_oth,70,9
 1999,Tennessee,TN,adm_total,12096,1593
 1999,Tennessee,TN,adm_new_commit,7620,1057
 1999,Tennessee,TN,adm_viol_new,4394,526
-1999,Tennessee,TN,adm_viol_tech,0,0
+1999,Tennessee,TN,adm_viol_tech,NA,NA
 1999,Tennessee,TN,adm_oth,37,10
 2000,Tennessee,TN,adm_total,12110,1682
 2000,Tennessee,TN,adm_new_commit,7799,1141
@@ -9592,22 +9592,22 @@ year,state_name,state_abbr,adm_type,m,f
 2006,Tennessee,TN,adm_total,11801,1908
 2006,Tennessee,TN,adm_new_commit,6783,1130
 2006,Tennessee,TN,adm_viol_new,4972,770
-2006,Tennessee,TN,adm_viol_tech,0,0
+2006,Tennessee,TN,adm_viol_tech,NA,NA
 2006,Tennessee,TN,adm_oth,33,8
 2007,Tennessee,TN,adm_total,12619,1947
 2007,Tennessee,TN,adm_new_commit,7488,1135
 2007,Tennessee,TN,adm_viol_new,5101,811
-2007,Tennessee,TN,adm_viol_tech,0,0
+2007,Tennessee,TN,adm_viol_tech,NA,NA
 2007,Tennessee,TN,adm_oth,24,1
 2008,Tennessee,TN,adm_total,12197,2019
 2008,Tennessee,TN,adm_new_commit,7205,1220
 2008,Tennessee,TN,adm_viol_new,4975,796
-2008,Tennessee,TN,adm_viol_tech,0,0
+2008,Tennessee,TN,adm_viol_tech,NA,NA
 2008,Tennessee,TN,adm_oth,15,3
 2009,Tennessee,TN,adm_total,11930,1881
 2009,Tennessee,TN,adm_new_commit,7358,1201
 2009,Tennessee,TN,adm_viol_new,4544,680
-2009,Tennessee,TN,adm_viol_tech,0,0
+2009,Tennessee,TN,adm_viol_tech,NA,NA
 2009,Tennessee,TN,adm_oth,17,0
 2010,Tennessee,TN,adm_total,11917,1909
 2010,Tennessee,TN,adm_new_commit,7612,1191
@@ -9702,77 +9702,77 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Texas,TX,adm_total,21402,1457
 1983,Texas,TX,adm_new_commit,16449,1224
 1983,Texas,TX,adm_viol_new,4926,229
-1983,Texas,TX,adm_viol_tech,0,0
+1983,Texas,TX,adm_viol_tech,NA,NA
 1983,Texas,TX,adm_oth,27,4
 1984,Texas,TX,adm_total,21796,1658
 1984,Texas,TX,adm_new_commit,15188,1349
 1984,Texas,TX,adm_viol_new,6471,304
-1984,Texas,TX,adm_viol_tech,0,0
+1984,Texas,TX,adm_viol_tech,NA,NA
 1984,Texas,TX,adm_oth,137,5
 1985,Texas,TX,adm_total,24910,1849
 1985,Texas,TX,adm_new_commit,16995,1472
 1985,Texas,TX,adm_viol_new,7887,374
-1985,Texas,TX,adm_viol_tech,0,0
+1985,Texas,TX,adm_viol_tech,NA,NA
 1985,Texas,TX,adm_oth,28,3
 1986,Texas,TX,adm_total,30199,2491
 1986,Texas,TX,adm_new_commit,20168,1963
 1986,Texas,TX,adm_viol_new,9975,526
-1986,Texas,TX,adm_viol_tech,0,0
+1986,Texas,TX,adm_viol_tech,NA,NA
 1986,Texas,TX,adm_oth,56,2
 1987,Texas,TX,adm_total,31748,2754
 1987,Texas,TX,adm_new_commit,20527,2023
 1987,Texas,TX,adm_viol_new,11091,558
-1987,Texas,TX,adm_viol_tech,0,0
+1987,Texas,TX,adm_viol_tech,NA,NA
 1987,Texas,TX,adm_oth,130,173
 1988,Texas,TX,adm_total,32148,2591
 1988,Texas,TX,adm_new_commit,19345,1868
 1988,Texas,TX,adm_viol_new,12521,712
-1988,Texas,TX,adm_viol_tech,0,0
+1988,Texas,TX,adm_viol_tech,NA,NA
 1988,Texas,TX,adm_oth,282,11
 1989,Texas,TX,adm_total,33949,2979
 1989,Texas,TX,adm_new_commit,19661,2063
 1989,Texas,TX,adm_viol_new,14062,912
-1989,Texas,TX,adm_viol_tech,0,0
+1989,Texas,TX,adm_viol_tech,NA,NA
 1989,Texas,TX,adm_oth,226,4
 1990,Texas,TX,adm_total,42478,3351
 1990,Texas,TX,adm_new_commit,26289,2419
 1990,Texas,TX,adm_viol_new,16037,928
-1990,Texas,TX,adm_viol_tech,0,0
+1990,Texas,TX,adm_viol_tech,NA,NA
 1990,Texas,TX,adm_oth,152,4
 1991,Texas,TX,adm_total,34543,3277
 1991,Texas,TX,adm_new_commit,19223,2194
 1991,Texas,TX,adm_viol_new,15296,1082
-1991,Texas,TX,adm_viol_tech,0,0
+1991,Texas,TX,adm_viol_tech,NA,NA
 1991,Texas,TX,adm_oth,24,1
 1992,Texas,TX,adm_total,37329,2557
 1992,Texas,TX,adm_new_commit,22245,1658
 1992,Texas,TX,adm_viol_new,15040,897
-1992,Texas,TX,adm_viol_tech,0,0
+1992,Texas,TX,adm_viol_tech,NA,NA
 1992,Texas,TX,adm_oth,44,2
 1993,Texas,TX,adm_total,26760,3156
 1993,Texas,TX,adm_new_commit,13807,1717
 1993,Texas,TX,adm_viol_new,12261,1194
-1993,Texas,TX,adm_viol_tech,0,0
+1993,Texas,TX,adm_viol_tech,NA,NA
 1993,Texas,TX,adm_oth,692,245
 1994,Texas,TX,adm_total,41542,3320
 1994,Texas,TX,adm_new_commit,24668,1972
 1994,Texas,TX,adm_viol_new,16861,1348
-1994,Texas,TX,adm_viol_tech,0,0
+1994,Texas,TX,adm_viol_tech,NA,NA
 1994,Texas,TX,adm_oth,13,0
 1995,Texas,TX,adm_total,50272,5160
 1995,Texas,TX,adm_new_commit,33044,3800
 1995,Texas,TX,adm_viol_new,14813,1214
-1995,Texas,TX,adm_viol_tech,0,0
+1995,Texas,TX,adm_viol_tech,NA,NA
 1995,Texas,TX,adm_oth,2415,146
 1996,Texas,TX,adm_total,33197,5519
 1996,Texas,TX,adm_new_commit,21099,3369
 1996,Texas,TX,adm_viol_new,6968,598
-1996,Texas,TX,adm_viol_tech,0,0
+1996,Texas,TX,adm_viol_tech,NA,NA
 1996,Texas,TX,adm_oth,5130,1552
 1997,Texas,TX,adm_total,38961,5456
 1997,Texas,TX,adm_new_commit,22401,3007
 1997,Texas,TX,adm_viol_new,9230,859
-1997,Texas,TX,adm_viol_tech,0,0
+1997,Texas,TX,adm_viol_tech,NA,NA
 1997,Texas,TX,adm_oth,7330,1590
 1998,Texas,TX,adm_total,51054,8286
 1998,Texas,TX,adm_new_commit,30156,4720
@@ -10156,14 +10156,14 @@ year,state_name,state_abbr,adm_type,m,f
 1983,Vermont,VT,adm_oth,39,0
 1984,Vermont,VT,adm_total,338,12
 1984,Vermont,VT,adm_new_commit,293,12
-1984,Vermont,VT,adm_viol_new,10,0
-1984,Vermont,VT,adm_viol_tech,23,0
-1984,Vermont,VT,adm_oth,12,0
+1984,Vermont,VT,adm_viol_new,10,NA
+1984,Vermont,VT,adm_viol_tech,23,NA
+1984,Vermont,VT,adm_oth,12,NA
 1985,Vermont,VT,adm_total,409,6
 1985,Vermont,VT,adm_new_commit,304,6
-1985,Vermont,VT,adm_viol_new,5,0
-1985,Vermont,VT,adm_viol_tech,72,0
-1985,Vermont,VT,adm_oth,28,0
+1985,Vermont,VT,adm_viol_new,5,NA
+1985,Vermont,VT,adm_viol_tech,72,NA
+1985,Vermont,VT,adm_oth,28,NA
 1986,Vermont,VT,adm_total,424,2
 1986,Vermont,VT,adm_new_commit,322,2
 1986,Vermont,VT,adm_viol_new,2,0
@@ -10458,7 +10458,7 @@ year,state_name,state_abbr,adm_type,m,f
 1999,Virginia,VA,adm_new_commit,6538,786
 1999,Virginia,VA,adm_viol_new,488,48
 1999,Virginia,VA,adm_viol_tech,340,40
-1999,Virginia,VA,adm_oth,0,0
+1999,Virginia,VA,adm_oth,NA,NA
 2000,Virginia,VA,adm_total,8695,1096
 2000,Virginia,VA,adm_new_commit,7809,1019
 2000,Virginia,VA,adm_viol_new,538,52
@@ -10826,37 +10826,37 @@ year,state_name,state_abbr,adm_type,m,f
 1982,West Virginia,WV,adm_oth,17,1
 1983,West Virginia,WV,adm_total,874,47
 1983,West Virginia,WV,adm_new_commit,823,41
-1983,West Virginia,WV,adm_viol_new,0,0
+1983,West Virginia,WV,adm_viol_new,NA,0
 1983,West Virginia,WV,adm_viol_tech,35,2
 1983,West Virginia,WV,adm_oth,16,4
 1984,West Virginia,WV,adm_total,836,32
 1984,West Virginia,WV,adm_new_commit,767,29
-1984,West Virginia,WV,adm_viol_new,0,0
+1984,West Virginia,WV,adm_viol_new,NA,0
 1984,West Virginia,WV,adm_viol_tech,41,1
 1984,West Virginia,WV,adm_oth,28,2
 1985,West Virginia,WV,adm_total,857,40
 1985,West Virginia,WV,adm_new_commit,790,34
-1985,West Virginia,WV,adm_viol_new,0,0
+1985,West Virginia,WV,adm_viol_new,NA,0
 1985,West Virginia,WV,adm_viol_tech,37,2
 1985,West Virginia,WV,adm_oth,30,4
 1986,West Virginia,WV,adm_total,615,49
 1986,West Virginia,WV,adm_new_commit,522,47
-1986,West Virginia,WV,adm_viol_new,0,1
+1986,West Virginia,WV,adm_viol_new,NA,1
 1986,West Virginia,WV,adm_viol_tech,43,1
 1986,West Virginia,WV,adm_oth,50,0
 1987,West Virginia,WV,adm_total,754,45
 1987,West Virginia,WV,adm_new_commit,638,44
-1987,West Virginia,WV,adm_viol_new,0,0
+1987,West Virginia,WV,adm_viol_new,NA,0
 1987,West Virginia,WV,adm_viol_tech,62,1
 1987,West Virginia,WV,adm_oth,54,0
 1988,West Virginia,WV,adm_total,667,39
 1988,West Virginia,WV,adm_new_commit,558,37
-1988,West Virginia,WV,adm_viol_new,0,0
+1988,West Virginia,WV,adm_viol_new,NA,0
 1988,West Virginia,WV,adm_viol_tech,51,0
 1988,West Virginia,WV,adm_oth,58,2
 1989,West Virginia,WV,adm_total,845,80
 1989,West Virginia,WV,adm_new_commit,742,67
-1989,West Virginia,WV,adm_viol_new,0,0
+1989,West Virginia,WV,adm_viol_new,NA,0
 1989,West Virginia,WV,adm_viol_tech,41,1
 1989,West Virginia,WV,adm_oth,62,12
 1990,West Virginia,WV,adm_total,832,41
@@ -11168,7 +11168,7 @@ year,state_name,state_abbr,adm_type,m,f
 2006,Wisconsin,WI,adm_new_commit,4728,505
 2006,Wisconsin,WI,adm_viol_new,448,27
 2006,Wisconsin,WI,adm_viol_tech,2785,210
-2006,Wisconsin,WI,adm_oth,0,0
+2006,Wisconsin,WI,adm_oth,NA,NA
 2007,Wisconsin,WI,adm_total,7830,762
 2007,Wisconsin,WI,adm_new_commit,4576,509
 2007,Wisconsin,WI,adm_viol_new,484,39
