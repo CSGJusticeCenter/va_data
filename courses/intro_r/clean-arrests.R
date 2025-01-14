@@ -13,11 +13,14 @@ arrests_clean <- arrests_raw |>
   janitor::clean_names() |>
   mutate(
     arrest_date = str_remove(arrest_date, " 0:00"),
-    booking_date = str_remove(booking_date, " 0:00"),
+    booking_date = mdy(str_remove(booking_date, " 0:00")),
     arrest_time = str_pad(time, 4, pad = "0"),
     arrest_time = paste(str_sub(arrest_time, 1, 2), str_sub(arrest_time, 3, 4)),
     booking_time = str_pad(booking_time, 4, pad = "0"),
-    booking_time = paste(str_sub(booking_time, 1, 2), str_sub(booking_time, 3, 4))
+    booking_time = paste(str_sub(booking_time, 1, 2), str_sub(booking_time, 3, 4)),
+    booking_year = year(booking_date),
+    booking_month = month(booking_date, label = TRUE, abbr = FALSE),
+    booking_day = day(booking_date),
     ) |> 
   filter(arrest_type_code %in% c("I", "M", "F")) |> 
   drop_na() |> 
@@ -28,7 +31,9 @@ arrests_clean <- arrests_raw |>
     arrest_id,
     arrest_date,
     arrest_time,
-    booking_date,
+    booking_year,
+    booking_month,
+    booking_day,
     booking_time,
     arrest_type = arrest_type_code,
     charge_group = charge_group_description
