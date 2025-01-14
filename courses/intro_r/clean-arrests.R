@@ -15,9 +15,9 @@ arrests_clean <- arrests_raw |>
     arrest_date = str_remove(arrest_date, " 0:00"),
     booking_date = str_remove(booking_date, " 0:00"),
     arrest_time = str_pad(time, 4, pad = "0"),
-    arrest_time = paste0(str_sub(arrest_time, 1, 2), ":", str_sub(arrest_time, 3, 4)),
+    arrest_time = paste(str_sub(arrest_time, 1, 2), str_sub(arrest_time, 3, 4)),
     booking_time = str_pad(booking_time, 4, pad = "0"),
-    booking_time = paste0(str_sub(booking_time, 1, 2), ":", str_sub(booking_time, 3, 4))
+    booking_time = paste(str_sub(booking_time, 1, 2), str_sub(booking_time, 3, 4))
     ) |> 
   filter(arrest_type_code %in% c("I", "M", "F")) |> 
   drop_na() |> 
