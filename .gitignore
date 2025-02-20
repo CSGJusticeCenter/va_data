@@ -17,7 +17,7 @@
 # possible data files
 *.accdb
 # *.csv
-*.db
+# *.db
 *.dta
 *.gz
 *.httr-oauth
