@@ -219,14 +219,15 @@ drop *_enc admtype reltype offgeneral ageadmit agerelease
 * -----------------------
 * final file cleanup 
 describe, fullnames
+rename admityr admit_year
+rename releaseyr release_year
 
 ** drop vars for creating fake dates
-drop adm_*_rand mon_maxdays *_flag *_chk *_updt los_* admityr releaseyr 
+drop adm_*_rand mon_maxdays *_flag *_chk *_updt los_* 
 
 ** reorder vars
-order person_id admit_date admit_type release_date release_type offense_category sex race age_at_admit age_at_release state
+order person_id admit_date admit_type release_date release_type offense_category sex race age_at_admit age_at_release state admit_year release_year
 sort person_id admit_date
 
 ** save file as csv
 export delimited "pop_measures_sample_data.csv", replace
-
