@@ -1,1401 +1,1401 @@
 resident_id,first_name,last_name,sex,race,dob,birth_country,primary_language
-doc_00001,Thomas,Liggins,M,B,1989-11-03,United States,English
-doc_00002,Byron,Garcia,M,B,1991-11-01,Mexico,Spanish
-doc_00003,Tevin,Walker,M,B,1997-07-11,United States,Spanish
-doc_00004,Mason,Lovett,M,W,1992-01-07,United States,English
-doc_00005,Clinton,Hatch,M,W,2004-01-30,United States,English
-doc_00006,Dukunde,Smith,M,B,2003-02-10,Mexico,Spanish
-doc_00007,Shomari,Farrington,M,B,2001-10-01,Canada,English
-doc_00008,Alexandra,Mcwilliams,F,A,1993-03-19,Mexico,Spanish
-doc_00009,Daisy,Dahlke,F,W,1993-08-24,United States,English
-doc_00010,Simeon,Mc Gilchrist,M,B,1994-12-17,United States,Other
-doc_00011,Kathryn,Hemming,F,W,1998-02-14,United States,English
-doc_00012,Sheik Ele,Ramzy,M,B,1996-01-02,United States,Spanish
-doc_00013,Charles,Whaley,M,W,1998-08-30,Mexico,Spanish
-doc_00014,Haley,Salazar,F,W,1985-12-17,United States,French
-doc_00015,Jacob,Courtney,M,W,2004-03-01,United States,English
-doc_00016,Cyrus,Krausch,M,W,1993-07-21,United States,English
-doc_00017,Matthew,Sutton,M,W,1993-11-11,United States,English
-doc_00018,Drew,Hahn,M,W,2003-01-10,United States,English
-doc_00019,Fletcher,Decristino,M,W,1990-11-18,United States,English
-doc_00020,Dominik,Thompson,M,W,1999-01-31,Canada,French
-doc_00021,Xavier,Samuels,M,B,1993-07-13,United States,English
-doc_00022,Thomas,Foster,M,W,1997-04-16,United States,English
-doc_00023,Josiah,Edwards,M,W,1990-11-04,NA,Other
-doc_00024,Jonathon,Testa,M,W,2000-04-29,NA,Other
-doc_00025,Kristina,Mcneill,F,W,1996-10-15,United States,English
-doc_00026,Paul,Sanchez,M,H,1992-02-05,United States,English
-doc_00027,Nicholas,King,M,W,1994-07-01,United States,French
-doc_00028,Adrion,Brazell,M,B,1969-03-22,Mexico,Spanish
-doc_00029,Jamey,Edwards,M,W,1991-11-23,United States,English
-doc_00030,Patrick,Snow,M,W,2002-03-01,Canada,French
-doc_00031,Nathan,Varney,M,W,2001-05-12,United States,English
-doc_00032,Brian,Schmerge,M,W,1998-01-26,United States,English
-doc_00033,Chelsea,Smith,F,W,1995-08-04,United States,English
-doc_00034,Michael,Munoz,M,H,1991-02-13,Mexico,Spanish
-doc_00035,Andre,Rainwater,M,W,1983-11-06,United States,Other
-doc_00036,Dustin,Page,M,W,1988-12-30,United States,English
-doc_00037,Nicholas,Ferren,M,W,2003-04-07,United States,English
-doc_00038,Catherine,Smith,F,W,2004-06-02,Mexico,Spanish
-doc_00039,D'Angelo,Wright,M,B,2001-09-21,United States,English
-doc_00040,Alberto,Hereford,M,B,1994-10-03,United States,English
-doc_00041,Michael,Caughey,M,W,1996-01-30,United States,Spanish
-doc_00042,Steven,Cook,M,W,1977-02-03,United States,Other
-doc_00043,Myah,Walker,F,B,2000-04-28,United States,English
-doc_00044,Edward,Hernandez,M,H,1998-07-28,United States,English
-doc_00045,Chase,Simard,M,W,2003-09-30,United States,Other
-doc_00046,Jonah,Connell,M,W,1983-05-04,United States,English
-doc_00047,Jordan,Surber,M,W,1993-05-22,United States,English
-doc_00048,Lance,Hensinger II,M,AI,2000-04-14,United States,English
-doc_00049,Kyle,Baer,M,W,1993-07-26,United States,French
-doc_00050,Alix,Doremus,F,W,1999-10-26,United States,English
-doc_00051,Kaylee,Moua,F,A,1993-06-17,Canada,French
-doc_00052,Ronald,Stafford,M,B,1985-11-25,United States,English
-doc_00053,Benjamin,Lester,M,B,1994-03-09,NA,English
-doc_00054,Michael,Zaleski,M,W,1986-10-13,Mexico,Spanish
-doc_00055,Anthony,Grice,M,B,1995-08-25,United States,French
-doc_00056,Jennifer,Bird,F,AI,1998-08-18,United States,English
-doc_00057,Jaida,Hall,F,B,2000-07-12,Mexico,Spanish
-doc_00058,Dakota,Perkins,M,W,1999-02-08,United States,Spanish
-doc_00059,Tanner,Von Bank,M,W,1997-04-26,NA,Other
-doc_00060,Kaylie,Braund,F,W,1998-02-03,United States,English
-doc_00061,David,Malin,M,B,1986-07-26,NA,Spanish
-doc_00062,Fuad,Felthager,M,W,1997-02-18,NA,Other
-doc_00063,Mikhail,Maynard,M,W,1988-12-10,United States,English
-doc_00064,Anna,Kramer,F,W,1989-09-27,United States,English
-doc_00065,Mohamed,Speights,M,B,2003-12-04,United States,English
-doc_00066,Myles,Osazuwa,M,B,1989-05-11,United States,English
-doc_00067,Josiah,Ross,M,B,2001-04-09,Mexico,Spanish
-doc_00068,Gianna,Christians,F,B,1989-05-30,Mexico,Spanish
-doc_00069,Dillon,Snyder,M,W,2000-09-08,NA,Spanish
-doc_00070,Walter,Annan,M,B,2002-05-14,Mexico,Spanish
-doc_00071,Ryan,Nelsen,M,W,1986-08-21,United States,Spanish
-doc_00072,Brian,Iverson,M,W,1999-12-23,United States,English
-doc_00073,Kyle,Cruz,M,W,1986-08-15,United States,English
-doc_00074,Kyle,Thorfinson,M,W,1982-06-30,United States,English
-doc_00075,Levi,Nededog,M,AI,1985-06-24,Mexico,Other
-doc_00076,Samuel,Miller,M,AI,1993-04-21,United States,English
-doc_00077,Waylon,Senkosky,M,W,2002-07-17,United States,English
-doc_00078,Kendall,Lindt,F,W,1991-09-22,United States,English
-doc_00079,Javonte,Eastham,M,B,1993-11-07,United States,English
-doc_00080,Saxon,Milliner,M,B,1997-11-28,United States,English
-doc_00081,Kaeli,Toomey,F,W,1996-04-16,United States,English
-doc_00082,Melanie,Bonner,F,B,2001-05-10,Mexico,Spanish
-doc_00083,Jazen,Snorton,M,B,1993-04-16,Mexico,English
-doc_00084,Kelly,Stoops,F,W,2004-08-04,Mexico,Spanish
-doc_00085,Braxton,Linga,M,B,1997-04-21,United States,English
-doc_00086,Bernard,Reda,M,B,1990-09-04,United States,English
-doc_00087,Nicholas,Matzdorf,M,W,2003-11-08,Mexico,Spanish
-doc_00088,Amy,Childers,F,W,2000-03-29,United States,English
-doc_00089,Dominick,Behr,M,W,1997-12-10,United States,English
-doc_00090,Michael,Gulbrandson,M,W,1995-10-12,United States,English
-doc_00091,Josey,Bandi,M,W,2001-09-05,Mexico,Spanish
-doc_00092,Xavier,Rosen,M,B,1994-08-13,United States,English
-doc_00093,Antonio,Walton,M,B,1996-06-04,United States,English
-doc_00094,Jacob,Evans,M,W,1992-12-13,United States,Other
-doc_00095,Frank,Cave,M,W,1998-11-29,NA,Spanish
-doc_00096,Amelia,Etsitty,F,AI,2003-01-08,United States,English
-doc_00097,Ricardo,Ortiz,M,H,2001-01-27,NA,English
-doc_00098,John,Ditter,M,W,1992-10-19,United States,Other
-doc_00099,Joshua,Loya Barron,M,H,1999-11-27,United States,English
-doc_00100,Sean,Dezendorf,M,W,1998-12-30,United States,English
-doc_00101,Jesus,Castro,M,H,2000-10-17,United States,English
-doc_00102,Jacob,Kunin,M,W,2002-03-17,Canada,French
-doc_00103,Sai,Jasica,M,W,1996-09-10,United States,Spanish
-doc_00104,Matthew,Taylor,M,W,1996-02-06,United States,English
-doc_00105,Robert,Norris,M,B,2003-04-12,United States,English
-doc_00106,Jared,Douglas,M,W,2000-11-11,United States,English
-doc_00107,Michael,Riggins,M,B,1998-12-16,United States,Spanish
-doc_00108,Chase,Burdt,M,W,1988-11-08,United States,English
-doc_00109,Peyton,Schroeder,M,W,1995-02-17,United States,English
-doc_00110,Mylo,Sanchez,M,H,2002-11-18,United States,English
-doc_00111,Joseph,Evans,M,B,1982-06-14,United States,English
-doc_00112,Victoria,Mcmillin,F,W,1993-03-11,United States,English
-doc_00113,Austin,Nichols,M,AI,1998-07-26,Mexico,Spanish
-doc_00114,Lucas,Pfeifer,M,W,1983-10-15,United States,English
-doc_00115,Tyrell,Kinloch,M,B,1971-06-11,United States,English
-doc_00116,Christian,Magee,M,B,1998-10-06,NA,French
-doc_00117,Terrence,Kovinchick,M,B,2002-02-03,United States,French
-doc_00118,Nicholas,Muehlethaler,M,W,1988-08-25,United States,English
-doc_00119,Essence,Johnson,F,B,1997-10-05,United States,English
-doc_00120,Molly,Hoffpauir,F,W,1998-09-28,Canada,French
-doc_00121,Andrew,Hobbs,M,B,1999-10-16,United States,English
-doc_00122,Daniel,Ramirez,M,H,1986-03-30,United States,English
-doc_00123,Antoinette,Bradley,F,B,1998-11-12,Mexico,Spanish
-doc_00124,Michael,Havens,M,W,1994-01-13,United States,English
-doc_00125,Tevin,Wesley,M,B,1997-09-25,United States,English
-doc_00126,Tre,Peters-Maloy,M,B,1984-05-13,United States,French
-doc_00127,Guillermo Leon,Gonzalez,M,H,1994-11-23,Mexico,Spanish
-doc_00128,Travis,Dowling,M,W,2001-10-03,United States,English
-doc_00129,Clifton,Jackson,M,B,1981-08-16,Canada,French
-doc_00130,Taryn,Thornton,F,B,1992-02-05,United States,English
-doc_00131,Kathleen,Quiat,F,W,1999-05-21,United States,English
-doc_00132,Karolina,Trujillo,F,H,2000-01-18,Mexico,Spanish
-doc_00133,Kalaja,Fernandez,F,H,2000-11-27,United States,English
-doc_00134,Ateeba,Jones,M,B,1995-03-24,United States,Other
-doc_00135,Kevin,Holmes,M,W,1978-11-29,Mexico,Spanish
-doc_00136,Corey,Prutch,M,W,1998-02-08,United States,English
-doc_00137,Davondrick,Cudjoe,M,B,1986-08-06,United States,English
-doc_00138,Allen,Ernstoff,M,W,2003-08-16,United States,French
-doc_00139,Jared,Rude,M,W,1988-01-08,Canada,English
-doc_00140,Deion,Banks,M,B,1982-06-02,United States,English
-doc_00141,Brendan,Ross,M,H,2001-05-17,United States,French
-doc_00142,Brian,Spencer,M,W,1998-10-25,United States,English
-doc_00143,Stephanie,Kawata,F,A,1997-02-07,United States,English
-doc_00144,Daniel,Deleon,M,H,2002-02-15,United States,Spanish
-doc_00145,Mario,Woolfolk,M,B,2004-04-23,United States,English
-doc_00146,Kyle,Lightsey,M,W,1996-03-06,United States,Spanish
-doc_00147,Ashley,Gallegos,F,H,1996-06-03,United States,English
-doc_00148,Brandon,Malin,M,W,1995-08-22,United States,English
-doc_00149,Gunnar,White,M,W,1995-05-10,United States,English
-doc_00150,Isaiah,Petters,M,B,1998-03-05,Mexico,Spanish
-doc_00151,Tristan,Schmitt,M,W,1981-08-04,United States,English
-doc_00152,Jesus,Parker,M,H,2004-01-02,Canada,Other
-doc_00153,Brandon,Owens,M,W,2000-01-06,Mexico,Spanish
-doc_00154,Zachary,Von Riesemann,M,W,1994-01-02,United States,Spanish
-doc_00155,Frank,Renehan,M,A,2000-05-24,United States,English
-doc_00156,Tyler,Hazel,M,B,2001-01-25,United States,Spanish
-doc_00157,Diego,Chacon,M,H,2004-10-13,United States,English
-doc_00158,Aubrye,Chapman,M,B,2000-01-02,United States,English
-doc_00159,Dominic,Martin,M,AI,1989-04-29,Canada,English
-doc_00160,Kayla,Black,F,B,1996-05-15,United States,English
-doc_00161,Brandon,Collison,M,W,2000-11-23,United States,Spanish
-doc_00162,Megan,Farver,F,W,1992-07-08,United States,English
-doc_00163,Mahamed,Daniels,M,B,2004-07-08,United States,English
-doc_00164,Sean,Kennaday,M,W,1998-02-20,United States,English
-doc_00165,Xavier,Andersen,M,W,1988-02-02,United States,English
-doc_00166,Michael,Greaves,M,W,1994-10-07,United States,English
-doc_00167,Jose,Amthor,M,H,2005-03-09,Mexico,French
-doc_00168,Brendan,Good,M,W,1999-11-15,United States,English
-doc_00169,Alexander,Meline,M,W,1990-09-23,Mexico,Spanish
-doc_00170,Tanner,Entz,M,W,2002-01-01,United States,Spanish
-doc_00171,Shane,Culley,M,W,1988-12-22,United States,English
-doc_00172,Eris,Luke,M,B,2005-11-09,NA,Other
-doc_00173,Brandon,Beckman,M,W,1999-09-16,United States,English
-doc_00174,Shahlia,Gadison,F,B,1988-04-27,Mexico,Spanish
-doc_00175,Saron,Jacquet,F,B,2004-07-04,United States,English
-doc_00176,Kit,Courteau,M,W,1993-03-28,United States,English
-doc_00177,Jordann,Barkley,F,W,1981-03-28,Mexico,Spanish
-doc_00178,Vanmichael,Wesley,M,B,1991-03-09,United States,English
-doc_00179,Jason,Hunter,M,W,1998-05-16,United States,English
-doc_00180,Matthew,Arnold,M,W,1996-05-16,United States,Other
-doc_00181,Natasha,Tate,F,W,1998-01-05,Mexico,Spanish
-doc_00182,Briella,Leffler,F,W,1998-10-20,United States,English
-doc_00183,Dylan,Russell,M,W,1999-03-22,United States,English
-doc_00184,Bryan,Long,M,W,2001-10-01,United States,Other
-doc_00185,Blake,Penn,M,B,1991-05-05,United States,English
-doc_00186,Jory,Hart,M,W,1993-07-17,NA,Other
-doc_00187,Monico,Almanza,M,H,1990-11-07,Mexico,Spanish
-doc_00188,Tanner,Campbell,M,W,2002-04-07,United States,English
-doc_00189,Brandon,Kim,M,A,1997-05-04,United States,English
-doc_00190,William,Smith,M,W,1994-03-21,United States,English
-doc_00191,Equira,Tsegay,F,B,2001-05-08,United States,English
-doc_00192,Annsley,Zaharko,F,W,1996-10-13,United States,English
-doc_00193,Joseph,Woodward,M,W,1986-04-30,United States,English
-doc_00194,Christian,Dudley,M,B,1999-03-26,Mexico,Spanish
-doc_00195,Damien,Johnson,M,B,1999-09-03,Mexico,English
-doc_00196,Cody,Pakenham,M,W,2004-02-02,United States,Spanish
-doc_00197,Cora,Panozzo,F,W,2006-06-25,United States,English
-doc_00198,Miguel,Mendez,M,H,1995-10-15,United States,Spanish
-doc_00199,Samuel,Ghebre,M,B,2002-05-21,Mexico,Spanish
-doc_00200,Solomon,Clark,M,B,1993-05-19,United States,Spanish
-doc_00201,Blake,Miller,M,W,1986-01-24,United States,English
-doc_00202,Matthew,Chung,M,A,1999-10-25,United States,Spanish
-doc_00203,Austin,Rhoads,M,W,1995-11-04,United States,English
-doc_00204,Shaun,Daggett,M,W,1999-08-10,United States,English
-doc_00205,Dani,Northrup,F,W,1995-01-01,United States,French
-doc_00206,Brian,Omotosho,M,B,2000-05-15,Mexico,Spanish
-doc_00207,Grant,Cottam,M,W,1999-07-18,United States,English
-doc_00208,Adrian,Mclaughlin,M,B,1985-07-12,United States,English
-doc_00209,Ian,Jackson,M,B,1999-03-19,Mexico,Spanish
-doc_00210,Austin,Trujillo,M,W,1984-11-29,Mexico,Spanish
-doc_00211,Vanessa,Branch,F,B,1993-01-20,United States,English
-doc_00212,Danica,Acevedo-Gutierrez,F,H,1998-11-09,United States,English
-doc_00213,Connor,Cottingham,M,W,1998-10-12,United States,English
-doc_00214,Anakary,Flores,F,H,1992-01-13,Mexico,Spanish
-doc_00215,Cera,Wold,F,W,1999-11-30,United States,English
-doc_00216,William,Smith,M,W,1997-01-31,Canada,English
-doc_00217,Sean,Trotter,M,W,1998-10-09,United States,English
-doc_00218,Jacqueline,Johnson,F,W,1997-02-02,United States,Spanish
-doc_00219,Andrew,Oakley-Small,M,W,1993-03-10,Mexico,English
-doc_00220,Phillip,Skovrinski,M,W,1993-06-18,Mexico,English
-doc_00221,Brandon,Cole,M,B,2002-01-10,United States,English
-doc_00222,Maximilliano,Pereira,M,H,1969-05-29,Mexico,Spanish
-doc_00223,Willis,Whipple,M,AI,2003-12-05,Canada,French
-doc_00224,Keith,Davis,M,B,1997-10-01,Mexico,Spanish
-doc_00225,Taylor,Erhardt,F,W,1995-03-23,Mexico,Spanish
-doc_00226,Elisabeth,Worthley,F,W,2000-08-18,United States,English
-doc_00227,Dakota,King,M,A,1997-10-26,United States,English
-doc_00228,Michael,Hoggan,M,W,2001-06-23,Mexico,Other
-doc_00229,Flint,Jackson,M,W,1983-07-27,United States,English
-doc_00230,Dion,Shells,M,B,1986-11-17,Mexico,Spanish
-doc_00231,Teyawna,Kalu,F,B,1997-02-01,Canada,English
-doc_00232,Stephanie,Sherrod,F,B,2001-05-08,Canada,English
-doc_00233,Tobias,Mathews,M,B,2001-08-18,Mexico,Spanish
-doc_00234,Dawson,Oskvarek,M,W,1986-05-28,United States,English
-doc_00235,Aaron,Wells,M,AI,2005-04-02,United States,English
-doc_00236,Avani,Nhin,F,A,1994-08-20,Mexico,Spanish
-doc_00237,Jai,Duley,F,B,1984-12-27,United States,English
-doc_00238,Jonathan,Guerrero,M,H,2001-03-13,United States,English
-doc_00239,Alberto,Johnson,M,B,1996-03-29,United States,English
-doc_00240,Dillon,Garcia,M,H,2005-04-05,United States,English
-doc_00241,Rayhan,Green,M,B,1996-09-14,United States,English
-doc_00242,Bayley,Corrigan,M,W,1999-12-26,United States,English
-doc_00243,Oree,Peters-Maloy,M,B,2002-05-11,United States,English
-doc_00244,Carl,Casper,M,AI,1998-11-28,United States,English
-doc_00245,Mitchell,Ringdahl,M,W,1983-08-17,Mexico,Spanish
-doc_00246,Raelynn,Spafford,F,W,1996-08-16,United States,English
-doc_00247,Deangelo,Nelson,M,B,1998-09-11,United States,English
-doc_00248,Kacey,Bohn,M,W,1995-01-04,Mexico,Spanish
-doc_00249,Jordan,Jones,M,B,1997-07-16,Mexico,Spanish
-doc_00250,Nya,Smith,F,B,1998-05-30,United States,English
-doc_00251,Derik,Reno,M,W,1993-02-22,Mexico,Spanish
-doc_00252,James,Turner,M,W,2001-10-11,United States,English
-doc_00253,Mychael,Hall,M,B,1990-10-28,Mexico,Spanish
-doc_00254,Joshua,Johnson-Reagor,M,B,1994-12-06,NA,Other
-doc_00255,Chandler,Herman,M,W,1995-02-06,United States,Spanish
-doc_00256,Garret,Sedmak,M,W,1997-03-31,United States,English
-doc_00257,Morgen,Foster,M,B,1990-04-13,United States,Spanish
-doc_00258,Dominique,Miller,M,B,1999-02-04,United States,English
-doc_00259,Damiane,Jackson,M,B,1999-07-14,United States,English
-doc_00260,Levy,Vargas,M,H,1992-06-21,United States,English
-doc_00261,Marco,Salas,M,H,1993-08-12,United States,English
-doc_00262,Ryan,Jones,M,W,2000-05-13,United States,Spanish
-doc_00263,Garrett,Parker,M,W,2000-04-06,United States,English
-doc_00264,Rodney,Graves,M,B,2002-11-21,United States,English
-doc_00265,Carley,Howard,F,W,1993-11-21,NA,Other
-doc_00266,Stephen,Dreiling,M,W,1988-08-07,United States,English
-doc_00267,Matthew,Carter,M,B,1986-04-15,United States,English
-doc_00268,Brandon,Carter,M,B,1996-09-27,United States,English
-doc_00269,Tavion,Elmore,M,B,1994-08-05,United States,English
-doc_00270,Chabewra,Turner,M,B,1993-08-12,United States,Spanish
-doc_00271,Joshua,Lindstrom,M,W,1996-04-14,Mexico,Spanish
-doc_00272,Caleb,Schuster,M,W,1984-08-03,United States,English
-doc_00273,Kai,Glasgow,M,W,2002-05-16,Mexico,Spanish
-doc_00274,Dondre,Parnell,M,B,2004-11-11,NA,Spanish
-doc_00275,Mika,Santee,F,AI,1986-10-13,United States,English
-doc_00276,Briana,Simpson,F,AI,2004-01-08,United States,English
-doc_00277,Nathan,Sanchez,M,H,2004-11-23,United States,English
-doc_00278,Angie,Duron,F,H,1982-03-08,United States,English
-doc_00279,Rickey,Hardin,M,B,1987-04-24,United States,English
-doc_00280,Daniel,Culbreath-Whitaker,M,B,2000-07-08,United States,English
-doc_00281,Marcus,Hatcher,M,B,1999-07-14,United States,Other
-doc_00282,Ruben,Corral Arredondo,M,H,2000-03-27,United States,English
-doc_00283,Samuel,Michener,M,W,2003-02-12,United States,English
-doc_00284,Curtis,Pilafas,M,W,1996-02-05,United States,English
-doc_00285,Alec,Aukerman,M,W,1989-01-28,United States,Spanish
-doc_00286,Daisy,Baros,F,H,1995-04-18,Mexico,Spanish
-doc_00287,Nathan,Gabel,M,W,1996-08-04,Mexico,Spanish
-doc_00288,Jacob,Poggi,M,W,1996-06-22,United States,English
-doc_00289,Collin,Kagey,M,W,1962-12-26,United States,French
-doc_00290,Marshall,Smith,M,W,1999-05-13,United States,Spanish
-doc_00291,Andrew,Kohn,M,W,1999-08-14,United States,English
-doc_00292,Bruce-Anthony,Mensah,M,B,1982-02-01,Canada,English
-doc_00293,Bethan,Lasher,F,W,1995-06-04,United States,English
-doc_00294,Demetrus,Henson,M,B,1991-04-22,United States,English
-doc_00295,Lynea,Harris,F,B,1999-07-28,United States,English
-doc_00296,Dylan,Vandyke,M,W,1999-01-24,United States,English
-doc_00297,Skyler,Heath,M,W,1995-07-24,Mexico,Spanish
-doc_00298,Matthew,Andrade,M,H,2001-08-25,United States,English
-doc_00299,Taylor,Granados Garcia,M,AI,1992-03-27,United States,English
-doc_00300,Maurice,Johnson,M,B,1991-03-06,United States,English
-doc_00301,Frank,Merwarth,M,W,2003-01-15,NA,English
-doc_00302,Brianna,Lukas,F,W,2002-07-16,United States,English
-doc_00303,Devon,Sandoval,M,B,1988-05-05,United States,English
-doc_00304,Sami,Hill,M,W,1996-05-11,United States,Spanish
-doc_00305,Jaisean,Lopez,M,B,2004-08-24,NA,English
-doc_00306,Duncan,Brutout,M,AI,1997-06-07,Mexico,Spanish
-doc_00307,Matthew,Oughton,M,W,1991-03-02,Mexico,Spanish
-doc_00308,Taylor,Nasreldin,F,B,2001-07-06,United States,English
-doc_00309,Jentry,Polkinghorn,F,W,1994-08-19,United States,English
-doc_00310,Victor,Espinoza,M,H,1999-04-27,United States,English
-doc_00311,Brejona,Buckley,F,B,1993-03-23,United States,English
-doc_00312,Cassandra,Brunette,F,W,1989-03-08,NA,English
-doc_00313,Kyle,Seeton,M,W,1981-03-18,United States,English
-doc_00314,Kyle,Weiner,M,W,1996-09-28,United States,English
-doc_00315,Isaiah,Barney,M,W,1998-04-17,United States,English
-doc_00316,Tijan,Hull,M,B,1991-02-04,United States,French
-doc_00317,Kirkland,Dotson,M,W,1997-12-23,NA,Spanish
-doc_00318,Aaron,Fox,M,W,1991-07-07,United States,English
-doc_00319,Jessie,Ortner,F,W,1991-12-27,United States,English
-doc_00320,Heaven,Milton,F,W,1990-08-23,United States,English
-doc_00321,Rodney,Burton,M,W,1995-06-15,United States,Spanish
-doc_00322,Ezequiel,Francescato,M,W,1991-11-15,Mexico,Spanish
-doc_00323,Alexandra,Bocanegra,F,H,1993-01-31,United States,English
-doc_00324,Annastasia,Bailey,F,B,2003-11-26,United States,English
-doc_00325,Sereno,Hernandez,M,AI,2000-12-09,United States,English
-doc_00326,Zachary,Davis,M,W,1998-01-24,Mexico,Spanish
-doc_00327,Danielle,Deshiro,F,W,1993-02-05,United States,English
-doc_00328,Hayley,Hans,F,W,1987-11-26,Mexico,Spanish
-doc_00329,Devin,Hutcherson,M,W,1991-12-01,United States,French
-doc_00330,Stephen,Schmehl,M,W,1982-10-23,NA,Other
-doc_00331,Logan,Deal,M,W,2000-11-18,United States,Other
-doc_00332,Abel,Jackson,M,B,1996-09-18,United States,English
-doc_00333,Kylina,Casey,F,AI,2005-02-08,United States,English
-doc_00334,Thomas,Rash,M,W,1999-07-16,United States,English
-doc_00335,Trenton,Fell,M,W,1999-04-27,United States,English
-doc_00336,Michael,James,M,W,1987-09-28,NA,Other
-doc_00337,Parker,Bodrogi,M,W,2001-06-19,United States,English
-doc_00338,David,Kale,M,W,2001-09-28,United States,English
-doc_00339,Devon,Enriquez,M,H,1993-11-08,United States,English
-doc_00340,Timothy,Ayala,M,H,1978-03-19,Mexico,Spanish
-doc_00341,Tyler,Hash,M,W,1992-02-27,United States,English
-doc_00342,Rebecca,Sawaked,F,W,1986-08-15,United States,English
-doc_00343,Alejondro,Gonzalez,M,H,1999-03-31,United States,English
-doc_00344,Eddie,Fontenette,M,B,1999-12-28,United States,English
-doc_00345,Julio,Stafford,M,B,2000-03-21,NA,English
-doc_00346,Kelby,Friel,M,W,2002-06-17,United States,English
-doc_00347,Ryan,Cano,M,H,2000-03-22,United States,English
-doc_00348,Matthew,Langer,M,W,1990-06-04,United States,Spanish
-doc_00349,Cameron,Weed,M,W,2003-06-11,United States,English
-doc_00350,Maximillian,Rowland,M,W,1992-12-08,Mexico,Spanish
-doc_00351,Joseph,Cheeseboro,M,B,1997-12-02,NA,Spanish
-doc_00352,Kyle,Stevenson,M,B,1985-11-07,United States,English
-doc_00353,Sierra,Vasquez,F,H,2001-11-06,Mexico,Spanish
-doc_00354,Christopher,Taylor,M,B,1993-01-28,Canada,English
-doc_00355,Samuel,Sowell-Boyes,M,B,1997-09-15,United States,English
-doc_00356,Martin,Peterson,M,W,1994-05-15,United States,English
-doc_00357,Gabrielle,Simpson,F,B,1999-02-01,United States,English
-doc_00358,Jose,Atencio,M,H,1993-08-18,United States,English
-doc_00359,Blake,Mclaughlin,M,W,1996-07-01,NA,English
-doc_00360,Donald,Fletcher,M,B,1997-03-07,United States,English
-doc_00361,Cameron,Panozzo,M,W,1988-10-11,United States,English
-doc_00362,Ian,Simonton,M,W,1989-06-20,United States,French
-doc_00363,Mark,Mulholland,M,W,2005-01-31,Mexico,Spanish
-doc_00364,Seth,Flynn,M,W,1989-02-17,NA,Spanish
-doc_00365,Jamar,Guillory-Williams,M,B,2003-05-25,Mexico,Spanish
-doc_00366,Matthew,Lopez,M,H,1982-07-08,United States,English
-doc_00367,Kathleen,Wilcocks,F,W,1994-05-26,NA,French
-doc_00368,Tyrell,Cooper,M,B,1995-11-23,Mexico,Spanish
-doc_00369,Darian,Morgan,M,B,2003-09-09,Mexico,Spanish
-doc_00370,Jacob,Fryer,M,AI,1999-06-21,Mexico,Spanish
-doc_00371,Facundo,Fernandez,M,H,2002-03-12,United States,English
-doc_00372,Domingo,Romain,M,W,1984-12-04,NA,English
-doc_00373,Gabriel,Bozeman,M,B,2003-10-02,United States,English
-doc_00374,Jose,Chavez,M,H,1997-10-12,United States,Spanish
-doc_00375,Antonio,Ingram,M,B,1994-01-21,Mexico,Spanish
-doc_00376,Ryan,Rodrigues,M,B,1997-04-12,United States,English
-doc_00377,Geneva,Willis,F,B,1999-07-14,Mexico,English
-doc_00378,Daniel,Zielinski,M,W,1990-12-04,United States,English
-doc_00379,Cory,Smith,M,B,1992-10-27,NA,Spanish
-doc_00380,Rachel,Lewis,F,W,1999-04-07,United States,English
-doc_00381,Rita,Rodriguez,F,H,1994-01-02,United States,English
-doc_00382,Devin,Merritt,M,B,2000-10-13,United States,English
-doc_00383,Samuel,King,M,W,2000-07-13,NA,Spanish
-doc_00384,Darius,Ewings,M,B,1997-01-08,United States,English
-doc_00385,Taylor,Ward,M,B,1987-11-26,Mexico,Spanish
-doc_00386,Stanley,Mount,M,W,1997-09-26,Mexico,Spanish
-doc_00387,Brandon,Ryg,M,W,1992-09-23,United States,Spanish
-doc_00388,Tyler,Fales,M,W,1977-11-06,United States,English
-doc_00389,Victor,Pina-Green,M,H,1986-07-19,Mexico,Spanish
-doc_00390,K-Linda,Her,F,A,1995-04-10,United States,English
-doc_00391,Kevon,Smith,M,B,1999-05-31,Mexico,Spanish
-doc_00392,Maxwell,Horutz,M,W,1982-07-05,Mexico,Spanish
-doc_00393,Joseph,Wilke,M,W,2002-01-24,Mexico,Spanish
-doc_00394,William,Williams,M,W,1993-07-12,United States,English
-doc_00395,Alexander,Peulen,M,W,1999-05-18,United States,English
-doc_00396,Chad,Giddings,M,W,1993-01-30,United States,English
-doc_00397,Kendrick,Hamilton,M,B,2002-05-04,United States,English
-doc_00398,Garrett,Fink,M,H,1990-05-20,Canada,English
-doc_00399,Hassan,Love,M,B,1998-05-17,United States,English
-doc_00400,Adrian,Torrez,M,H,1997-08-22,United States,English
-doc_00401,Jermaine,Mcgregor,M,B,1999-03-26,United States,English
-doc_00402,Colby,Ott,M,W,1980-01-10,United States,English
-doc_00403,Matthew,Cekis,M,W,2000-12-12,United States,English
-doc_00404,Marissa,Kegans,F,W,2004-02-04,Mexico,Spanish
-doc_00405,Alli,Flageolle,F,W,2003-06-11,Mexico,Spanish
-doc_00406,Scot,Zimmermann,M,W,1995-05-15,United States,Other
-doc_00407,Carlos,Williams,M,B,1996-12-16,NA,Other
-doc_00408,Austin,Garcia,M,W,1991-06-11,United States,English
-doc_00409,Samantha,Morelli,F,W,1988-06-03,United States,English
-doc_00410,Dustin,Lutz,M,W,2003-10-27,United States,English
-doc_00411,Sydney,Cunningham,F,W,1980-02-12,United States,English
-doc_00412,James,Murphy,M,W,1997-10-23,Mexico,Spanish
-doc_00413,John,Fernandez,M,H,1996-07-10,United States,Spanish
-doc_00414,James,Riser,M,B,1996-11-06,United States,English
-doc_00415,Ryan,Moore,M,W,1994-12-23,Mexico,Spanish
-doc_00416,Joshua,Donaldson,M,B,1999-06-04,United States,English
-doc_00417,Nolyn,Davis,M,B,1997-07-16,Mexico,Spanish
-doc_00418,Ayouba,Mccoy,M,B,1975-08-12,United States,English
-doc_00419,Devon,Carter,M,B,1989-01-29,United States,English
-doc_00420,Quincy,Machisa,M,B,1987-05-29,Mexico,Spanish
-doc_00421,James,Deegan,M,W,1997-12-14,United States,English
-doc_00422,David,Smith Jr,M,B,1979-09-28,United States,English
-doc_00423,Deshon,Lovett,M,B,1984-08-18,United States,English
-doc_00424,Drakkar,Sisay,M,B,1993-03-08,Mexico,English
-doc_00425,Tanner,Foster,M,W,1996-12-25,United States,English
-doc_00426,Sean,Beaumont,M,W,2000-04-24,United States,English
-doc_00427,Jamil,Thornton,M,B,2001-12-15,United States,English
-doc_00428,Monta`,Allen,M,B,2002-08-01,United States,English
-doc_00429,Michaela,Younger,F,W,1999-02-23,United States,English
-doc_00430,Kiearra,Hoffman,F,W,1990-06-24,United States,English
-doc_00431,Madison,Conti,F,W,1998-08-06,Mexico,Spanish
-doc_00432,Abysolome,Rabb,M,B,1987-08-16,United States,English
-doc_00433,Dennis,Critton-Brown,M,B,1992-07-01,Mexico,Spanish
-doc_00434,Zachery,Turner,M,W,1999-09-01,United States,English
-doc_00435,Adam,Martinez,M,H,1994-03-14,United States,English
-doc_00436,Richard,Lightfoot,M,AI,1992-09-21,Mexico,Spanish
-doc_00437,Chandel,Oyebi,F,AI,1999-09-24,United States,English
-doc_00438,Marcus,Brooks,M,B,1997-01-27,United States,English
-doc_00439,Matthew,Blaeholder,M,AI,1990-09-28,United States,Other
-doc_00440,Hannah,Lewis,F,W,1995-04-17,Mexico,Spanish
-doc_00441,Joshua,Black,M,W,1995-05-26,United States,Spanish
-doc_00442,Katherine,Paulsen,F,W,2004-06-09,United States,English
-doc_00443,Colton,Luehrs,M,W,1995-02-18,Canada,English
-doc_00444,Kylie,Makela,F,W,1994-07-16,United States,English
-doc_00445,Kathleen,Harsch,F,W,2001-10-14,Canada,English
-doc_00446,Clarence,Lee,M,B,1994-12-28,United States,Spanish
-doc_00447,Seth,Suazo,M,H,2000-07-27,Canada,English
-doc_00448,Lukas,Smith,M,W,1988-01-23,United States,English
-doc_00449,Christopher,Hutchinson,M,A,1994-12-27,Canada,French
-doc_00450,Jason,Pitts,M,W,1996-05-28,NA,English
-doc_00451,Patrick,Hiler,M,W,1991-06-25,United States,English
-doc_00452,Beverly,Robinson,F,B,2000-11-25,United States,Spanish
-doc_00453,Matthew,Phelka,M,W,1997-09-02,United States,English
-doc_00454,Narvell,Kelley,M,B,1992-03-12,United States,French
-doc_00455,Derek,Trevithick,M,W,1999-09-05,United States,English
-doc_00456,Dallas,Sappington,M,W,1990-12-27,United States,English
-doc_00457,Jacub,Smith,M,B,1999-10-16,United States,English
-doc_00458,Keegan,Liston,M,W,1994-10-23,United States,English
-doc_00459,Ethan,Dondelinger,M,W,2002-06-01,Canada,French
-doc_00460,John,Berhe,M,B,1989-01-29,United States,Spanish
-doc_00461,Jahmell,Davis,M,B,1981-12-08,United States,English
-doc_00462,Cameron,Broadus,M,B,1996-09-30,Mexico,Spanish
-doc_00463,Christian,Holdaway,M,W,2000-02-28,United States,English
-doc_00464,Devon,Baker,M,W,1998-09-07,United States,English
-doc_00465,Joshua,Williams,M,AI,1989-10-12,United States,English
-doc_00466,Marquis,Spangler,M,W,1998-11-21,Mexico,Spanish
-doc_00467,Justin,Erig,M,B,2005-07-02,NA,Spanish
-doc_00468,Tyler,Bomberg,M,W,2002-08-06,United States,English
-doc_00469,Hrach,Miller,M,W,1999-07-22,United States,English
-doc_00470,Ryan,Rodriguez-Jurado,M,H,1986-03-14,Mexico,Spanish
-doc_00471,Adulis,Gillespie,M,B,2003-07-21,Mexico,Spanish
-doc_00472,Jesse,Hassell,M,W,1998-01-29,United States,English
-doc_00473,William,Meza,M,H,1993-07-19,United States,English
-doc_00474,Jacob,Allen,M,W,1992-01-10,United States,Other
-doc_00475,Brandon,Haney,M,W,1983-02-02,United States,French
-doc_00476,Nathaniel,Benjamin,M,B,1996-04-14,United States,Spanish
-doc_00477,Colton,Murray,M,W,2001-01-31,United States,English
-doc_00478,Gary,Clopton,M,B,2003-03-24,Mexico,Spanish
-doc_00479,Ramon,Escobar,M,H,1999-04-19,United States,English
-doc_00480,Ronald,Hunter,M,B,2000-03-11,United States,Other
-doc_00481,Tumaini,Lander,F,B,1998-01-31,United States,English
-doc_00482,Nathaniel,Gonzales,M,H,1996-11-07,United States,Spanish
-doc_00483,Rafael,Kabotie,M,AI,2002-10-04,United States,Spanish
-doc_00484,Matthew,Sheehan,M,W,1999-06-02,Canada,French
-doc_00485,Keenan,Downs,M,W,1988-07-02,United States,French
-doc_00486,Raul,Bower,M,H,1996-10-25,United States,Spanish
-doc_00487,Gabriel,Agede,M,B,1982-05-21,Canada,French
-doc_00488,Matthew,Ray,M,W,1980-04-18,NA,English
-doc_00489,Nikhil,Tran,M,A,1995-02-10,United States,English
-doc_00490,Tyreese,Talley,M,B,1994-02-13,United States,English
-doc_00491,Brandi,Cloud,F,AI,2000-08-26,United States,Spanish
-doc_00492,Avery,Lahman,M,W,1997-04-04,United States,English
-doc_00493,Maya,Likianos,F,B,1993-01-06,United States,English
-doc_00494,Jeffrey,Boss,M,W,1996-10-10,United States,English
-doc_00495,Aubrey,Schulke,F,W,1993-01-25,Mexico,Spanish
-doc_00496,Pamela,Wilson,F,AI,2000-07-08,United States,French
-doc_00497,Keimont,Williams,M,B,1994-06-25,Mexico,Spanish
-doc_00498,Donovan,Richardson,M,AI,1998-12-29,United States,English
-doc_00499,Garrett,Trefethen,M,W,1994-04-08,United States,Spanish
-doc_00500,Andrew,Purevsuren,M,A,1996-04-27,United States,English
-doc_00501,David,Johnson,M,W,1984-12-31,United States,English
-doc_00502,Austen,Holness,M,B,1993-11-11,Mexico,Spanish
-doc_00503,Samuel,Zeigler,M,B,1990-01-09,United States,English
-doc_00504,Samuel,Bellin,M,W,1991-05-14,United States,English
-doc_00505,Jeffrey,Lee,M,B,1989-02-15,United States,English
-doc_00506,Devin,Terry Jr,M,B,1993-09-05,Mexico,Spanish
-doc_00507,Craig,Jones,M,B,1998-08-30,United States,Spanish
-doc_00508,Joseph,Biby,M,W,2000-04-12,United States,English
-doc_00509,Alexander,Treuttens,M,W,2001-03-24,United States,French
-doc_00510,James,Kajtazovic,M,W,1986-12-24,United States,English
-doc_00511,Jonathan,Sisneros,M,H,1986-06-04,Mexico,Spanish
-doc_00512,Ryan,Magnuson,M,W,1993-06-03,Canada,English
-doc_00513,Brady,Francom,M,W,1996-12-14,Mexico,Spanish
-doc_00514,Christopher,Krieg,M,W,1997-01-09,United States,English
-doc_00515,Jordan,Meek,M,W,1991-04-25,United States,English
-doc_00516,Garrett,Cline,M,W,1996-06-05,United States,English
-doc_00517,Daniel,Emanuelson,M,W,1996-06-15,United States,English
-doc_00518,Dylan,Crane,M,W,1995-04-26,United States,French
-doc_00519,Damione,Nwankwo,M,B,1997-09-10,United States,English
-doc_00520,Joseph,Hering,M,AI,1999-12-20,NA,French
-doc_00521,Giovonnie,Marchman,M,B,1993-03-12,United States,English
-doc_00522,Justin,Marolt,M,W,1991-06-08,United States,Spanish
-doc_00523,Luke,Rogge,M,W,1983-10-14,United States,English
-doc_00524,Blake,Fleer,M,W,1999-12-11,United States,Other
-doc_00525,Justin,Gilbert,M,B,1990-11-05,United States,English
-doc_00526,Patrick,Kreul,M,AI,1995-12-26,Mexico,Spanish
-doc_00527,Andrew,Harvey,M,W,1999-09-04,United States,English
-doc_00528,Destination,Schweizer,F,W,2001-07-09,United States,English
-doc_00529,Athena,Rico,F,B,2002-11-20,Mexico,Spanish
-doc_00530,Maria,Rau,F,H,1995-01-22,United States,French
-doc_00531,Jasmine,Williams,F,B,1999-08-27,United States,Spanish
-doc_00532,Brooke,Rustin,F,W,1997-03-07,Canada,French
-doc_00533,William,Simmons,M,AI,1998-06-22,United States,Spanish
-doc_00534,Safia,Gammon,F,B,1999-08-15,United States,English
-doc_00535,La-Deige,Tasco,F,B,2001-05-06,NA,English
-doc_00536,Cody,Barrett,M,W,1992-03-26,United States,English
-doc_00537,James,Mccabe,M,AI,1999-04-05,Mexico,Spanish
-doc_00538,Adedotun,Dunn,M,B,2000-06-23,Canada,French
-doc_00539,Courtney,Bloom,F,W,2000-11-24,Mexico,Spanish
-doc_00540,Julia,Aguon,F,H,1986-03-24,United States,Spanish
-doc_00541,Matthew,Vigil,M,H,1986-03-11,United States,English
-doc_00542,Daniel,Herrmann,M,W,2000-01-02,United States,English
-doc_00543,Alison,Hill,F,W,2005-01-20,United States,English
-doc_00544,Gordon,Verdos,M,A,1996-03-04,United States,Other
-doc_00545,Isaac,Rico,M,H,1997-10-16,United States,Spanish
-doc_00546,Robert,Gerlach,M,W,1998-08-27,United States,English
-doc_00547,Shiloh,Sawyer,M,B,1994-09-26,United States,English
-doc_00548,Joseph,Patterson,M,W,1990-08-30,United States,English
-doc_00549,Tyrae,Tolbert,M,B,1994-08-13,United States,English
-doc_00550,Domenic,Kassa,M,B,1987-12-30,United States,English
-doc_00551,Anna,Mulnix,F,W,1989-01-07,Mexico,Spanish
-doc_00552,Ronnie,Taylor,M,B,2003-01-15,United States,English
-doc_00553,Taraleah,Charley,F,AI,1991-10-19,Mexico,Spanish
-doc_00554,Levi,Mays,M,W,1985-10-24,United States,English
-doc_00555,Edwin,Gonzalez,M,H,1995-07-21,Mexico,Spanish
-doc_00556,Michael,Flores Martinez,M,H,1989-06-28,Mexico,Spanish
-doc_00557,Kevin,Bloodworth,M,W,1984-08-31,United States,English
-doc_00558,Christian,Pugh,M,B,1993-09-27,United States,English
-doc_00559,Eric,Thompson,M,W,1997-03-28,Mexico,Spanish
-doc_00560,Jacarre,Tidwell,M,B,1994-08-10,United States,Spanish
-doc_00561,Joshua,Cuevas,M,W,1992-06-04,Mexico,Spanish
-doc_00562,Bryce,Campbell,M,W,1992-11-17,United States,English
-doc_00563,Denay,Butler,F,B,1994-05-05,United States,English
-doc_00564,Jacob,Klomhaus,M,W,1995-05-08,United States,English
-doc_00565,Austin,Wake,M,B,1985-09-10,United States,English
-doc_00566,Francisco,Reyes-Montoya,M,H,1996-09-22,Canada,French
-doc_00567,Baylee,Evangelista,F,AI,1994-02-10,United States,English
-doc_00568,Garrett,Martin,M,W,1989-09-28,Canada,Other
-doc_00569,Carmelo,Medina,M,H,1994-05-22,United States,English
-doc_00570,Chad,Roberts,M,B,1998-04-07,United States,Spanish
-doc_00571,William,Jewell,M,W,1986-09-26,United States,English
-doc_00572,Brandon,Murray,M,W,1984-07-07,United States,Spanish
-doc_00573,Andrew,Brown,M,W,1989-08-01,Mexico,Spanish
-doc_00574,Joel,Barnes,M,B,2002-02-13,United States,Spanish
-doc_00575,Dalton,Kennedy,M,W,1996-05-25,Canada,French
-doc_00576,Donavan,Whitaker,M,B,2002-09-23,United States,English
-doc_00577,Matthew,Elliott,M,W,1994-07-09,United States,Spanish
-doc_00578,Richard,Fraire,M,H,2001-12-21,United States,English
-doc_00579,Martias,Ramirez,M,H,1990-12-21,Mexico,Spanish
-doc_00580,Sebastian,Thiede,M,W,1998-03-27,Mexico,English
-doc_00581,Dominique,Diltz,F,W,1997-05-18,United States,Other
-doc_00582,Kalen,Buford,M,B,2001-08-06,United States,English
-doc_00583,Celina,Torres,F,H,1994-09-18,NA,English
-doc_00584,Dominic,Silva-Miranda,M,H,1987-01-21,United States,Spanish
-doc_00585,Max,Hamer,M,W,2002-11-03,United States,English
-doc_00586,John,Johnson,M,A,2000-04-14,United States,English
-doc_00587,Zackery,Colony,M,W,1998-11-23,United States,English
-doc_00588,Melissa,Glover,F,W,1984-06-03,Mexico,Spanish
-doc_00589,Monique,Roy,F,AI,1992-06-24,United States,English
-doc_00590,Natalie,Byrnes,F,W,1997-08-23,United States,English
-doc_00591,Devon,Runyon,M,W,2000-04-03,United States,English
-doc_00592,Miguel,Lilgerose,M,H,1993-12-03,United States,Spanish
-doc_00593,Cregory,Rollerson,M,B,1993-03-01,United States,English
-doc_00594,Marquil,Allen,M,B,1990-04-23,Mexico,Other
-doc_00595,Ian,Reed,M,AI,1989-12-09,United States,English
-doc_00596,Tyler,Tobar,M,H,1990-02-05,United States,English
-doc_00597,Oscar,Perez,M,H,2002-02-14,United States,Spanish
-doc_00598,Jack,Trujillo,M,W,1999-01-20,Mexico,Spanish
-doc_00599,Denzel,Ola,M,B,1981-08-11,United States,English
-doc_00600,Victor,Boese,M,H,1999-05-04,Canada,English
-doc_00601,Alexander,Pannotayan,M,A,1987-05-23,United States,English
-doc_00602,Julio,Padilla,M,H,1997-06-15,United States,English
-doc_00603,Shawn,John,M,AI,1976-12-20,United States,English
-doc_00604,Demetrius,Crossley,M,B,1995-11-06,United States,Spanish
-doc_00605,Steven,Skilling,M,W,1995-12-02,Canada,French
-doc_00606,Alexis,Kowalczyk,M,H,1998-01-01,Canada,English
-doc_00607,Emma,Hunter,F,W,2002-03-30,United States,English
-doc_00608,Briana,Desta,F,B,1994-04-27,United States,Other
-doc_00609,Monique,Anthony,F,B,1994-02-17,United States,Other
-doc_00610,Amber,Winston,F,B,2002-08-02,United States,English
-doc_00611,Robert,Hughes,M,W,1999-08-03,United States,English
-doc_00612,Deontrae,Green-Bey,M,B,1991-10-14,Mexico,Spanish
-doc_00613,Julian,Gabel,M,W,1986-10-27,Mexico,Spanish
-doc_00614,Aaron,O'Neil,M,W,1986-08-23,Canada,English
-doc_00615,Samantha,Halverson,F,W,1997-05-15,United States,Spanish
-doc_00616,Elmunzir,Grate,M,B,2000-05-14,Mexico,Spanish
-doc_00617,David,Pease,M,W,1994-08-09,United States,Other
-doc_00618,Kaitlin,Venable,F,B,2006-04-11,United States,English
-doc_00619,Jacob,Stuart,M,W,1996-07-08,United States,English
-doc_00620,Brittany,Krumpholz,F,W,1999-02-09,United States,English
-doc_00621,Luis,Vigil,M,H,1993-04-09,United States,English
-doc_00622,Shareef,Morris,M,B,1988-07-15,United States,Spanish
-doc_00623,Devan,Maling,M,W,1991-09-08,United States,English
-doc_00624,Karl,Brown,M,W,1995-04-05,United States,English
-doc_00625,Cody,Miller,M,W,2001-03-25,Mexico,Spanish
-doc_00626,Andres,Gomez,M,H,1992-05-15,United States,English
-doc_00627,David,Edler,M,AI,2001-01-22,United States,English
-doc_00628,Tyrell,Fletcher,M,W,1999-11-13,NA,English
-doc_00629,Rodney,Stevenson,M,B,1985-06-25,Mexico,Spanish
-doc_00630,William,Bridgeman,M,B,1986-02-01,United States,English
-doc_00631,Tyler,Chouaf,M,B,1994-03-12,Mexico,Spanish
-doc_00632,Jose,Martinez,M,H,1995-01-17,United States,English
-doc_00633,Yesenia,Garcia,F,H,2000-01-11,United States,French
-doc_00634,Anthony,Crowder,M,B,1979-03-13,Mexico,Spanish
-doc_00635,Shemal,Sellers,M,B,2003-11-14,United States,English
-doc_00636,Derek,Smith,M,W,1995-06-14,United States,English
-doc_00637,Jose,Gutierrez,M,H,1998-12-09,Mexico,Spanish
-doc_00638,Liseli,Esparza,F,H,1992-04-26,Canada,English
-doc_00639,Michael,Light Bosquez,M,AI,1998-12-05,United States,English
-doc_00640,Rogelio,Bianchi,M,H,2002-03-27,United States,English
-doc_00641,David,Labrec,M,W,1995-09-14,United States,English
-doc_00642,Brent,Hays,M,W,1969-05-23,Mexico,Spanish
-doc_00643,Aaron,Willmert,M,W,1998-05-06,United States,English
-doc_00644,Austin,Sweesy,M,W,1993-02-03,Canada,English
-doc_00645,Garrett,Stanley,M,W,1996-06-24,Canada,English
-doc_00646,Randall,Bailey,M,B,2000-06-22,United States,Spanish
-doc_00647,Abdulai,Bond,M,B,1998-04-12,United States,English
-doc_00648,Caleb,Thieme,M,W,1997-09-16,Mexico,French
-doc_00649,Terrance,Chavis,M,B,1997-06-06,NA,Other
-doc_00650,Peter,Warner,M,W,1997-06-14,United States,English
-doc_00651,Brooks,Warren,M,W,1974-12-09,Mexico,Spanish
-doc_00652,Carter,Kania,M,W,1999-05-25,Mexico,Spanish
-doc_00653,Dalante,Quimby,M,B,1988-03-19,United States,English
-doc_00654,Joseph,Morales,M,W,1988-11-23,Mexico,English
-doc_00655,Michael,Jones,M,W,1989-02-12,Mexico,Spanish
-doc_00656,Andrew,Sheldon,M,W,1986-10-15,United States,Spanish
-doc_00657,Cody,Mullins,M,W,2004-11-10,United States,English
-doc_00658,Isaiah,Luper,M,B,1995-11-24,United States,English
-doc_00659,James,Williams,M,B,1996-07-11,United States,English
-doc_00660,Monique,Shepherd,F,H,1998-09-08,United States,English
-doc_00661,Clayton,Lind,M,W,1997-09-09,United States,Spanish
-doc_00662,Justin,Medina,M,H,1979-07-28,United States,English
-doc_00663,Elijah,Crowe,M,B,1998-04-13,United States,English
-doc_00664,Daniel,Mosher,M,W,1997-03-30,United States,English
-doc_00665,Dylan,Ancell,M,W,1998-03-11,United States,Spanish
-doc_00666,Blake,Hanifi,M,B,2000-05-21,United States,English
-doc_00667,Mitchell,Kern,M,W,1995-04-16,United States,English
-doc_00668,Vaughn,Gast,M,AI,1993-09-27,NA,English
-doc_00669,Dylan,Michels,M,W,2004-03-03,United States,English
-doc_00670,Brandon,Song,M,A,1994-07-14,Mexico,Spanish
-doc_00671,Jaime,Galaviz,M,H,1997-05-03,United States,English
-doc_00672,Ismael,Whitfield,M,B,1986-10-19,United States,English
-doc_00673,Clayton,Stephens,M,W,1998-05-23,United States,English
-doc_00674,Joshua,Radman,M,W,1986-11-08,United States,English
-doc_00675,Michael,Jackson,M,B,2000-04-03,United States,English
-doc_00676,Marshall,Loven,M,W,1991-11-16,United States,English
-doc_00677,Chase,Key,M,W,1991-01-09,United States,English
-doc_00678,Brandt,Smalley,M,W,2002-06-07,United States,English
-doc_00679,Tilden,Tharpe,M,AI,1995-11-13,Mexico,Spanish
-doc_00680,Edgar,Rangel Mora,M,H,1990-10-14,United States,English
-doc_00681,Emmett,Blackwood,M,W,1997-10-16,United States,English
-doc_00682,Sara,Adhikari,F,A,1994-07-24,Mexico,Spanish
-doc_00683,Nicolas,Bass,M,B,1989-03-01,United States,Spanish
-doc_00684,Devon,Nixon,M,W,1998-03-09,United States,English
-doc_00685,Xavier,Allan,M,W,2000-01-23,NA,English
-doc_00686,Zane,Bogus,M,W,2003-08-29,United States,Spanish
-doc_00687,Mathieu,Egan,M,W,2000-05-24,United States,English
-doc_00688,Julio,Padilla,M,H,1996-01-12,United States,French
-doc_00689,Logan,Zadrozny,M,W,1998-03-25,Mexico,Other
-doc_00690,Maraya,Adams,F,W,1995-08-25,United States,English
-doc_00691,Deontrae,Flowers,M,B,1981-03-20,United States,English
-doc_00692,Devon,Richmond,M,W,2002-02-05,United States,English
-doc_00693,David,Simmons,M,B,1988-09-30,Mexico,Spanish
-doc_00694,Joshua,Tyler,M,W,1998-04-17,NA,English
-doc_00695,Danny,Walters,M,AI,2002-05-07,United States,English
-doc_00696,Juan,Valdez,M,H,1986-06-15,Mexico,Spanish
-doc_00697,Jonathan,Hooker,M,W,1989-06-09,United States,English
-doc_00698,Sean,Cummings,M,W,1988-10-12,United States,English
-doc_00699,Jackson,Klein,M,W,1995-12-09,United States,English
-doc_00700,Berenice,Rivas-Willis,F,H,1995-05-30,Mexico,Spanish
-doc_00701,Alexander,Hush,M,W,1996-03-14,United States,French
-doc_00702,Deandre,Gutierrez Fontes,M,H,1993-07-07,United States,English
-doc_00703,Erin,Montgomery,F,W,1984-03-13,United States,English
-doc_00704,Deandre,Aveitia,M,H,1992-03-17,United States,English
-doc_00705,Tyler,Jiron,M,W,1991-03-30,NA,French
-doc_00706,Tyson,Olchowy,M,W,2001-08-30,United States,French
-doc_00707,Morgan,Kranse,F,W,1999-01-01,United States,Other
-doc_00708,Dvaris,Johnson,M,B,1991-12-19,Mexico,Spanish
-doc_00709,Kyser,Randolph,M,W,1990-04-29,Mexico,Spanish
-doc_00710,Jasmin,Enriquez Villalba,F,H,1997-08-29,United States,English
-doc_00711,Mark,Houghton,M,W,1997-06-29,Mexico,Other
-doc_00712,Demetrius,Niehus,M,W,1997-01-26,Mexico,Spanish
-doc_00713,Austin,Oakley,M,W,2004-07-31,Mexico,Spanish
-doc_00714,Xochitl,Blevans,F,AI,1985-02-04,Mexico,Spanish
-doc_00715,Joshua,Bird,M,W,1987-06-24,United States,English
-doc_00716,Joshua,Riehemann,M,W,1986-12-03,United States,English
-doc_00717,Myriah,Morales,F,H,1992-09-30,United States,Spanish
-doc_00718,Connor,Meyer,M,W,1999-05-10,United States,English
-doc_00719,Rudy,Serna,M,H,1996-12-10,United States,English
-doc_00720,Benedict,Leiting,M,W,1996-07-23,United States,Other
-doc_00721,Dau,Rogers,M,B,1986-10-23,United States,English
-doc_00722,Austin,Jacques,M,W,2003-03-29,NA,Other
-doc_00723,Kameron,Scott,M,B,1994-09-14,United States,English
-doc_00724,Christopher,Gutierrez,M,H,1991-10-10,United States,English
-doc_00725,Joshua,Bowen,M,W,1996-02-28,United States,English
-doc_00726,Jacob,Padilla,M,W,2004-11-27,United States,English
-doc_00727,Tucker,Fehr,M,W,1996-06-04,United States,Other
-doc_00728,Deion,Bester,M,B,1975-07-14,United States,English
-doc_00729,Colton,Miracle,M,W,1995-12-19,United States,English
-doc_00730,Justin,Martin,M,B,1992-04-06,Mexico,Spanish
-doc_00731,Aniya,Rogers,F,B,1998-08-14,United States,English
-doc_00732,Rachel,Rowley,F,W,1992-10-25,United States,English
-doc_00733,Vanessa,Bird,F,W,1982-10-03,United States,English
-doc_00734,Justin,Thomas,M,B,1996-12-22,United States,English
-doc_00735,Noah,Ford,M,B,2003-02-26,Mexico,Spanish
-doc_00736,Abiy,Chretien,M,B,1984-03-25,Canada,French
-doc_00737,Lane,Gausvik,M,W,2000-06-13,United States,Spanish
-doc_00738,Jake,Davis,M,W,1994-06-28,United States,English
-doc_00739,Gyrale,Macaluso,M,H,1981-10-02,United States,English
-doc_00740,Jordan,Nelan,M,B,1997-05-28,Canada,French
-doc_00741,Sierrah,Martin,F,B,2000-01-23,United States,English
-doc_00742,Damion,Vorrice,M,B,1994-11-25,United States,Spanish
-doc_00743,Amy,Leonard,F,W,1994-03-26,United States,English
-doc_00744,Nicholas,Brown,M,B,1991-01-01,United States,English
-doc_00745,Steve,Mandujano,M,H,1980-09-02,United States,English
-doc_00746,Sam,Meckenstock,M,W,1999-11-03,United States,English
-doc_00747,Kaylan,Quarles,M,B,2004-10-29,United States,English
-doc_00748,Alexander,Coen,M,W,2003-05-23,United States,English
-doc_00749,Annalise,Davis,F,B,1998-05-29,United States,English
-doc_00750,Hailey,Mcguire,F,W,2005-03-14,Mexico,Spanish
-doc_00751,Katharine,Kuzma,F,W,2001-12-09,United States,English
-doc_00752,Gabriel,Wright,M,B,1988-11-08,Mexico,Spanish
-doc_00753,Connor,Daniels,M,W,1991-09-17,United States,English
-doc_00754,Matthew,Lavender,M,W,1994-04-14,Canada,English
-doc_00755,Kevin,Emanuelson,M,W,1987-04-10,United States,English
-doc_00756,Elijah,Pollard,M,B,1989-07-17,Mexico,Spanish
-doc_00757,Marcus,Fernandez,M,B,1985-07-11,United States,English
-doc_00758,Robert,Mcmillen,M,W,1997-04-21,United States,English
-doc_00759,Dillon,May,M,W,1992-03-06,NA,Other
-doc_00760,Melissa,Reposa,F,H,1999-10-11,United States,Spanish
-doc_00761,Shaina,Bukari,F,B,1998-10-22,Mexico,Spanish
-doc_00762,Kafui,Swain,M,B,1997-08-24,United States,English
-doc_00763,Jonathan,Di Giallonardo,M,W,2000-02-26,United States,English
-doc_00764,Christopher,Cannedy,M,B,1996-04-04,United States,English
-doc_00765,Sean,Baker,M,W,2004-07-10,Canada,English
-doc_00766,Pawel,Ingrassia,M,W,2002-07-18,United States,French
-doc_00767,Delaney,Palmer,F,W,1988-08-20,United States,English
-doc_00768,Gregory,Chavez Torres,M,H,2002-01-28,United States,French
-doc_00769,William,Lehman,M,W,1999-07-06,Mexico,Other
-doc_00770,Joseph,Ehresman,M,W,1992-03-12,Mexico,Spanish
-doc_00771,Robert,Maik,M,W,1985-02-26,United States,English
-doc_00772,Renee,Parson,F,B,1984-10-31,Mexico,Spanish
-doc_00773,Emily,Romanov,F,W,1996-07-07,United States,English
-doc_00774,Benjamin,Honeycutt,M,W,1999-01-31,United States,English
-doc_00775,Vaurice,Harmon,M,B,1996-05-08,NA,Other
-doc_00776,Madison,Quint,F,W,2000-08-07,United States,French
-doc_00777,Patricia,Ruiz,F,H,1992-10-25,Mexico,Spanish
-doc_00778,Katheryne,Averett,F,B,1996-01-19,United States,English
-doc_00779,Leah,Ness,F,W,1993-05-02,United States,English
-doc_00780,Dominique,Richardson,M,B,1991-08-05,United States,French
-doc_00781,Darius,Bragg,M,B,1998-02-14,Mexico,Spanish
-doc_00782,Cody,Thomas,M,W,2001-10-08,United States,English
-doc_00783,Samuel,Steinke,M,W,1994-04-03,United States,English
-doc_00784,Eric,Johnson,M,B,1988-03-12,United States,English
-doc_00785,Derrell,Bonner,M,B,1994-09-18,United States,English
-doc_00786,Mitchell,Fogle,M,W,1993-10-22,United States,English
-doc_00787,Alexander,Stoops,M,W,1995-11-06,Mexico,Other
-doc_00788,Kayla,Seiler,F,W,2001-04-29,United States,French
-doc_00789,Raul,Vargas,M,H,2003-02-02,Mexico,Spanish
-doc_00790,Evan,Palmier,M,AI,1993-08-13,United States,English
-doc_00791,Sean,Rossman,M,W,2001-04-18,United States,English
-doc_00792,Maxwell,Williams,M,W,1990-09-17,Mexico,Spanish
-doc_00793,Alexander,Rutz,M,W,1988-06-17,United States,English
-doc_00794,Adrien,Ruff,M,W,1987-10-14,Mexico,Spanish
-doc_00795,Garrett,Mau,M,W,1993-12-31,Mexico,English
-doc_00796,Marcus,Brooks,M,B,1996-02-12,United States,English
-doc_00797,Ryan,Hirsch,M,W,2000-01-14,United States,English
-doc_00798,Morgan,Korn,F,W,1995-03-05,United States,English
-doc_00799,Lakshmi Harshitha,Prabhu,F,A,1995-11-27,United States,English
-doc_00800,Joshua,Sloan,M,W,1997-05-07,United States,English
-doc_00801,Joseph,Laupa,M,W,1996-03-11,United States,English
-doc_00802,Josef,Giandonato,M,W,1990-07-04,Mexico,Spanish
-doc_00803,Richard,Hoffman,M,W,1992-05-17,United States,English
-doc_00804,Jack,Craft,M,B,1991-06-24,Mexico,Spanish
-doc_00805,Dustin,Febles,M,W,2002-07-16,Canada,English
-doc_00806,Christopher,Murphy,M,B,1990-09-15,United States,English
-doc_00807,Ryan,Pratt,M,B,1998-03-24,Mexico,Other
-doc_00808,Lianne,Fox,F,B,1999-01-02,United States,English
-doc_00809,Justin,Fernandez,M,H,1998-09-04,United States,English
-doc_00810,Shane,Mavis,M,W,1986-01-08,Mexico,English
-doc_00811,Tajianay,Rose II,F,B,1998-04-23,Canada,French
-doc_00812,Philip,Acres,M,B,1999-10-14,NA,Other
-doc_00813,Dylan,Bushnell,M,W,1997-03-27,United States,English
-doc_00814,Mackenzie,Collins,F,W,1994-04-07,Mexico,Spanish
-doc_00815,Devante,Mcneil,M,B,1984-02-22,Mexico,Spanish
-doc_00816,Jerick,Carranza Ayala,M,H,1991-11-29,United States,English
-doc_00817,Grant,Goldinger,M,W,1996-10-11,United States,Other
-doc_00818,Matthew,Murath,M,W,1976-01-01,Mexico,Spanish
-doc_00819,Maximilliano,Granillo,M,H,1991-05-22,United States,Other
-doc_00820,Khari,Smith,M,B,1994-10-27,United States,English
-doc_00821,Marcus,Ruiz Jimenez,M,H,1996-06-05,United States,English
-doc_00822,Mark,Jones,M,W,1993-03-20,United States,English
-doc_00823,David,Buchanan,M,W,1990-05-30,Mexico,Spanish
-doc_00824,Rainy,Quast,F,W,1983-02-15,Mexico,Spanish
-doc_00825,Christina,Manard,F,B,1995-06-30,United States,English
-doc_00826,Jake,Wright,M,W,1995-05-20,United States,English
-doc_00827,Jackson,Soich,M,W,2000-01-26,United States,English
-doc_00828,Miguel,Burch,M,AI,2000-10-29,Canada,English
-doc_00829,De'Vonta,Malin,M,B,1991-09-20,Canada,English
-doc_00830,Kyle,Richmond,M,B,1986-09-03,United States,English
-doc_00831,Darius,Watson,M,B,1995-10-17,United States,English
-doc_00832,Delaney,Johnson,F,W,1976-11-19,United States,English
-doc_00833,Derrick,Fell,M,B,1990-12-11,Mexico,Spanish
-doc_00834,Madison,Flood,F,W,2000-08-15,United States,Other
-doc_00835,Regino,Otoya,M,H,1999-06-13,United States,English
-doc_00836,Sheila,West,F,B,1991-02-25,United States,English
-doc_00837,Angel,Gomez,M,H,1990-08-11,Mexico,Spanish
-doc_00838,Brianna,Hinojosa,F,H,1997-02-10,United States,English
-doc_00839,Tam,Taylor,M,AI,1999-01-01,Mexico,Spanish
-doc_00840,Grant,Collinge,M,B,1996-10-30,United States,Spanish
-doc_00841,Brice,Tegtmeyer,M,W,2000-06-14,United States,English
-doc_00842,Carlos,Charles,M,H,1993-11-09,United States,English
-doc_00843,Kaitlyn,Plock,F,W,2001-08-15,United States,English
-doc_00844,Malori,Venzor,F,W,1999-01-30,United States,English
-doc_00845,David,Detwiler,M,W,1987-08-04,NA,Other
-doc_00846,Brandon,Andregg,M,W,2002-08-04,United States,English
-doc_00847,Wilfried,Jackson,M,B,2001-10-26,Canada,English
-doc_00848,Adam,Anderson,M,H,1993-03-26,Mexico,Spanish
-doc_00849,Matthew,Syniec,M,W,2004-07-15,United States,English
-doc_00850,Taylor,Arnold,F,W,1992-07-03,Mexico,Spanish
-doc_00851,Isaac,Johnson,M,W,1999-03-23,United States,English
-doc_00852,Jordan,Pacheco,M,H,1989-02-05,United States,English
-doc_00853,Jesus,Gutierrez,M,H,1995-02-23,United States,English
-doc_00854,Dayquan,Lewis,M,B,1997-10-17,United States,English
-doc_00855,Tyler,Monsell,M,W,1970-09-16,United States,English
-doc_00856,Rosemary,Eames,F,W,1993-08-13,United States,English
-doc_00857,Johnathon,Lazear,M,W,1987-10-28,United States,English
-doc_00858,Jalen,Leaks,M,B,1991-11-23,United States,English
-doc_00859,Caleb,Partridge,M,W,1991-12-08,United States,English
-doc_00860,Anthony,Kelly,M,B,1993-08-23,Mexico,English
-doc_00861,Otis,Thompson,M,B,1995-11-21,United States,English
-doc_00862,Matthew,Lazuick,M,W,1997-11-30,Mexico,Spanish
-doc_00863,Mark,Anderson,M,W,1990-04-01,Mexico,Spanish
-doc_00864,Chandler,Reed,M,W,1997-12-28,United States,English
-doc_00865,Justin,Vernon,M,W,1985-08-11,NA,French
-doc_00866,Sarah,Smith,F,W,1975-04-20,United States,English
-doc_00867,Joshua,Merone,M,W,1992-07-06,United States,English
-doc_00868,Dante,Hudgens,M,B,2003-04-28,Canada,Spanish
-doc_00869,Edgar,Cerda,M,H,1998-04-28,United States,English
-doc_00870,Cole,Bergmann,M,W,1989-03-04,United States,English
-doc_00871,Shalom,Vincenty,M,B,2001-03-17,United States,Spanish
-doc_00872,Walter,Mitchell,M,B,1995-07-27,Canada,English
-doc_00873,Dylan,Roach,M,W,1999-04-26,Mexico,Spanish
-doc_00874,Patrick,King,M,B,1986-08-06,United States,English
-doc_00875,Tierra,Kots,F,W,1994-08-11,United States,English
-doc_00876,Cristian,Apodaca,M,H,1995-08-26,United States,English
-doc_00877,John,Turner,M,W,1963-07-27,United States,English
-doc_00878,Treyvon,Ellis,M,B,1990-04-24,United States,English
-doc_00879,Nathan,Harris,M,W,1998-04-07,United States,English
-doc_00880,Nora,Perez,F,H,1993-08-31,United States,English
-doc_00881,Travis,Robinson,M,B,1982-05-18,United States,French
-doc_00882,Kevin,Williams,M,AI,1990-10-21,Mexico,Spanish
-doc_00883,Tanisha,Rudat,F,W,1993-12-27,United States,English
-doc_00884,Michael,Boffill,M,B,1982-08-12,United States,English
-doc_00885,Brady,Brown,M,W,1994-09-13,United States,Spanish
-doc_00886,Kristoffer,Ransom,M,B,1985-05-03,United States,English
-doc_00887,Richard,Walter,M,W,1986-02-19,United States,English
-doc_00888,Abdul Haleem,La Fever,M,W,1999-07-04,Canada,French
-doc_00889,Brandon,Wallace,M,B,2002-09-05,Mexico,Spanish
-doc_00890,Kaci,Robinson,F,B,1988-01-10,United States,English
-doc_00891,William,Brock,M,B,1997-11-02,Mexico,Spanish
-doc_00892,Draven,Smith,M,AI,1996-07-15,Mexico,Spanish
-doc_00893,Scottie,Horne,M,B,1990-10-19,United States,Spanish
-doc_00894,Jacob,Evans,M,W,1987-11-15,United States,English
-doc_00895,D'Vonte,Johnson,M,B,1992-01-05,United States,English
-doc_00896,Nicolas,Hazard,M,W,1983-10-05,Canada,Spanish
-doc_00897,Charlie,Yellowhawk,M,AI,1992-04-22,NA,Other
-doc_00898,Esteban,Trejo,M,H,1993-02-05,United States,Spanish
-doc_00899,Dylan,Hilliker,M,W,1974-02-17,United States,English
-doc_00900,Chase,Paugh,M,W,1994-02-17,United States,English
-doc_00901,Ronnie,Thomas Jr,M,B,1995-07-21,United States,English
-doc_00902,Deidra,Jiron,F,AI,2001-10-03,United States,English
-doc_00903,Andrew,Johnson,M,W,1999-01-07,United States,English
-doc_00904,Anthony,Hubbard,M,W,1990-06-10,United States,English
-doc_00905,Nathaniel,Wilkerson,M,B,1998-09-25,United States,English
-doc_00906,Sean,Agyei,M,B,1998-06-23,United States,Other
-doc_00907,Kimberly,Bainter,F,H,1998-01-31,United States,English
-doc_00908,Latoya,Scurlock,F,B,1997-01-26,Mexico,Spanish
-doc_00909,Doucette,Moye,F,B,2000-06-04,United States,English
-doc_00910,Elijah,Martinez Garcia,M,H,2003-06-24,United States,French
-doc_00911,Deidre,Mashburn,F,W,1989-06-27,United States,English
-doc_00912,Joseph,Radeke,M,W,1975-12-06,United States,English
-doc_00913,Jack,Bensik,M,W,2002-12-19,NA,English
-doc_00914,James,Parker,M,W,1980-10-14,Mexico,Spanish
-doc_00915,Tristan,Mordini,M,W,1999-07-05,United States,English
-doc_00916,Mason,Mills,M,W,1999-03-01,United States,English
-doc_00917,Alexandra,Lopez,F,H,1996-10-25,United States,English
-doc_00918,Jack,Pilkington,M,W,1997-01-03,United States,English
-doc_00919,Michael,Houser,M,W,1998-07-30,United States,English
-doc_00920,James,Conover,M,H,1998-06-04,United States,English
-doc_00921,Patrick,Fogg-Laitinen,M,W,1994-10-28,United States,Spanish
-doc_00922,Frank,Hutchinson,M,B,1973-06-08,United States,English
-doc_00923,Jessica,Page-Schmit,F,W,1989-11-25,United States,English
-doc_00924,Jessica,Huerta,F,H,1996-01-16,United States,French
-doc_00925,Donovan,Chittum,M,AI,1996-08-22,United States,English
-doc_00926,Craigan,O'Hearne,M,W,1989-09-21,United States,English
-doc_00927,Brendan,Tewolde,M,B,1996-06-25,United States,French
-doc_00928,Darien,Cummings,M,H,2003-09-06,United States,English
-doc_00929,Lorenzo,Drake,M,B,2002-01-29,United States,English
-doc_00930,George,Medrano,M,H,1987-07-29,United States,English
-doc_00931,Dylan,Puebla,M,H,2000-10-10,United States,English
-doc_00932,Logan,Moss,M,W,2001-08-16,United States,Spanish
-doc_00933,O'Shea,Muwanga,M,B,1996-12-13,Canada,English
-doc_00934,Domenic,Davis,M,B,2000-09-04,United States,Spanish
-doc_00935,Andrew,Hayes,F,W,2001-03-21,United States,English
-doc_00936,Mackenzie,Testerman,M,W,2001-04-10,United States,Other
-doc_00937,Surra,Marks,M,B,1997-03-16,United States,English
-doc_00938,Joel,Lucero,M,H,2003-12-25,United States,English
-doc_00939,Chazz,Cousins,M,B,1988-05-27,United States,English
-doc_00940,Mariah,Johnson,F,AI,1990-04-28,United States,English
-doc_00941,Brandon,Brown,M,W,2001-05-03,United States,Spanish
-doc_00942,Austin,Brown,M,W,1993-12-07,Mexico,Spanish
-doc_00943,Justin,Digeorge,M,W,1993-02-07,United States,English
-doc_00944,Kamen,Aggrey Ofori,M,B,1989-03-26,United States,English
-doc_00945,Sergio,Garcia,M,H,1992-03-07,United States,English
-doc_00946,De Ondre,Jones,M,B,1992-08-01,United States,Spanish
-doc_00947,Justin,Whiting,M,W,1997-02-20,United States,English
-doc_00948,Jordan,Teske,M,B,1993-03-29,United States,English
-doc_00949,Desiree,Bredensteiner,F,W,1987-09-04,United States,English
-doc_00950,Kragen,August,M,W,1990-07-27,United States,English
-doc_00951,Amanda,Fisher,F,W,2000-06-26,United States,English
-doc_00952,Jacob,Lachance,M,W,1996-03-22,Mexico,Spanish
-doc_00953,Eric,Sambula-Sheriff,M,B,2000-11-13,United States,Spanish
-doc_00954,Christopher,Schaff,M,W,1996-12-25,United States,English
-doc_00955,Dominick,Megilligan,M,W,2004-02-26,United States,English
-doc_00956,Taylor,Trammell,F,B,1990-08-30,United States,English
-doc_00957,Hailee,Carlson,F,W,1993-06-19,Mexico,Spanish
-doc_00958,Khalid,Pollard,M,B,1988-11-17,United States,English
-doc_00959,Coleman,Bailey,M,W,1998-06-14,United States,English
-doc_00960,Daniel,Koul,M,A,2000-12-05,United States,English
-doc_00961,Brian,Benavides,M,W,1999-05-06,United States,English
-doc_00962,William,Newhouse,M,W,1997-04-24,NA,English
-doc_00963,Madeline,Heginbottom,F,W,1990-06-08,United States,Other
-doc_00964,Michael,De Dios,M,A,1987-12-05,Mexico,Spanish
-doc_00965,Braden,Pribyl,M,W,1994-04-26,Mexico,Spanish
-doc_00966,Luis,Toro,M,H,1995-04-08,United States,Other
-doc_00967,Kristopher,Gilmore,M,B,1989-12-27,United States,English
-doc_00968,Camille,Edwards,F,B,1997-03-17,United States,Other
-doc_00969,Fabian,Blackmore,M,AI,1993-11-24,United States,English
-doc_00970,Martina,Andrade,F,H,1985-03-11,United States,English
-doc_00971,Erik,Dubreuil,M,W,1996-09-28,United States,English
-doc_00972,Kendra,Salazar,F,H,1997-02-13,NA,English
-doc_00973,Vaughn,Johnson,M,B,1995-03-04,United States,English
-doc_00974,Andrew,Anderson,M,W,1995-06-06,United States,English
-doc_00975,Juan,Montoya,M,H,1996-03-09,United States,English
-doc_00976,Jerome,Hale,M,B,1993-01-07,United States,French
-doc_00977,Brandan,Lizer,M,W,1996-01-02,United States,English
-doc_00978,Sara,Banfield,F,W,1980-01-27,United States,English
-doc_00979,Grace,Ford,F,W,1990-06-16,United States,French
-doc_00980,Thomas,Lindholm,M,W,1996-12-05,United States,English
-doc_00981,Marshall,Hamill,M,W,1994-04-04,United States,English
-doc_00982,Dustin,Spencer-Thompson,M,W,1991-03-27,Mexico,English
-doc_00983,Antonio,Rangel,M,H,1993-10-25,Mexico,Spanish
-doc_00984,Ian,Dowdell,M,W,1991-02-27,United States,English
-doc_00985,Kelsie,Charron,F,W,1986-06-30,United States,Spanish
-doc_00986,Aaron,Jarvis,M,W,1995-10-22,United States,English
-doc_00987,Sierra,Lipford,F,B,1998-08-22,Mexico,Spanish
-doc_00988,Trevor,Benham,M,W,1994-02-20,Mexico,Spanish
-doc_00989,Angela,Chance,F,W,2005-01-16,Canada,Spanish
-doc_00990,Samuel,Martini,M,W,1981-03-27,United States,Other
-doc_00991,Tory,Cotterill,M,W,1987-03-31,United States,English
-doc_00992,Rennie,Thanner,F,W,1985-05-07,United States,Spanish
-doc_00993,Chenai,Hines,F,B,1992-04-10,United States,English
-doc_00994,Ty,Hunts,M,W,1993-05-17,United States,English
-doc_00995,Trevor,Keefe,M,W,1989-12-17,Mexico,Spanish
-doc_00996,Jeffrey,Gapter,M,W,2000-12-15,United States,English
-doc_00997,Samika,Demaria,F,B,2004-04-09,United States,English
-doc_00998,Brett,Cochrum Baker,M,W,2000-06-17,Mexico,Spanish
-doc_00999,Kyler,Schnell,M,W,2000-05-15,United States,English
-doc_01000,John,Rosas-Rodriguez,M,H,1991-05-12,United States,English
-doc_01001,Maurice,Comcowich,M,B,2002-10-19,United States,English
-doc_01002,Chantress,Tutt,F,B,2002-08-06,United States,French
-doc_01003,Xavier,Deniro,M,B,1998-12-23,Mexico,Spanish
-doc_01004,Chase,Porto,M,W,1995-07-12,United States,English
-doc_01005,Trevor,Meek,M,W,1990-08-11,United States,English
-doc_01006,Kylene,Turner,F,B,1991-02-03,United States,English
-doc_01007,Noah,Martin,M,B,2000-03-26,United States,English
-doc_01008,Peter,Kim,M,A,2001-02-23,NA,Spanish
-doc_01009,Austin,Kohls,M,W,1999-12-20,NA,English
-doc_01010,Clyde,White,M,B,1998-11-24,United States,English
-doc_01011,Travis,Schwindt,M,W,1980-11-08,Canada,French
-doc_01012,Everett,Shumpert,M,B,1999-06-19,United States,English
-doc_01013,Joseph,Graybill,M,W,2000-02-04,United States,English
-doc_01014,Sarah,Mcconnell,F,W,1997-02-09,Mexico,Spanish
-doc_01015,Austin,Eggleton,M,W,1995-01-16,Mexico,French
-doc_01016,Gerlacus,Hassan,M,W,1992-05-04,United States,English
-doc_01017,Brandon,Eastman,M,W,1995-04-10,NA,English
-doc_01018,James,Leescu,M,W,1997-07-05,United States,English
-doc_01019,Derek,Litts,M,W,1984-02-14,Mexico,Spanish
-doc_01020,Cody,Brooks,M,W,1998-12-06,United States,English
-doc_01021,Dayshalai,Crawford,F,B,1988-12-08,Mexico,Spanish
-doc_01022,Justin,Reveles,M,W,2002-11-08,United States,English
-doc_01023,Jacob,Theriault,M,W,1994-12-17,NA,French
-doc_01024,Billy,Millon,M,W,1988-11-11,NA,English
-doc_01025,Adam,Mccain,M,W,1994-12-15,United States,English
-doc_01026,Eliezer,Garcia,M,H,2004-12-25,Mexico,Spanish
-doc_01027,Nicholas,Nunnally,M,W,1992-08-13,United States,English
-doc_01028,Jamal,Wilson,M,B,1996-06-28,United States,French
-doc_01029,Madeline,Corbett,F,W,2000-08-09,United States,English
-doc_01030,Dillon,Jeffries,M,W,1989-03-30,United States,English
-doc_01031,Colten,Sanders,M,W,1993-10-01,United States,English
-doc_01032,Dillon,Sekera,M,W,1997-05-27,United States,English
-doc_01033,Justin,Leany,M,W,2003-05-04,Canada,English
-doc_01034,Vincent,Baca,M,H,2005-03-13,United States,English
-doc_01035,Kassity,Carnes,F,W,1994-09-14,United States,Spanish
-doc_01036,Joshua,Morris,M,W,2000-07-28,United States,English
-doc_01037,Daniel,Romley,M,W,1983-05-27,Mexico,Other
-doc_01038,Dylan,Dimario,M,W,1997-08-06,United States,English
-doc_01039,Jordan,Hampton,M,B,2000-02-19,Mexico,Other
-doc_01040,Ashley,Bell,F,B,2000-06-19,United States,English
-doc_01041,Ryan,Huff,M,W,1999-09-15,United States,English
-doc_01042,Kevin,Brandin,M,W,1983-05-19,United States,Other
-doc_01043,Joseph,Shaw,M,B,1995-08-25,United States,English
-doc_01044,Gerardo,Salazar,M,H,1999-03-10,United States,English
-doc_01045,Michael,Brooks,M,W,1976-04-23,United States,English
-doc_01046,Joseph,Eydenberg,M,W,1994-05-24,United States,English
-doc_01047,Jacob,Grundvig Jr,M,W,1992-12-04,Mexico,French
-doc_01048,Jami,Garcia,F,AI,1982-12-24,United States,English
-doc_01049,Tyler,Sousa,M,W,2001-09-25,Canada,English
-doc_01050,Thomas,Coons,M,W,1991-06-22,United States,English
-doc_01051,Sam,Cruz,M,A,1990-03-23,Mexico,Other
-doc_01052,Kendra,Griffin,F,B,1990-04-02,Mexico,Spanish
-doc_01053,Davyen,Perez,M,B,2004-08-19,United States,English
-doc_01054,Daniel,Brown,M,W,1986-04-12,United States,French
-doc_01055,Jorden,Clark,M,B,1997-07-09,Mexico,Spanish
-doc_01056,Briana,Kiefer,F,AI,1995-07-21,United States,French
-doc_01057,Jaymes,Walker,M,B,1997-03-18,United States,English
-doc_01058,Joseph,Baldwin,M,W,1994-09-02,United States,Other
-doc_01059,Dylan,Babbitt,M,W,1992-10-04,United States,English
-doc_01060,Kayla,James,F,W,1984-07-26,United States,English
-doc_01061,Terrance,Sconiers,M,B,1995-12-15,United States,English
-doc_01062,Garrett,Loboda,M,W,1996-09-30,United States,English
-doc_01063,Nathanael,Payne,M,W,2004-12-07,United States,English
-doc_01064,Cory,Bullock,M,W,1979-07-29,Mexico,Spanish
-doc_01065,Alexus,Bills,F,B,1999-10-24,United States,English
-doc_01066,Jazz,Solomon,M,B,1997-01-04,United States,English
-doc_01067,Desmond,Varanasi,M,B,1999-11-01,Mexico,Spanish
-doc_01068,Kahliem,Harris,M,B,1999-07-21,United States,Other
-doc_01069,Michael,Miller,M,W,1984-07-24,United States,English
-doc_01070,Abdul-Jaleel,Ward,M,B,1975-03-27,United States,English
-doc_01071,Gabriella,Wristen,F,W,1994-05-02,United States,English
-doc_01072,Daryn,Noecker,M,W,1993-08-19,United States,English
-doc_01073,Jared,Seat,M,W,1991-10-28,United States,English
-doc_01074,Emily,Cole,F,W,1987-01-16,United States,English
-doc_01075,Dyami,Curlin,M,AI,1998-04-28,NA,Other
-doc_01076,Tyler,Jaeger,M,AI,1996-05-05,United States,English
-doc_01077,Christopher,Rodefer,M,W,1996-02-22,United States,English
-doc_01078,Aaron,Nemchick,M,W,2003-06-16,United States,English
-doc_01079,Aaron,Johnson,M,B,1987-03-08,United States,Spanish
-doc_01080,Guem,Hall,M,B,2000-05-13,United States,English
-doc_01081,Jessica,Latham,F,W,2000-06-17,Canada,Other
-doc_01082,Nehemiah,Ross,M,B,1998-09-21,United States,Other
-doc_01083,Alyssa,Williams,F,B,1990-03-26,United States,Spanish
-doc_01084,Emily,Danielson,F,W,2002-12-08,Canada,English
-doc_01085,Doiminique,Austin,M,B,2001-08-16,United States,English
-doc_01086,Marquez,Watson,M,B,2001-03-10,United States,Spanish
-doc_01087,Connor,Weins,M,W,1989-05-22,United States,French
-doc_01088,Alan,Cox,M,W,1996-08-21,United States,English
-doc_01089,Hannah,Smith,F,W,1998-03-31,United States,English
-doc_01090,Tabor,Handy,M,W,1990-10-31,United States,English
-doc_01091,Corbin,Phillips,M,W,2002-03-22,Mexico,Spanish
-doc_01092,Reiko,Birks,M,B,1994-11-19,United States,English
-doc_01093,Laverio,Morris,M,B,1995-06-16,United States,English
-doc_01094,Severin,Franklin,M,W,1997-04-24,United States,French
-doc_01095,Katherine,Harbert,F,W,1998-04-04,United States,English
-doc_01096,Ocean,Palomo,M,AI,1991-05-23,United States,English
-doc_01097,Pedro,Duran Trevino,M,H,1999-07-13,United States,Spanish
-doc_01098,Molly,Severns,F,W,1996-07-30,United States,English
-doc_01099,Margarita,Reyes,F,H,1993-08-10,United States,English
-doc_01100,Connor,Iles,M,W,1989-07-16,Mexico,Spanish
-doc_01101,Alysia,Sanchez,F,H,1991-05-07,United States,English
-doc_01102,Jacob,Morse,M,W,1997-10-21,United States,Spanish
-doc_01103,Hope,Dunning,F,W,1995-11-30,United States,English
-doc_01104,Kyle,Lemberg,M,W,1993-09-21,United States,English
-doc_01105,Ja Von,Douglas,M,B,1975-01-14,Mexico,Spanish
-doc_01106,Faye,Willequer,F,W,1982-05-19,Mexico,Spanish
-doc_01107,Isaac,Herbert,M,B,2000-03-26,United States,Spanish
-doc_01108,Jesse,Lehnertz,M,W,1996-11-29,United States,English
-doc_01109,Kian,Fidler,M,W,2003-12-27,United States,English
-doc_01110,Grant,Fry-Saucedo,M,H,1993-04-11,United States,English
-doc_01111,Jacob,Santa Cruz,M,B,1987-07-26,United States,English
-doc_01112,Danielle,Ellinwood,F,W,1990-09-29,United States,English
-doc_01113,Kelsey,Pacheco,F,AI,1990-07-15,United States,English
-doc_01114,Werner,Swecker,M,W,1989-12-11,NA,English
-doc_01115,Ryan,Herring,M,B,2002-08-25,United States,English
-doc_01116,Devin,Primm,M,B,1999-04-20,United States,English
-doc_01117,Anita,Millard,F,B,1995-06-30,Canada,Spanish
-doc_01118,Marissa,Mitchell,F,W,1980-06-01,Mexico,Spanish
-doc_01119,Tevin,Montgomery,M,B,1997-03-30,United States,English
-doc_01120,Jordan,Barbero,M,W,1994-06-08,Mexico,Spanish
-doc_01121,Matthew,Lavigne,M,B,1993-08-26,United States,English
-doc_01122,Estevan,Kelly,M,H,1999-08-31,Canada,English
-doc_01123,Devon,Marks,M,B,1989-09-04,United States,Other
-doc_01124,Jazmyn,Arthur,F,W,1990-11-30,United States,English
-doc_01125,Trey,Jones-Carroll,M,B,2002-08-08,United States,French
-doc_01126,Jarrade,Collins,M,B,2002-12-29,Mexico,Spanish
-doc_01127,Oscar,Salazar,M,H,1995-05-15,United States,English
-doc_01128,Bradley,Kielian,M,W,1989-04-14,United States,English
-doc_01129,Tyler,Jackson,M,B,1985-04-19,Mexico,Spanish
-doc_01130,Dakota,Ewing,M,B,1997-08-25,United States,Spanish
-doc_01131,Cassandra,Johnson,F,W,1990-05-19,United States,English
-doc_01132,Craig,Santistevan,M,H,1999-09-24,United States,English
-doc_01133,James,Loera Soto,M,H,2001-08-20,United States,Spanish
-doc_01134,Aaron,Jackson,M,B,2003-10-04,United States,English
-doc_01135,Jay,Ranson,M,W,1995-12-16,United States,English
-doc_01136,Tyler,Ellis,M,W,1992-08-26,United States,English
-doc_01137,Centray,Wilson,M,B,2002-07-01,United States,Spanish
-doc_01138,William,Hyre,M,W,1992-01-14,United States,French
-doc_01139,Dylan,Palmer,M,W,1988-06-09,United States,English
-doc_01140,Steven,Becoat,M,B,1988-02-15,United States,French
-doc_01141,Isaiah,Candida,M,H,1995-06-18,United States,English
-doc_01142,Madison,Brown,F,W,2002-12-31,United States,Spanish
-doc_01143,Hyunjin,Ghimire,M,A,2000-11-15,United States,English
-doc_01144,Daniel,Ocanas,M,H,1998-04-17,United States,English
-doc_01145,Antonio,Hopkins,M,B,1993-08-03,United States,Other
-doc_01146,Heather,Fillingham,F,W,1986-12-01,United States,English
-doc_01147,Ricardo,Garcia,M,H,2000-09-13,United States,English
-doc_01148,Marlee,Beargeon,F,W,2001-08-22,United States,English
-doc_01149,Morgan,Yost,F,W,1996-03-09,United States,Spanish
-doc_01150,Ajem,Graves,M,B,1996-01-11,United States,English
-doc_01151,Kevin,Stevens,M,W,1985-05-09,United States,English
-doc_01152,Cesar,Stanfill,M,H,1999-04-06,United States,English
-doc_01153,Ian,Brost,M,W,2002-06-04,United States,English
-doc_01154,Gwendolyn,Punihaole,F,W,2001-08-25,United States,English
-doc_01155,Ryan,Xiong,M,A,1988-02-11,United States,Other
-doc_01156,Rovel,Lattany,M,B,1990-09-24,United States,English
-doc_01157,Bryant,Silva,M,H,1999-02-28,United States,English
-doc_01158,D'Andre,Anderson,M,B,1990-09-04,Mexico,Spanish
-doc_01159,Ella,Maddux,F,AI,1993-04-18,United States,English
-doc_01160,Enasio,Mitchell,M,B,1997-09-30,NA,Spanish
-doc_01161,Jordan,French,M,W,1981-12-31,Mexico,Spanish
-doc_01162,Anastasia,Simmons,F,W,1998-08-13,United States,English
-doc_01163,Ethan,Harrison,M,B,1997-01-25,United States,English
-doc_01164,Bryan,Padgett,M,W,2000-04-05,Canada,English
-doc_01165,Dane,Mcguiness,M,W,2001-10-23,United States,English
-doc_01166,Mitchell,Newcomb,M,W,1994-01-24,United States,English
-doc_01167,Oscar,Moreno,M,H,1996-10-21,Mexico,Spanish
-doc_01168,Austin,Johnson,M,W,2001-03-22,United States,English
-doc_01169,Scott,Stamp,M,W,2000-03-09,United States,English
-doc_01170,Richard,Doxey,M,W,1988-02-22,NA,English
-doc_01171,Ryan,Shrout,M,W,1997-11-22,United States,English
-doc_01172,Kristopher,Happ,M,B,1991-07-27,United States,English
-doc_01173,Brandon,Partin,M,W,2003-07-09,Mexico,Spanish
-doc_01174,Briannon,Peerman,F,B,1996-12-15,United States,French
-doc_01175,Roger,Mitchell,M,B,2002-11-27,United States,English
-doc_01176,Brian,Boring,M,W,2000-07-26,United States,English
-doc_01177,Evan,Olsen,M,W,1991-09-01,United States,English
-doc_01178,Orlando,Metoyer,M,B,2001-11-19,United States,English
-doc_01179,Shelby,Madrid,F,W,2004-08-19,United States,English
-doc_01180,Joseph,Gregory,M,W,1987-03-23,United States,English
-doc_01181,Benjamin,Osorio,M,W,1986-01-01,United States,English
-doc_01182,Rebecca,Soto,F,W,2000-01-02,United States,Other
-doc_01183,Lane,Epperson,M,W,2005-03-11,Mexico,Spanish
-doc_01184,Taylor,Deem,M,W,2002-07-08,United States,English
-doc_01185,Alexis,Ross,F,B,1990-11-23,United States,French
-doc_01186,Zackery,Patinella,M,W,1999-05-16,United States,English
-doc_01187,Roque,Pintor,M,H,1980-11-04,United States,English
-doc_01188,Galen,Pierson,M,W,1995-07-01,United States,English
-doc_01189,Nicholas,Brady,M,A,1985-09-18,United States,English
-doc_01190,Michael,Harrison,M,W,1993-09-25,United States,English
-doc_01191,Jeffrey,Dean,M,B,1993-09-12,Mexico,Spanish
-doc_01192,Cameron,Meade,M,W,1998-12-07,Mexico,Spanish
-doc_01193,Bailey,Williams,F,W,1992-09-10,United States,English
-doc_01194,Jordan,Goodwin,F,B,1993-12-12,Mexico,Spanish
-doc_01195,Jamee,Saunders,F,B,1992-12-23,Mexico,Spanish
-doc_01196,Conor,Reilly,M,W,2002-05-11,Mexico,Spanish
-doc_01197,Garret,Stewart,M,W,1998-10-17,United States,English
-doc_01198,Damian,Quintana,M,H,1998-01-29,Mexico,Spanish
-doc_01199,Quincy,Smith,M,B,1999-03-16,United States,English
-doc_01200,Meron,Love,F,B,1998-03-25,United States,English
-doc_01201,Mckayla,Hays,F,W,1987-05-02,United States,English
-doc_01202,Jonathan,Kusupati,M,A,1994-08-27,Mexico,Spanish
-doc_01203,Brandi,Dyer,F,W,1994-09-13,United States,Other
-doc_01204,Benjamin,Marushack,M,W,1995-03-17,Mexico,Spanish
-doc_01205,Heidi,Henkel,F,W,1999-08-15,United States,English
-doc_01206,Eric,Keeler,M,B,1991-04-02,Canada,Spanish
-doc_01207,Rachel,Schamehorn,F,W,1994-07-15,Mexico,Spanish
-doc_01208,Cameron,Howard,M,B,1987-07-07,United States,English
-doc_01209,James,Hayden-Herndon,M,B,1983-05-06,NA,English
-doc_01210,Nathanial,Coyle,M,W,1979-03-24,United States,English
-doc_01211,Orlawndo,Thomas,M,B,1986-04-28,United States,English
-doc_01212,Miguel,Bucio,M,H,1994-06-17,United States,English
-doc_01213,Trevor,Himmelberg,M,W,2004-04-18,United States,English
-doc_01214,Abigail,Castillo Garcia,F,H,1993-11-19,United States,English
-doc_01215,Brian,Cyr,M,W,1995-04-10,United States,English
-doc_01216,Gregory,Ladd,M,W,2002-03-25,United States,English
-doc_01217,Anthony,Flournoy,M,W,1992-09-13,United States,English
-doc_01218,Alexander,Seamans,M,W,1997-11-22,United States,Spanish
-doc_01219,Anthony,Sax,M,W,1999-03-17,United States,English
-doc_01220,Dillon,Underwood,M,W,1998-07-20,United States,English
-doc_01221,Ricky,Howse,M,B,1993-07-21,NA,Other
-doc_01222,Diana,Rodriguez,F,H,1999-04-02,United States,Other
-doc_01223,Patrick,Roubideaux,M,AI,1995-06-24,Canada,English
-doc_01224,Du Shawn,Humphrey,M,B,1999-08-25,Mexico,Spanish
-doc_01225,Fredrick,Trevithick,M,W,1979-03-19,United States,English
-doc_01226,Benjamin,Petrick,M,W,1991-11-07,United States,English
-doc_01227,Hop,Singh,M,A,1994-06-10,United States,English
-doc_01228,Owen,Hansen,M,W,1998-11-24,NA,Other
-doc_01229,John,Deneau,M,W,1989-11-30,United States,Spanish
-doc_01230,Jocilynn,Smith,F,B,1990-04-15,United States,English
-doc_01231,Maurice,Turner,M,B,2002-11-17,Mexico,Spanish
-doc_01232,Devinn,Alexander,M,B,1994-06-30,Mexico,Spanish
-doc_01233,Elshadaii,Karp,F,B,1993-05-18,United States,Spanish
-doc_01234,Bonnie,Endres,F,W,2002-09-04,Mexico,Spanish
-doc_01235,Tyler,Perkins,M,AI,2002-08-06,United States,English
-doc_01236,Caleb,Runingen,M,A,1996-12-26,United States,French
-doc_01237,Corey,Green,M,B,1993-07-03,United States,English
-doc_01238,Alexander,Leyva,M,H,1995-08-23,Canada,French
-doc_01239,Renee,Alexis,F,B,1990-02-13,United States,English
-doc_01240,La'Shane,Araujo,M,H,2004-04-02,United States,English
-doc_01241,Devante,Small,M,B,1991-09-30,United States,English
-doc_01242,Amanda,Beck,F,W,1998-10-17,United States,Spanish
-doc_01243,Jeffery,Henderson,M,B,2000-07-28,Mexico,Spanish
-doc_01244,James,Havlik,M,AI,1998-02-05,United States,English
-doc_01245,Brandon,Voorhis,M,W,2003-04-22,United States,English
-doc_01246,Thomas,Fleming,M,W,1993-10-29,United States,English
-doc_01247,Isias,Nieves,M,B,1997-06-05,Mexico,Spanish
-doc_01248,Kayle,Baranovics,M,W,1998-11-28,Canada,French
-doc_01249,Donte,Herbert,M,B,1993-04-20,United States,English
-doc_01250,Lynn,Strickland,M,B,1986-06-22,United States,English
-doc_01251,Ceara,Krause,F,W,1999-08-11,United States,English
-doc_01252,Alyssa,Habib,F,W,1996-09-20,United States,English
-doc_01253,Davion,Debramaletta,M,B,1993-10-21,United States,Spanish
-doc_01254,Kove,Johnson,M,B,1992-10-31,NA,Spanish
-doc_01255,Nicholas,Rudd,M,W,1996-09-23,Canada,English
-doc_01256,Maxwell,Mortensen,M,W,1998-08-20,United States,English
-doc_01257,Eyerusalem,Lawrence,F,B,1993-12-04,United States,English
-doc_01258,Bryas,Hicks,M,B,1992-09-08,United States,Spanish
-doc_01259,Meron,Williams,F,B,1991-11-10,Mexico,Spanish
-doc_01260,Abby,Adams,F,H,1992-04-28,NA,Other
-doc_01261,Thalia,Long,F,H,2001-07-28,United States,English
-doc_01262,Daniel,Maez,M,W,1994-09-21,United States,English
-doc_01263,Joshua,Bell,M,W,1998-03-07,United States,English
-doc_01264,Jordan,Lewis,M,B,1998-10-09,United States,English
-doc_01265,Kyler,Mcavoy,M,W,1997-03-18,United States,English
-doc_01266,Annika,Baeza,F,W,2000-01-11,United States,English
-doc_01267,Timothy,Hall Winn,M,B,2001-01-22,Mexico,Spanish
-doc_01268,Nakai,Williams,M,B,1981-06-02,NA,Spanish
-doc_01269,Montaye,Abraha,M,B,2001-05-13,Mexico,Spanish
-doc_01270,Dennis,Wheeler,M,B,1998-01-12,United States,English
-doc_01271,Casey,Ryall,M,W,1999-10-11,NA,Other
-doc_01272,Kylie,Keefer,F,W,1998-04-06,United States,French
-doc_01273,Joshua,Steinke,M,W,1998-12-05,Canada,English
-doc_01274,Ansley,Abayou,F,B,1974-08-27,Mexico,English
-doc_01275,Haden,Cordova,M,AI,1996-12-01,Mexico,Spanish
-doc_01276,Rocky,Thompson,M,AI,1983-01-28,Mexico,Spanish
-doc_01277,Ramiro,Ontiveros,M,H,1997-09-08,Canada,English
-doc_01278,Santiago,Martinez,M,H,1998-07-15,United States,French
-doc_01279,Dennis,Hands,M,B,1989-04-28,United States,Spanish
-doc_01280,Logan,Hooks,M,B,1993-08-20,United States,English
-doc_01281,Aeneas,Karp,M,B,1988-07-25,United States,English
-doc_01282,Ruben,Ramirez,M,H,1978-08-01,United States,English
-doc_01283,Daniel,Mazer,M,W,1997-06-28,United States,English
-doc_01284,William,Smith,M,W,1978-10-27,United States,English
-doc_01285,Haley,Rochniak,F,W,1999-05-18,United States,Spanish
-doc_01286,Michael,Ramirez,M,H,1989-04-24,Mexico,Spanish
-doc_01287,Heath,Triplett,M,W,1995-01-02,United States,Spanish
-doc_01288,Wyatt,Cisneros,M,W,1995-03-24,United States,English
-doc_01289,Quincy,Flicker,M,W,1993-12-13,United States,English
-doc_01290,Aaron,Glicken,M,W,1999-02-28,United States,English
-doc_01291,Hannah,Morton,F,W,2000-04-16,United States,English
-doc_01292,Rodney,Goens,M,B,1999-04-27,NA,Other
-doc_01293,Kaleb,Zarlengo,M,W,1996-06-27,NA,English
-doc_01294,Brandon,Bunn,M,B,2003-05-31,United States,English
-doc_01295,Nicole,Copeland,F,B,2001-02-26,United States,English
-doc_01296,Luke,Harget,M,W,1986-11-03,United States,English
-doc_01297,Kelsey,Harvey,F,W,2005-03-09,NA,French
-doc_01298,Francisco,Espinoza,M,H,1997-03-07,United States,Spanish
-doc_01299,Kolten,Swanson,M,AI,2000-08-25,Mexico,Spanish
-doc_01300,Majynta,Jackson II,F,B,1990-05-14,United States,French
-doc_01301,Crystal,Dorr,F,W,1998-07-02,United States,English
-doc_01302,Bryce,Spencer,M,W,1996-05-14,United States,English
-doc_01303,Timothy,Johnson-Brown,M,B,2002-12-28,United States,Spanish
-doc_01304,Dustin,Jester,M,W,2005-10-25,United States,English
-doc_01305,Kajver,Wilson,M,B,2002-03-29,United States,English
-doc_01306,Trusten,Carruthers,M,AI,1998-01-26,United States,English
-doc_01307,Chloe,Berger,F,W,1994-09-29,United States,English
-doc_01308,Ronnie,Richardson,M,B,1997-09-18,Mexico,Spanish
-doc_01309,Anna,Spencer,F,W,1991-03-22,Mexico,Spanish
-doc_01310,Adelissa,Canada,F,H,1998-04-11,United States,English
-doc_01311,Reginald,Afework,M,B,1992-11-20,United States,French
-doc_01312,Jordon,Milyard,M,W,2003-05-31,United States,English
-doc_01313,Taylor,Woodard-Hiller,M,W,1986-09-17,United States,English
-doc_01314,Kameron,Hurd,M,W,1992-04-12,NA,English
-doc_01315,Harli,Shaw,F,W,1993-12-28,United States,English
-doc_01316,Marcellus,Hodge-Adams,M,B,2002-02-15,Mexico,Spanish
-doc_01317,Shelby,Eurich,F,W,1992-11-24,United States,French
-doc_01318,Andrew,Dooley,M,W,1997-04-02,United States,French
-doc_01319,Boe,Maddock,M,W,2003-05-09,United States,English
-doc_01320,Larissa,Hoover,F,W,2001-01-12,United States,English
-doc_01321,Joseph,Whitcanack,M,W,1989-03-09,Mexico,Spanish
-doc_01322,Sarah,Bergman,F,W,1996-01-27,United States,English
-doc_01323,Fernando,Martinez,M,H,1998-06-08,Mexico,Spanish
-doc_01324,Jasmine,Sanders,F,B,1992-05-18,United States,English
-doc_01325,Jacob,James,M,AI,1999-02-26,United States,English
-doc_01326,Ashley,Williams,F,W,1994-12-13,United States,French
-doc_01327,Nicholas,Genthe,M,W,2000-06-22,United States,English
-doc_01328,Jacob,Sundlof,M,W,1999-08-22,United States,English
-doc_01329,Jake,Narro,M,W,1995-08-26,United States,Other
-doc_01330,Ian,Mannon,M,W,1994-01-18,United States,English
-doc_01331,Jillian,Spencer,F,W,1999-08-22,United States,English
-doc_01332,Theophus,Halpenny,M,B,1994-02-08,United States,English
-doc_01333,Henry,Davis,M,AI,1993-05-13,United States,English
-doc_01334,Phillip,Anthony,M,W,1995-07-10,Mexico,Spanish
-doc_01335,Preston,Horton,M,W,1999-11-29,United States,English
-doc_01336,Alexandra,Magnuson,F,W,1991-09-25,Canada,French
-doc_01337,Erika,Crumb,F,W,1997-07-01,United States,English
-doc_01338,Noah,Bennett,M,W,1988-07-07,United States,English
-doc_01339,Sandra,Guerrero,F,H,1992-08-17,United States,English
-doc_01340,Eduardo,Cisneros,M,H,2003-10-19,United States,English
-doc_01341,Blake,Artzberger,M,W,1991-11-22,Mexico,Spanish
-doc_01342,Hayden,Martin,M,W,1981-01-04,Mexico,Spanish
-doc_01343,Thalia,Perkins,F,H,2002-04-24,United States,English
-doc_01344,Irell,Odem,M,B,2000-10-26,United States,Other
-doc_01345,Michael,Van Norman,M,B,2002-02-27,United States,English
-doc_01346,Tyler,Jacobs,M,W,2000-07-15,United States,English
-doc_01347,Susana,Gomez,F,H,2001-04-11,United States,English
-doc_01348,Justin,Syme,M,W,1989-11-27,United States,English
-doc_01349,Alex,Gower,F,W,1996-02-04,United States,English
-doc_01350,Anna,Lagrange,F,W,1988-02-13,United States,English
-doc_01351,Noah,Rose,M,B,2000-01-12,United States,English
-doc_01352,Kalika,Rashad,F,B,1996-02-13,Canada,Spanish
-doc_01353,Tremaine,Rincon,M,H,2001-04-18,United States,English
-doc_01354,Blake,Gullatt,M,B,1994-01-09,United States,English
-doc_01355,Antonio,Anderson Jr,M,B,1996-02-13,United States,English
-doc_01356,Katherine,Coons,F,W,1989-04-04,United States,English
-doc_01357,Truluv,Lewis,F,B,1997-01-24,United States,English
-doc_01358,Isaiah,Rico,M,H,1994-04-17,United States,English
-doc_01359,Austin,Allen,M,W,1996-05-19,Canada,English
-doc_01360,Travis,Harper-Clifton,M,B,2004-11-14,United States,English
-doc_01361,Justin,Hawkins,M,W,1995-01-14,Mexico,Spanish
-doc_01362,Andrew,Mikhailova,M,W,1980-10-29,United States,English
-doc_01363,Avery,Barslund,M,W,1994-04-02,Mexico,Spanish
-doc_01364,Trevor,Mayo,M,W,1989-07-15,Mexico,Spanish
-doc_01365,Zachary,Van Court,M,B,1988-07-18,Mexico,Spanish
-doc_01366,Lucero,Ortiz-Orpineda,F,H,2001-04-09,NA,English
-doc_01367,Amy,Luebbers,F,W,1983-09-03,NA,Spanish
-doc_01368,Marquise,Davis,M,B,2001-02-12,United States,English
-doc_01369,William,Jones,M,B,2002-03-18,United States,English
-doc_01370,Ashleigh,Olguin,F,AI,1997-10-23,United States,English
-doc_01371,Israel,Castorena-Delacruz,M,H,1991-07-28,Mexico,Spanish
-doc_01372,David,Scroggs,M,W,1994-06-26,Mexico,Spanish
-doc_01373,Cecile,Verner,F,B,2003-07-28,United States,English
-doc_01374,Marco,Copeland,M,H,1998-05-10,United States,English
-doc_01375,Kelawn,Jones,M,B,1985-11-11,Canada,French
-doc_01376,Malique,Williams,M,B,1988-05-29,United States,French
-doc_01377,Najavee,Green,F,B,1997-03-16,United States,Spanish
-doc_01378,Eric,Roeca,M,W,1995-01-15,United States,English
-doc_01379,Salmon,Benning,M,B,1995-06-30,United States,Other
-doc_01380,Connor,Roswold,M,W,1984-05-22,United States,English
-doc_01381,Ivan,Martinez Loachamin,M,H,1995-09-26,United States,English
-doc_01382,Justin,Jones,M,B,1994-01-16,United States,English
-doc_01383,Matthew,Brockbank,M,W,1989-06-24,NA,Spanish
-doc_01384,Lucas,Malika,M,B,2000-09-04,United States,English
-doc_01385,Darallis,Simpson,M,B,1997-09-29,United States,English
-doc_01386,Brianna,Robbins,F,W,2001-07-13,United States,English
-doc_01387,Robin,Zagyi,F,W,1996-11-24,NA,English
-doc_01388,Mason,Giarratano,M,W,2001-01-05,Mexico,Spanish
-doc_01389,Christopher,Vega Castillo,M,H,1980-07-06,NA,English
-doc_01390,Warren,Pham,M,A,1997-10-18,United States,English
-doc_01391,Symone,Cooper,F,B,1998-01-16,United States,Spanish
-doc_01392,Philip,Dematoff,M,W,1998-10-18,United States,French
-doc_01393,Wyatt,Macleod,M,W,1995-11-20,United States,Spanish
-doc_01394,Adam,Little,M,W,1993-12-25,Mexico,Spanish
-doc_01395,Kyler,Hatfield,M,W,1996-12-17,NA,Spanish
-doc_01396,Anthony,Hill,M,W,2002-05-17,United States,English
-doc_01397,Demario,Jallow,M,B,1995-06-10,United States,English
-doc_01398,Alfonso,Fierro,M,H,2004-05-05,United States,English
-doc_01399,Tyler,Odifu,M,B,1994-08-05,United States,English
-doc_01400,Andrew,Mondragon,M,H,1991-03-21,United States,English
+doc_00001,Tavaris,Senette,M,B,1989-11-03,Mexico,Spanish
+doc_00002,Ray,Phillips,M,B,1991-11-01,United States,English
+doc_00003,Hassan,Sanford,M,B,1997-07-11,United States,English
+doc_00004,Connor,Nowlin,M,W,1992-01-07,United States,English
+doc_00005,Jordan,Hanson,M,W,2004-01-30,United States,English
+doc_00006,Caleb,Gayle,M,B,2003-02-10,United States,English
+doc_00007,Mon Sean,Morris,M,B,2001-10-01,United States,Other
+doc_00008,Amanda,Sukkum,F,A,1993-03-19,United States,English
+doc_00009,Christine,Salvucci,F,W,1993-08-24,United States,English
+doc_00010,Nolan,Gay,M,B,1994-12-17,United States,English
+doc_00011,Genysie,Phillips,F,W,1998-02-14,United States,English
+doc_00012,Lavonte,Anderson,M,B,1996-01-02,United States,English
+doc_00013,Lane,Christensen,M,W,1998-08-30,Mexico,Spanish
+doc_00014,Chiyana,Burrows,F,W,1985-12-17,United States,English
+doc_00015,Matthew,Webb,M,W,2004-03-01,Canada,Spanish
+doc_00016,Logan,Reynolds,M,W,1993-07-21,United States,Other
+doc_00017,Ty,Rucker,M,W,1993-11-11,United States,Spanish
+doc_00018,Derek,Corning,M,W,2003-01-10,United States,English
+doc_00019,Cameron,Bergeron,M,W,1990-11-18,Mexico,Spanish
+doc_00020,James,Palermo,M,W,1999-01-31,Mexico,Spanish
+doc_00021,Orville,Mulinde,M,B,1993-07-13,United States,English
+doc_00022,Nicholas,Powell,M,W,1997-04-16,United States,English
+doc_00023,Riley,Nagy,M,W,1990-11-04,Mexico,Spanish
+doc_00024,Nicholas,Harris,M,W,2000-04-29,United States,English
+doc_00025,Hannah,Yoxheimer,F,W,1996-10-15,NA,Spanish
+doc_00026,Mariano,Avila,M,H,1992-02-05,Mexico,Spanish
+doc_00027,John,Pruess,M,W,1994-07-01,Canada,English
+doc_00028,Yonathan,Scott,M,B,1969-03-22,United States,English
+doc_00029,Angus,Snyder,M,W,1991-11-23,Mexico,Spanish
+doc_00030,Bryan,Carroll,M,W,2002-03-01,United States,English
+doc_00031,Kyle,Doty,M,W,2001-05-12,Mexico,Spanish
+doc_00032,Anthony,Brandt,M,W,1998-01-26,United States,English
+doc_00033,Erin,Farner,F,W,1995-08-04,United States,English
+doc_00034,Luis,Sedillo,M,H,1991-02-13,United States,English
+doc_00035,Logan,Carver,M,W,1983-11-06,United States,English
+doc_00036,James,Wallace,M,W,1988-12-30,United States,English
+doc_00037,Daniel,Gnagy,M,W,2003-04-07,United States,English
+doc_00038,Kelly,Dodge,F,W,2004-06-02,United States,French
+doc_00039,Dominic,Jones,M,B,2001-09-21,United States,English
+doc_00040,Gary,Taylor,M,B,1994-10-03,United States,English
+doc_00041,Makenzie,Meeker,M,W,1996-01-30,United States,English
+doc_00042,Ryan,Palazzolo,M,W,1977-02-03,United States,English
+doc_00043,Micahlina,Simpson,F,B,2000-04-28,United States,English
+doc_00044,Michael,Vigil,M,H,1998-07-28,Mexico,Spanish
+doc_00045,Joseph,Aughe,M,W,2003-09-30,NA,English
+doc_00046,Pierce,Scammell,M,W,1983-05-04,United States,English
+doc_00047,Bryan,Taylor,M,W,1993-05-22,United States,English
+doc_00048,Jordahn,Park,M,AI,2000-04-14,Canada,English
+doc_00049,Andrew,Smith,M,W,1993-07-26,Mexico,Spanish
+doc_00050,Zoe,Pickthall,F,W,1999-10-26,United States,English
+doc_00051,Doann,Moon,F,A,1993-06-17,United States,English
+doc_00052,Alexander,White,M,B,1985-11-25,Mexico,Spanish
+doc_00053,Derek,Hamilton,M,B,1994-03-09,United States,English
+doc_00054,Robert,Murphy,M,W,1986-10-13,Mexico,Spanish
+doc_00055,Markel,Tuzizila,M,B,1995-08-25,United States,English
+doc_00056,K'Rene,Miller,F,AI,1998-08-18,United States,Other
+doc_00057,Jasmin,Edwards,F,B,2000-07-12,United States,English
+doc_00058,Sayer,Clark,M,W,1999-02-08,Canada,French
+doc_00059,Nicholas,Dipaola,M,W,1997-04-26,United States,English
+doc_00060,Delaney,Waite,F,W,1998-02-03,United States,Spanish
+doc_00061,Austin,Holmes,M,B,1986-07-26,United States,English
+doc_00062,Jhaden,Richardson,M,W,1997-02-18,United States,English
+doc_00063,Spencer,Debrine,M,W,1988-12-10,NA,English
+doc_00064,Jessica,Fox,F,W,1989-09-27,United States,English
+doc_00065,Devin,Cordova,M,B,2003-12-04,United States,English
+doc_00066,Marcus,Lowe,M,B,1989-05-11,NA,English
+doc_00067,Aleem,Fortt,M,B,2001-04-09,United States,English
+doc_00068,Lena,Squires,F,B,1989-05-30,United States,Spanish
+doc_00069,Cameron,Blanchard,M,W,2000-09-08,Mexico,Spanish
+doc_00070,Tariq,Buckman,M,B,2002-05-14,United States,English
+doc_00071,Matthew,Lutz,M,W,1986-08-21,Mexico,Spanish
+doc_00072,Nathaniel,Gladden-Agee,M,W,1999-12-23,United States,Spanish
+doc_00073,Tyler,Hoffman,M,W,1986-08-15,NA,English
+doc_00074,Devan,Enriquez,M,W,1982-06-30,United States,Other
+doc_00075,Gabriel,Mckenzie,M,AI,1985-06-24,United States,English
+doc_00076,Leonard,Elliott,M,AI,1993-04-21,United States,English
+doc_00077,Colton,Floor,M,W,2002-07-17,United States,English
+doc_00078,Annika,Feller,F,W,1991-09-22,Canada,English
+doc_00079,Elijah,Johnson,M,B,1993-11-07,United States,English
+doc_00080,Antonio,Kirkendoll,M,B,1997-11-28,Canada,Other
+doc_00081,Lauren,Gilkey,F,W,1996-04-16,United States,English
+doc_00082,Dezmen,Lovett,F,B,2001-05-10,United States,English
+doc_00083,Dominic,Webster-Jarnigan,M,B,1993-04-16,Mexico,Spanish
+doc_00084,Jane,Yount,F,W,2004-08-04,United States,English
+doc_00085,Roy,Lark,M,B,1997-04-21,United States,English
+doc_00086,Skyler,Bell,M,B,1990-09-04,Mexico,Spanish
+doc_00087,Stephen,Miller,M,W,2003-11-08,United States,Spanish
+doc_00088,Tayler,Torbett,F,W,2000-03-29,United States,English
+doc_00089,Erik,Terry,M,W,1997-12-10,NA,English
+doc_00090,Leo,Schoellkopf,M,W,1995-10-12,Mexico,English
+doc_00091,Jason,Saul,M,W,2001-09-05,United States,Other
+doc_00092,Mikael,Turner,M,B,1994-08-13,United States,English
+doc_00093,Edward,Gilbert,M,B,1996-06-04,United States,English
+doc_00094,Matthew,Rogers,M,W,1992-12-13,United States,English
+doc_00095,Michael,Harms,M,W,1998-11-29,United States,Spanish
+doc_00096,Dominque,Boykin,F,AI,2003-01-08,United States,English
+doc_00097,Mario,Rivera-Woolem,M,H,2001-01-27,NA,Other
+doc_00098,Isaac,Carneal,M,W,1992-10-19,United States,Spanish
+doc_00099,Daniel,Aragon,M,H,1999-11-27,United States,French
+doc_00100,Blake,Mcalevey,M,W,1998-12-30,NA,Spanish
+doc_00101,Florencio,Kenzy,M,H,2000-10-17,Canada,English
+doc_00102,Kenneth,Scheevel,M,W,2002-03-17,United States,English
+doc_00103,Tyler,Picker,M,W,1996-09-10,United States,English
+doc_00104,Zachary,Dyke,M,W,1996-02-06,United States,English
+doc_00105,Bryce,Bonicelli-Stinson,M,B,2003-04-12,United States,English
+doc_00106,Eric,Ross,M,W,2000-11-11,United States,English
+doc_00107,Jalan,Jackson,M,B,1998-12-16,United States,English
+doc_00108,Jonathan,Powers,M,W,1988-11-08,Mexico,Spanish
+doc_00109,Justin,Coats,M,W,1995-02-17,United States,English
+doc_00110,Quin,Gallegos,M,H,2002-11-18,Mexico,Spanish
+doc_00111,Emmanuel,Bankston,M,B,1982-06-14,United States,English
+doc_00112,Kara,Necker,F,W,1993-03-11,United States,English
+doc_00113,Archibald,Mckenzie,M,AI,1998-07-26,Mexico,Spanish
+doc_00114,Stevan,Albright,M,W,1983-10-15,United States,English
+doc_00115,Jerron,Padilla,M,B,1971-06-11,United States,English
+doc_00116,Carlos,Caesar,M,B,1998-10-06,Mexico,Spanish
+doc_00117,Daniel,Krause,M,B,2002-02-03,United States,English
+doc_00118,Robert II,Blauvelt,M,W,1988-08-25,United States,English
+doc_00119,Mikayla,Roberts,F,B,1997-10-05,Mexico,Spanish
+doc_00120,Taryn,Dombeck,F,W,1998-09-28,United States,English
+doc_00121,Kyle,Conley,M,B,1999-10-16,United States,English
+doc_00122,Logan,Borja,M,H,1986-03-30,Mexico,Spanish
+doc_00123,Asha,Owens,F,B,1998-11-12,Mexico,Spanish
+doc_00124,Patrick,Conly,M,W,1994-01-13,United States,English
+doc_00125,Deon,Williams,M,B,1997-09-25,United States,English
+doc_00126,Randell,Ashley,M,B,1984-05-13,United States,English
+doc_00127,Isaac,Gray,M,H,1994-11-23,United States,English
+doc_00128,Nicholas,Berk,M,W,2001-10-03,United States,English
+doc_00129,Christian,Whittington,M,B,1981-08-16,Mexico,Spanish
+doc_00130,Aubry,Clark,F,B,1992-02-05,Mexico,Spanish
+doc_00131,Megan,Fanning,F,W,1999-05-21,United States,English
+doc_00132,Ramona,Carrillo,F,H,2000-01-18,United States,English
+doc_00133,Olivia,Liebow,F,H,2000-11-27,United States,English
+doc_00134,Craig,Mondragon,M,B,1995-03-24,Mexico,English
+doc_00135,Samuel,Archuleta,M,W,1978-11-29,Mexico,Spanish
+doc_00136,Colby,Zupancic,M,W,1998-02-08,United States,English
+doc_00137,Demetri,Walker-Savoy,M,B,1986-08-06,United States,English
+doc_00138,Demetric,Hensley,M,W,2003-08-16,Mexico,Spanish
+doc_00139,Terrance,Sexton,M,W,1988-01-08,Mexico,Spanish
+doc_00140,Kevin,Hinton,M,B,1982-06-02,United States,English
+doc_00141,Antonio,Serna,M,H,2001-05-17,United States,English
+doc_00142,Phillip,Grillos,M,W,1998-10-25,Mexico,Spanish
+doc_00143,Loan Mai,Sangalang,F,A,1997-02-07,Mexico,Spanish
+doc_00144,Lucas,Rubio,M,H,2002-02-15,Mexico,Spanish
+doc_00145,Dominick,Townsend,M,B,2004-04-23,United States,English
+doc_00146,Tristan,Seitz,M,W,1996-03-06,United States,English
+doc_00147,Daisy,Rueda,F,H,1996-06-03,Canada,French
+doc_00148,Jacob,Pakmontar Clark,M,W,1995-08-22,United States,English
+doc_00149,Samuel,Wollenhaupt,M,W,1995-05-10,United States,English
+doc_00150,Davon,Moss,M,B,1998-03-05,Canada,English
+doc_00151,Nicholas,Tuton,M,W,1981-08-04,United States,English
+doc_00152,Cristian,Armendariz,M,H,2004-01-02,United States,English
+doc_00153,Tyler,Blazon,M,W,2000-01-06,United States,English
+doc_00154,Clay,Quillen,M,W,1994-01-02,United States,English
+doc_00155,Jimmy,Mcarthur,M,A,2000-05-24,United States,English
+doc_00156,Rickey,Russell,M,B,2001-01-25,United States,English
+doc_00157,Jose,Banuelos,M,H,2004-10-13,United States,English
+doc_00158,Dominique,Henderson,M,B,2000-01-02,United States,English
+doc_00159,Daris,Spore,M,AI,1989-04-29,Mexico,Other
+doc_00160,Kendra,Jones,F,B,1996-05-15,United States,English
+doc_00161,Michael,Evezich,M,W,2000-11-23,Mexico,Spanish
+doc_00162,Marlie,Stinn,F,W,1992-07-08,United States,English
+doc_00163,Christopher,Morgan,M,B,2004-07-08,Mexico,Spanish
+doc_00164,Alex,Schultz,M,W,1998-02-20,United States,English
+doc_00165,Geoy,Fry,M,W,1988-02-02,Mexico,Spanish
+doc_00166,Corey,Kunkel,M,W,1994-10-07,United States,English
+doc_00167,Jesse,Cabrera,M,H,2005-03-09,Mexico,Spanish
+doc_00168,Logan,Crisel,M,W,1999-11-15,Mexico,Spanish
+doc_00169,Jacob,Wells,M,W,1990-09-23,United States,Spanish
+doc_00170,Patrick,Parsons,M,W,2002-01-01,United States,Spanish
+doc_00171,Donovan,Reyes,M,W,1988-12-22,United States,English
+doc_00172,Kizer,Mcgaughy,M,B,2005-11-09,United States,English
+doc_00173,Kevin,Marsh,M,W,1999-09-16,United States,English
+doc_00174,Ashlynn,Oglesby,F,B,1988-04-27,United States,English
+doc_00175,Carmeal,Bosch,F,B,2004-07-04,NA,Spanish
+doc_00176,Matthew,Shank,M,W,1993-03-28,United States,English
+doc_00177,Akaysha,Bailey,F,W,1981-03-28,Mexico,Spanish
+doc_00178,Tyler,Bradshaw,M,B,1991-03-09,Mexico,French
+doc_00179,Seth,Brown,M,W,1998-05-16,Mexico,Spanish
+doc_00180,Richard,Little,M,W,1996-05-16,United States,English
+doc_00181,Alexandra,Singh,F,W,1998-01-05,United States,English
+doc_00182,Madison,Pings,F,W,1998-10-20,United States,English
+doc_00183,Cody,Dickson,M,W,1999-03-22,Canada,French
+doc_00184,Matthew,Brown,M,W,2001-10-01,Mexico,Spanish
+doc_00185,Derrick,Evans,M,B,1991-05-05,Mexico,Spanish
+doc_00186,Gabriel,Neal,M,W,1993-07-17,United States,English
+doc_00187,Eric,Cruz,M,H,1990-11-07,Mexico,Spanish
+doc_00188,Dylan,Fischer,M,W,2002-04-07,NA,English
+doc_00189,Joey,Saeed,M,A,1997-05-04,United States,English
+doc_00190,Shawn,Oetting,M,W,1994-03-21,United States,Other
+doc_00191,Aja,Leach,F,B,2001-05-08,United States,English
+doc_00192,Malaak,Richker,F,W,1996-10-13,United States,Other
+doc_00193,Manuel,Hale,M,W,1986-04-30,United States,English
+doc_00194,Meshack,Stephens,M,B,1999-03-26,United States,English
+doc_00195,Jordan,Bryson,M,B,1999-09-03,Mexico,Spanish
+doc_00196,Austin,Trigg,M,W,2004-02-02,United States,Spanish
+doc_00197,Amanda,Ribovich,F,W,2006-06-25,Canada,Other
+doc_00198,Christopher,Colon,M,H,1995-10-15,United States,English
+doc_00199,Donovan,Cormier Jr,M,B,2002-05-21,United States,English
+doc_00200,Malik,Austin,M,B,1993-05-19,Canada,French
+doc_00201,Andrew,Kenworthy,M,W,1986-01-24,Canada,English
+doc_00202,Sheldon,Phan,M,A,1999-10-25,NA,English
+doc_00203,Hudson,Henry,M,W,1995-11-04,United States,English
+doc_00204,Keith,Gruber,M,W,1999-08-10,Mexico,Spanish
+doc_00205,Sophia,Mote,F,W,1995-01-01,United States,English
+doc_00206,Isszon,Banks,M,B,2000-05-15,United States,English
+doc_00207,Conar,Mumaw,M,W,1999-07-18,United States,English
+doc_00208,Domenick,Shannon,M,B,1985-07-12,United States,English
+doc_00209,Timothy,Lewis,M,B,1999-03-19,Mexico,Spanish
+doc_00210,Addison,Milczek,M,W,1984-11-29,United States,English
+doc_00211,Candice,Mcneil,F,B,1993-01-20,United States,English
+doc_00212,Karelia,Rodriguez Morales,F,H,1998-11-09,United States,Spanish
+doc_00213,Jonathon,Zimet,M,W,1998-10-12,Mexico,Spanish
+doc_00214,Sarah,Vital Ponce,F,H,1992-01-13,United States,English
+doc_00215,Crystel,Greuel,F,W,1999-11-30,United States,English
+doc_00216,Jeffrey,Salazar,M,W,1997-01-31,United States,English
+doc_00217,Trey,Roberts,M,W,1998-10-09,United States,English
+doc_00218,Bethany,Theriault,F,W,1997-02-02,United States,English
+doc_00219,Aleksandr,Wyant,M,W,1993-03-10,Canada,English
+doc_00220,Levi,Wismer,M,W,1993-06-18,United States,English
+doc_00221,Caleb,Perkins,M,B,2002-01-10,United States,English
+doc_00222,Malachi,Juarez-Green,M,H,1969-05-29,United States,French
+doc_00223,James,Brady,M,AI,2003-12-05,United States,English
+doc_00224,Malik,Bell,M,B,1997-10-01,United States,English
+doc_00225,Carissa,Frank,F,W,1995-03-23,United States,English
+doc_00226,Jessica,Todd,F,W,2000-08-18,United States,Spanish
+doc_00227,Joshua,Athwal,M,A,1997-10-26,United States,English
+doc_00228,Kody,Martinez,M,W,2001-06-23,United States,English
+doc_00229,Joshua,Leroux,M,W,1983-07-27,United States,English
+doc_00230,Justin,Guyton,M,B,1986-11-17,Mexico,Spanish
+doc_00231,Aimanehi,Mcintyre,F,B,1997-02-01,United States,Spanish
+doc_00232,Shahlia,Pierrie,F,B,2001-05-08,Canada,English
+doc_00233,Trevor,Bruce,M,B,2001-08-18,United States,English
+doc_00234,Matthew,Nehl,M,W,1986-05-28,United States,English
+doc_00235,Justin,Dorsett,M,AI,2005-04-02,United States,English
+doc_00236,Angela,He,F,A,1994-08-20,United States,English
+doc_00237,Jordan,Jackson,F,B,1984-12-27,United States,English
+doc_00238,Corey,Arteaga,M,H,2001-03-13,United States,French
+doc_00239,Moses,Allen,M,B,1996-03-29,Canada,French
+doc_00240,Joseph,Ferman,M,H,2005-04-05,United States,English
+doc_00241,Dev'Yon,Robinson,M,B,1996-09-14,United States,English
+doc_00242,Matthew,Musante,M,W,1999-12-26,United States,English
+doc_00243,Ibashi,Johnson,M,B,2002-05-11,Mexico,Spanish
+doc_00244,Codie,Lofton,M,AI,1998-11-28,United States,English
+doc_00245,Elijah,Caperton,M,W,1983-08-17,Mexico,Spanish
+doc_00246,Angela,Degemann,F,W,1996-08-16,United States,English
+doc_00247,Jordan,Lewis,M,B,1998-09-11,Mexico,English
+doc_00248,Nathaniel,Karsh Lombardo,M,W,1995-01-04,NA,Spanish
+doc_00249,Malcolm,Cohen-Wilson,M,B,1997-07-16,United States,English
+doc_00250,Natasha,Glenn-Bracey,F,B,1998-05-30,United States,English
+doc_00251,Jacob,Warner,M,W,1993-02-22,Mexico,Spanish
+doc_00252,August,Velotta,M,W,2001-10-11,United States,English
+doc_00253,Garrett,Handy,M,B,1990-10-28,United States,Spanish
+doc_00254,Xavier,Cropp,M,B,1994-12-06,United States,English
+doc_00255,Joshua,Husmann,M,W,1995-02-06,NA,Other
+doc_00256,Austin,Block,M,W,1997-03-31,United States,English
+doc_00257,Joshua,Ryan,M,B,1990-04-13,Canada,English
+doc_00258,Alex,Boswell,M,B,1999-02-04,United States,English
+doc_00259,Shane,Salat,M,B,1999-07-14,Mexico,Spanish
+doc_00260,Patrick,Teetzel,M,H,1992-06-21,United States,English
+doc_00261,Mauro,Eurioste,M,H,1993-08-12,United States,English
+doc_00262,Harlan,Likes,M,W,2000-05-13,United States,English
+doc_00263,Quanah,Mitze,M,W,2000-04-06,United States,English
+doc_00264,Daejon,Humphrey-Biglow,M,B,2002-11-21,United States,English
+doc_00265,Kelley,Welsh,F,W,1993-11-21,United States,Spanish
+doc_00266,Markus,Gile,M,W,1988-08-07,United States,Other
+doc_00267,Chilord,Mixon,M,B,1986-04-15,United States,English
+doc_00268,Eric,Mcafee,M,B,1996-09-27,United States,English
+doc_00269,Ja'Cory,Holmes,M,B,1994-08-05,Mexico,Spanish
+doc_00270,Da Sha,Gaffin,M,B,1993-08-12,United States,English
+doc_00271,Gary,Stark,M,W,1996-04-14,United States,English
+doc_00272,Cameron,Huff,M,W,1984-08-03,Mexico,Spanish
+doc_00273,Chase,Malonson,M,W,2002-05-16,Mexico,Spanish
+doc_00274,Michael,Davidson,M,B,2004-11-11,Mexico,English
+doc_00275,Nastashia,Martinez Flood,F,AI,1986-10-13,United States,French
+doc_00276,Angelic,Waite,F,AI,2004-01-08,Canada,French
+doc_00277,Gilbert,Rincon,M,H,2004-11-23,United States,Spanish
+doc_00278,Valerye,Sanchez,F,H,1982-03-08,Mexico,Spanish
+doc_00279,Aaron,Asfaw,M,B,1987-04-24,United States,English
+doc_00280,Haurouna,Habimfura,M,B,2000-07-08,United States,English
+doc_00281,Rashad,Mitchell Williams,M,B,1999-07-14,United States,English
+doc_00282,Jeffery,Menjivar,M,H,2000-03-27,Mexico,Other
+doc_00283,Reuben,Mekelburg,M,W,2003-02-12,Mexico,Spanish
+doc_00284,Roy,Jones,M,W,1996-02-05,United States,English
+doc_00285,Dane,Johnatakis,M,W,1989-01-28,Mexico,Spanish
+doc_00286,Reyna,Melchor,F,H,1995-04-18,United States,English
+doc_00287,James,Bennett,M,W,1996-08-04,United States,English
+doc_00288,Andrew,Hill,M,W,1996-06-22,United States,English
+doc_00289,Travis,Hubchik,M,W,1962-12-26,United States,Spanish
+doc_00290,Enzo,Brink,M,W,1999-05-13,United States,Spanish
+doc_00291,Paul,Nehls,M,W,1999-08-14,United States,English
+doc_00292,Alan,Daniels,M,B,1982-02-01,United States,Spanish
+doc_00293,Nicole,Allison,F,W,1995-06-04,United States,English
+doc_00294,Shavaughn,Goins,M,B,1991-04-22,United States,English
+doc_00295,Maya,Smith,F,B,1999-07-28,Mexico,Spanish
+doc_00296,Jacob,Johnson,M,W,1999-01-24,Mexico,Spanish
+doc_00297,Michael,Brown,M,W,1995-07-24,Mexico,Spanish
+doc_00298,Jamie,Servin-Gomez,M,H,2001-08-25,United States,English
+doc_00299,Kevin,Roberts,M,AI,1992-03-27,NA,Spanish
+doc_00300,Ce'Vonn,Brame,M,B,1991-03-06,Mexico,Spanish
+doc_00301,Elijah,Maness,M,W,2003-01-15,United States,English
+doc_00302,Courtney,Denham,F,W,2002-07-16,United States,English
+doc_00303,Nathaniel,West,M,B,1988-05-05,United States,English
+doc_00304,Cord,Wright,M,W,1996-05-11,United States,English
+doc_00305,Elijah,White,M,B,2004-08-24,United States,Other
+doc_00306,Philman,Watkins,M,AI,1997-06-07,United States,English
+doc_00307,Jaymz,Lytle,M,W,1991-03-02,Canada,English
+doc_00308,Jada,Rosemond,F,B,2001-07-06,Canada,French
+doc_00309,Chloe,Hawkins,F,W,1994-08-19,Mexico,Spanish
+doc_00310,Gregorio,Gonzalez,M,H,1999-04-27,Mexico,Spanish
+doc_00311,Dominique,Mclin,F,B,1993-03-23,United States,English
+doc_00312,Nickelle,Fornia,F,W,1989-03-08,Mexico,Spanish
+doc_00313,Austin,Hansen,M,W,1981-03-18,Mexico,Spanish
+doc_00314,Eric,Durant,M,W,1996-09-28,Mexico,Spanish
+doc_00315,Matthew,Reiter,M,W,1998-04-17,Canada,French
+doc_00316,Joshua,Kimmett,M,B,1991-02-04,United States,English
+doc_00317,Graham,Panco,M,W,1997-12-23,United States,Spanish
+doc_00318,Dustin,Domenico,M,W,1991-07-07,United States,English
+doc_00319,Samantha,Diller,F,W,1991-12-27,United States,English
+doc_00320,Natalie,Nick,F,W,1990-08-23,United States,Other
+doc_00321,Ak,Riemer,M,W,1995-06-15,United States,Spanish
+doc_00322,Konor,Hardy,M,W,1991-11-15,United States,English
+doc_00323,Griselda,Andrew,F,H,1993-01-31,United States,English
+doc_00324,Ja' Drianna,Dejean,F,B,2003-11-26,United States,French
+doc_00325,Joseph,Wilson,M,AI,2000-12-09,United States,Other
+doc_00326,Christopher,Estrada,M,W,1998-01-24,United States,English
+doc_00327,Tatiana,Degenhart,F,W,1993-02-05,Mexico,Spanish
+doc_00328,Heather,Cimino,F,W,1987-11-26,United States,Spanish
+doc_00329,Dashell,Moores,M,W,1991-12-01,Mexico,Spanish
+doc_00330,Koby,Vanorden,M,W,1982-10-23,United States,French
+doc_00331,Jason,Fast,M,W,2000-11-18,United States,English
+doc_00332,Andrelius,Trott II,M,B,1996-09-18,United States,Other
+doc_00333,Sydney,Lewis,F,AI,2005-02-08,United States,English
+doc_00334,Adam,Wiley,M,W,1999-07-16,Mexico,English
+doc_00335,Jason,Samuel,M,W,1999-04-27,Canada,English
+doc_00336,Nicholas,Shrope,M,W,1987-09-28,United States,English
+doc_00337,Jacob,Spielman,M,W,2001-06-19,United States,English
+doc_00338,Cody,Klawiter,M,W,2001-09-28,United States,English
+doc_00339,Rolando,Torres,M,H,1993-11-08,United States,English
+doc_00340,Christian,Duran,M,H,1978-03-19,Mexico,Spanish
+doc_00341,Curtis,Hanks,M,W,1992-02-27,NA,English
+doc_00342,Diane,Sant,F,W,1986-08-15,Mexico,Spanish
+doc_00343,Cristian,Miller,M,H,1999-03-31,United States,French
+doc_00344,Troy,Patton,M,B,1999-12-28,United States,Spanish
+doc_00345,Chabewra,Campbell,M,B,2000-03-21,United States,English
+doc_00346,Michael,Sabadell,M,W,2002-06-17,United States,English
+doc_00347,Michael,Goetz,M,H,2000-03-22,United States,English
+doc_00348,John,Dosey,M,W,1990-06-04,United States,English
+doc_00349,James,Hanson,M,W,2003-06-11,United States,English
+doc_00350,Andrew,Brands,M,W,1992-12-08,United States,English
+doc_00351,Christopher Lou,Harper,M,B,1997-12-02,United States,English
+doc_00352,Nazaar,Vaughn,M,B,1985-11-07,Mexico,Spanish
+doc_00353,Monique,Vigil,F,H,2001-11-06,United States,English
+doc_00354,Josiah,Moore,M,B,1993-01-28,United States,English
+doc_00355,Dionte,Paige,M,B,1997-09-15,United States,English
+doc_00356,Christopher,Carpenter,M,W,1994-05-15,United States,English
+doc_00357,Quinn,Faal,F,B,1999-02-01,United States,Spanish
+doc_00358,Sergio,Cayetano Jimenez,M,H,1993-08-18,United States,English
+doc_00359,Mitchell,Walker,M,W,1996-07-01,Mexico,Spanish
+doc_00360,Frederick,Williams,M,B,1997-03-07,United States,English
+doc_00361,Joshua,Chavira-Brollier,M,W,1988-10-11,United States,English
+doc_00362,Zachary,Subka,M,W,1989-06-20,United States,English
+doc_00363,Tori,Levesque,M,W,2005-01-31,Mexico,Spanish
+doc_00364,Jamie,Green,M,W,1989-02-17,United States,Spanish
+doc_00365,Trayvon,Huff,M,B,2003-05-25,United States,English
+doc_00366,Jonathan,Cardenas,M,H,1982-07-08,United States,English
+doc_00367,Alicia,Wickstrom,F,W,1994-05-26,United States,English
+doc_00368,Christopher,Ford,M,B,1995-11-23,United States,English
+doc_00369,Ura,Wade,M,B,2003-09-09,Canada,English
+doc_00370,Rodney,Ditlevson,M,AI,1999-06-21,United States,Spanish
+doc_00371,Justin,Marquez,M,H,2002-03-12,United States,English
+doc_00372,Samuel,Howard,M,W,1984-12-04,United States,English
+doc_00373,David,Hill,M,B,2003-10-02,United States,Spanish
+doc_00374,Eddie,Gonzalez Bonilla,M,H,1997-10-12,United States,Spanish
+doc_00375,Christopher,Messle,M,B,1994-01-21,United States,Other
+doc_00376,Alexander,Long,M,B,1997-04-12,United States,English
+doc_00377,Selamawit,Spencer,F,B,1999-07-14,United States,English
+doc_00378,Caleb,Seaholm,M,W,1990-12-04,Mexico,Other
+doc_00379,Michael,Smith,M,B,1992-10-27,Mexico,Spanish
+doc_00380,Kira,Jackson,F,W,1999-04-07,United States,English
+doc_00381,Jacqueline,Stark,F,H,1994-01-02,United States,English
+doc_00382,Guled,Colbert,M,B,2000-10-13,United States,English
+doc_00383,Sean,Sable,M,W,2000-07-13,United States,English
+doc_00384,Larry,Bennett,M,B,1997-01-08,Canada,French
+doc_00385,Cohen,Tasby,M,B,1987-11-26,Mexico,Spanish
+doc_00386,Joshua,Schroder,M,W,1997-09-26,Mexico,English
+doc_00387,Cole,Murphy,M,W,1992-09-23,United States,English
+doc_00388,Jared,Johnston,M,W,1977-11-06,NA,English
+doc_00389,Marcus,Trujillo-Fajardo,M,H,1986-07-19,Mexico,Spanish
+doc_00390,Kaitlin,Lo,F,A,1995-04-10,United States,English
+doc_00391,Isaiah,Selby,M,B,1999-05-31,United States,Other
+doc_00392,Michael,Buckley,M,W,1982-07-05,United States,English
+doc_00393,Lewis,Schultheiss,M,W,2002-01-24,Mexico,Spanish
+doc_00394,Cody,Avery,M,W,1993-07-12,United States,French
+doc_00395,Ben,Ellis,M,W,1999-05-18,United States,Other
+doc_00396,Michael,Brugger,M,W,1993-01-30,United States,English
+doc_00397,Kailib,Reshard,M,B,2002-05-04,United States,Other
+doc_00398,Dakota,Martinez-Paz,M,H,1990-05-20,Mexico,Other
+doc_00399,Eliakim,Allen,M,B,1998-05-17,Mexico,Spanish
+doc_00400,David,Martin,M,H,1997-08-22,United States,English
+doc_00401,Roy,Martin,M,B,1999-03-26,United States,English
+doc_00402,Jonathan,Randolph,M,W,1980-01-10,United States,English
+doc_00403,Ryan,Kraus,M,W,2000-12-12,Mexico,Spanish
+doc_00404,Caterina,Jaffe,F,W,2004-02-04,NA,Other
+doc_00405,Siobhan,Macklin,F,W,2003-06-11,United States,English
+doc_00406,Clinton,Brown,M,W,1995-05-15,United States,English
+doc_00407,Isaiah,Tootle-Lewis,M,B,1996-12-16,Mexico,Spanish
+doc_00408,Elijah,Balistreri,M,W,1991-06-11,United States,English
+doc_00409,Jazmine,Lightfoot,F,W,1988-06-03,Mexico,Spanish
+doc_00410,Victor,Boose,M,W,2003-10-27,United States,English
+doc_00411,Megan,Hance,F,W,1980-02-12,United States,English
+doc_00412,Seth,Ollier,M,W,1997-10-23,United States,English
+doc_00413,Edward,Rodriguez,M,H,1996-07-10,United States,English
+doc_00414,Jordan,Tuitele-Britton,M,B,1996-11-06,United States,French
+doc_00415,Michael,Atkinson,M,W,1994-12-23,Mexico,Spanish
+doc_00416,Montaye,Hobson,M,B,1999-06-04,United States,English
+doc_00417,Bryson,Robinson,M,B,1997-07-16,United States,English
+doc_00418,Christian,Woodridge,M,B,1975-08-12,Mexico,Other
+doc_00419,Jamil,Mack,M,B,1989-01-29,Mexico,Spanish
+doc_00420,Tavaris,White,M,B,1987-05-29,United States,English
+doc_00421,Tyler,Kelly,M,W,1997-12-14,Mexico,Spanish
+doc_00422,Brian,Covington,M,B,1979-09-28,Mexico,Spanish
+doc_00423,Antwann,Sapp,M,B,1984-08-18,Canada,French
+doc_00424,Simon,Rodgers,M,B,1993-03-08,United States,English
+doc_00425,Victor,Ragland,M,W,1996-12-25,Mexico,English
+doc_00426,Tru,Hughson,M,W,2000-04-24,United States,English
+doc_00427,Byron,Gooch,M,B,2001-12-15,United States,English
+doc_00428,Marquan,Paul,M,B,2002-08-01,United States,English
+doc_00429,Emilia,Zaniefski,F,W,1999-02-23,United States,English
+doc_00430,Margaret,Ruder,F,W,1990-06-24,United States,English
+doc_00431,Elizabeth,Sawaged,F,W,1998-08-06,United States,English
+doc_00432,Shaqem,Young,M,B,1987-08-16,United States,English
+doc_00433,Bronzelle,Bethel,M,B,1992-07-01,Mexico,Spanish
+doc_00434,James,Selburg,M,W,1999-09-01,Mexico,Spanish
+doc_00435,Alexis,Lopez,M,H,1994-03-14,Mexico,French
+doc_00436,Edison,Davis,M,AI,1992-09-21,Mexico,Spanish
+doc_00437,Kylina,Gurreri,F,AI,1999-09-24,United States,English
+doc_00438,Simeon,Scott,M,B,1997-01-27,United States,English
+doc_00439,Leonard,Gomez,M,AI,1990-09-28,United States,English
+doc_00440,Zoe,Reilly,F,W,1995-04-17,Mexico,Spanish
+doc_00441,Kyle,Coffman,M,W,1995-05-26,United States,English
+doc_00442,Heather,Ocana,F,W,2004-06-09,United States,English
+doc_00443,Jordan,Warthen,M,W,1995-02-18,United States,English
+doc_00444,Sarah,Arnold,F,W,1994-07-16,Mexico,Spanish
+doc_00445,Christina,Pastore,F,W,2001-10-14,Mexico,Spanish
+doc_00446,Shawrae,Zotto,M,B,1994-12-28,United States,Spanish
+doc_00447,Alejandro,Bernal,M,H,2000-07-27,Mexico,Spanish
+doc_00448,James,Anderson,M,W,1988-01-23,Mexico,Spanish
+doc_00449,An Hoa,Ledinh,M,A,1994-12-27,United States,English
+doc_00450,Jason,Schlaufman,M,W,1996-05-28,United States,English
+doc_00451,Curtis,Brown,M,W,1991-06-25,United States,English
+doc_00452,Dana,Simmons,F,B,2000-11-25,United States,English
+doc_00453,David,Michelsen,M,W,1997-09-02,United States,English
+doc_00454,Terrell,Thompson,M,B,1992-03-12,Canada,Spanish
+doc_00455,Vincent,Paty,M,W,1999-09-05,Mexico,Spanish
+doc_00456,Dylan,Allen,M,W,1990-12-27,United States,English
+doc_00457,Nicholas,Richardson,M,B,1999-10-16,United States,English
+doc_00458,John,Foster,M,W,1994-10-23,NA,Spanish
+doc_00459,Matthew,O'Reilly,M,W,2002-06-01,United States,French
+doc_00460,Zacary,Jones,M,B,1989-01-29,NA,English
+doc_00461,Nicolas,Henson,M,B,1981-12-08,United States,English
+doc_00462,Marnath,Boyd,M,B,1996-09-30,Canada,English
+doc_00463,Spencer,Monroe,M,W,2000-02-28,United States,Spanish
+doc_00464,Christopher,Young,M,W,1998-09-07,United States,English
+doc_00465,Leonard,Anderson,M,AI,1989-10-12,Mexico,Other
+doc_00466,Benjamin,Defrees,M,W,1998-11-21,United States,English
+doc_00467,Tarron,Anderson,M,B,2005-07-02,United States,French
+doc_00468,Braeden,Irsik,M,W,2002-08-06,United States,English
+doc_00469,Travis,Gordon,M,W,1999-07-22,United States,Other
+doc_00470,Joseph,Mireles,M,H,1986-03-14,United States,English
+doc_00471,Clayton,Mohamed,M,B,2003-07-21,Mexico,Spanish
+doc_00472,Nathaniel,Davidson,M,W,1998-01-29,United States,English
+doc_00473,Brisco,Gutierrez,M,H,1993-07-19,Mexico,Spanish
+doc_00474,Derek,Oborn,M,W,1992-01-10,United States,English
+doc_00475,Robert,Thompson,M,W,1983-02-02,United States,English
+doc_00476,Seddrik,Soule,M,B,1996-04-14,Mexico,Spanish
+doc_00477,Tomasik,Lilly,M,W,2001-01-31,NA,English
+doc_00478,Daniel,Wantings,M,B,2003-03-24,United States,English
+doc_00479,Kadin,Gonzalez-Valdez,M,H,1999-04-19,United States,English
+doc_00480,Derrick,Moss,M,B,2000-03-11,Mexico,Spanish
+doc_00481,Shenita,Howard,F,B,1998-01-31,United States,English
+doc_00482,Tri-Jordan,Valdilles,M,H,1996-11-07,United States,Other
+doc_00483,Dean,Hodge,M,AI,2002-10-04,Canada,French
+doc_00484,Nickolas,Fraass,M,W,1999-06-02,United States,English
+doc_00485,Zackary,Streeter,M,W,1988-07-02,United States,Spanish
+doc_00486,Steven,Buxo,M,H,1996-10-25,United States,English
+doc_00487,Kordell,Knight,M,B,1982-05-21,United States,English
+doc_00488,Zachary,Kelliher,M,W,1980-04-18,Canada,Spanish
+doc_00489,Sam,Chung,M,A,1995-02-10,United States,English
+doc_00490,Byron,Richardson,M,B,1994-02-13,United States,English
+doc_00491,Carly,Lopez,F,AI,2000-08-26,United States,English
+doc_00492,Chance,Miller,M,W,1997-04-04,Mexico,Spanish
+doc_00493,Jaleesa,Davis,F,B,1993-01-06,Mexico,Spanish
+doc_00494,Derek,Burns,M,W,1996-10-10,United States,English
+doc_00495,Amanda,Bennett,F,W,1993-01-25,Canada,English
+doc_00496,Mequila,Jefferson,F,AI,2000-07-08,United States,English
+doc_00497,Raamon,Rodriguez,M,B,1994-06-25,United States,French
+doc_00498,Mason,Vasquez,M,AI,1998-12-29,United States,English
+doc_00499,Sean,Pastula,M,W,1994-04-08,United States,English
+doc_00500,Daniel,Truong,M,A,1996-04-27,United States,English
+doc_00501,Zachary,Faughnan,M,W,1984-12-31,Mexico,Spanish
+doc_00502,Ahkmahd,Udechukwu,M,B,1993-11-11,United States,English
+doc_00503,Ra'Vion,Bishop,M,B,1990-01-09,United States,French
+doc_00504,Ryan,Wilson,M,W,1991-05-14,NA,English
+doc_00505,Gaghe,Sylla,M,B,1989-02-15,United States,English
+doc_00506,Jody,Moss,M,B,1993-09-05,United States,English
+doc_00507,Nyang,Smullen,M,B,1998-08-30,United States,French
+doc_00508,Caleb,Markham,M,W,2000-04-12,United States,English
+doc_00509,James,Jones,M,W,2001-03-24,Mexico,Spanish
+doc_00510,Adam,Vierczhalek,M,W,1986-12-24,NA,Other
+doc_00511,Brandon,Norris,M,H,1986-06-04,United States,English
+doc_00512,Caleb,Slocum,M,W,1993-06-03,United States,English
+doc_00513,Kyle,Ferrell,M,W,1996-12-14,United States,Spanish
+doc_00514,Joseph,George,M,W,1997-01-09,United States,English
+doc_00515,Tod,Duran,M,W,1991-04-25,NA,Other
+doc_00516,Kyle,Mccartney,M,W,1996-06-05,United States,English
+doc_00517,Max,Fisher,M,W,1996-06-15,United States,English
+doc_00518,John,Patton,M,W,1995-04-26,Mexico,Spanish
+doc_00519,Shomari,Breazell-Johnson,M,B,1997-09-10,Canada,French
+doc_00520,Tyler,Nunley,M,AI,1999-12-20,United States,Spanish
+doc_00521,Devin,Brown,M,B,1993-03-12,United States,English
+doc_00522,Dallas,Velez,M,W,1991-06-08,United States,English
+doc_00523,Sean,Lenberg,M,W,1983-10-14,Mexico,Spanish
+doc_00524,Nathan,Bliss,M,W,1999-12-11,United States,Other
+doc_00525,Sherman,Harris,M,B,1990-11-05,Mexico,English
+doc_00526,Gage,Riley,M,AI,1995-12-26,Mexico,Spanish
+doc_00527,Francis,Halgren,M,W,1999-09-04,United States,English
+doc_00528,Molly,Papke,F,W,2001-07-09,United States,English
+doc_00529,Cierra,Moore,F,B,2002-11-20,United States,English
+doc_00530,Alyssa,Moreno,F,H,1995-01-22,United States,English
+doc_00531,Da Seana,Miller,F,B,1999-08-27,NA,Spanish
+doc_00532,Ashlie,Hinson,F,W,1997-03-07,Mexico,Spanish
+doc_00533,David,Jenks,M,AI,1998-06-22,United States,English
+doc_00534,Anjunea,Aneke,F,B,1999-08-15,United States,English
+doc_00535,Morgan,George,F,B,2001-05-06,United States,English
+doc_00536,James,Adams,M,W,1992-03-26,United States,English
+doc_00537,Mitchell,Begay,M,AI,1999-04-05,Mexico,Spanish
+doc_00538,Seandre,Donnell,M,B,2000-06-23,United States,English
+doc_00539,Emma,Armstrong,F,W,2000-11-24,United States,English
+doc_00540,Vanessa,Cervantes,F,H,1986-03-24,United States,English
+doc_00541,Eric,Bartolo,M,H,1986-03-11,United States,English
+doc_00542,Callaghan,Mullins,M,W,2000-01-02,United States,Spanish
+doc_00543,Emma,Keller,F,W,2005-01-20,United States,English
+doc_00544,Alexander,Pae,M,A,1996-03-04,Mexico,Spanish
+doc_00545,Saul,Sanchez,M,H,1997-10-16,United States,English
+doc_00546,Andrew,Nikont,M,W,1998-08-27,United States,English
+doc_00547,Micah,Richards,M,B,1994-09-26,Mexico,Spanish
+doc_00548,Levon,Alfino,M,W,1990-08-30,Canada,English
+doc_00549,Omari,Mcclure,M,B,1994-08-13,United States,English
+doc_00550,Remle,Gaines,M,B,1987-12-30,United States,English
+doc_00551,Stephanie,Tombaugh,F,W,1989-01-07,United States,English
+doc_00552,Dearee,Pedraza,M,B,2003-01-15,United States,English
+doc_00553,Risa,Graves,F,AI,1991-10-19,United States,Other
+doc_00554,Trevor,Kontour,M,W,1985-10-24,United States,Spanish
+doc_00555,Robert,Pinon Lopez,M,H,1995-07-21,United States,Spanish
+doc_00556,Jesus,Bishop,M,H,1989-06-28,United States,English
+doc_00557,Nicholas,Mc Guire,M,W,1984-08-31,United States,English
+doc_00558,Tobias,Moore,M,B,1993-09-27,Mexico,Spanish
+doc_00559,Cameron,Hoffman,M,W,1997-03-28,United States,English
+doc_00560,Stefan,Mahamed,M,B,1994-08-10,United States,English
+doc_00561,Braedan,Rupple,M,W,1992-06-04,United States,Other
+doc_00562,Dakota,Fitzpatrick,M,W,1992-11-17,United States,French
+doc_00563,Mykecia,Lamorell,F,B,1994-05-05,United States,English
+doc_00564,Zachary,Clarkson,M,W,1995-05-08,United States,Spanish
+doc_00565,Kei'Zuan,Erig,M,B,1985-09-10,NA,Other
+doc_00566,Angel,Fontes,M,H,1996-09-22,United States,English
+doc_00567,Ashleigh,Ruth,F,AI,1994-02-10,United States,English
+doc_00568,Ryan,Rackl,M,W,1989-09-28,Canada,English
+doc_00569,Jose,Gonzales,M,H,1994-05-22,United States,English
+doc_00570,Steven,Davis,M,B,1998-04-07,United States,English
+doc_00571,Jacob,Ecker,M,W,1986-09-26,United States,English
+doc_00572,Fredrick,Martin,M,W,1984-07-07,United States,English
+doc_00573,Derek,Sullivan,M,W,1989-08-01,United States,English
+doc_00574,Ehrin,Shenefelt,M,B,2002-02-13,United States,English
+doc_00575,Michael,Mitchell,M,W,1996-05-25,United States,English
+doc_00576,Dominique,Ziebis,M,B,2002-09-23,NA,English
+doc_00577,Tyler,Moffitt,M,W,1994-07-09,United States,Spanish
+doc_00578,Sergio,Martinez,M,H,2001-12-21,United States,English
+doc_00579,Alicksander,Martinez,M,H,1990-12-21,United States,English
+doc_00580,Peter,Smith,M,W,1998-03-27,United States,English
+doc_00581,Grace,King,F,W,1997-05-18,United States,English
+doc_00582,Jordan,Ford,M,B,2001-08-06,Canada,English
+doc_00583,Magali,Salazar Jr,F,H,1994-09-18,Canada,English
+doc_00584,Eruvey,Sanchez,M,H,1987-01-21,Mexico,Spanish
+doc_00585,Tanner,Wright,M,W,2002-11-03,NA,English
+doc_00586,Steven,Chung,M,A,2000-04-14,United States,English
+doc_00587,Sean,Macleod,M,W,1998-11-23,Mexico,Spanish
+doc_00588,Julie,Tews,F,W,1984-06-03,Mexico,Spanish
+doc_00589,Tanisha,Wysocki,F,AI,1992-06-24,United States,English
+doc_00590,Chelsey,Moore,F,W,1997-08-23,Mexico,Spanish
+doc_00591,Matthew,Stimach,M,W,2000-04-03,Mexico,Spanish
+doc_00592,Matthew,Valle,M,H,1993-12-03,United States,English
+doc_00593,Isaac,Benjamin,M,B,1993-03-01,United States,English
+doc_00594,Tyler,Rodgers,M,B,1990-04-23,United States,English
+doc_00595,Jesse,Dutchie,M,AI,1989-12-09,United States,English
+doc_00596,Francisco,Juarez,M,H,1990-02-05,United States,English
+doc_00597,Ezekiel,Serrano-Caballero,M,H,2002-02-14,United States,English
+doc_00598,Matthew,Kuhlman,M,W,1999-01-20,United States,English
+doc_00599,Emil,Wilson,M,B,1981-08-11,United States,English
+doc_00600,Luis,Gauna,M,H,1999-05-04,United States,English
+doc_00601,Joshua,Campbell,M,A,1987-05-23,United States,English
+doc_00602,Pablo,Romero,M,H,1997-06-15,United States,English
+doc_00603,Steven,Hamlin,M,AI,1976-12-20,United States,Spanish
+doc_00604,Javon,Jennings,M,B,1995-11-06,NA,Spanish
+doc_00605,Chad,Parchman,M,W,1995-12-02,United States,Spanish
+doc_00606,Zachery,Aguilar,M,H,1998-01-01,United States,English
+doc_00607,Breaena,Hurst,F,W,2002-03-30,Mexico,Spanish
+doc_00608,Vanessa,Jackson,F,B,1994-04-27,United States,English
+doc_00609,Semhal,Saforo,F,B,1994-02-17,Mexico,Spanish
+doc_00610,Alliyah,Rouse,F,B,2002-08-02,United States,English
+doc_00611,Justin,Dahl,M,W,1999-08-03,United States,English
+doc_00612,Leeantae,Heslip,M,B,1991-10-14,Mexico,Spanish
+doc_00613,Derrick,Fisher,M,W,1986-10-27,United States,English
+doc_00614,Tyler,George,M,W,1986-08-23,United States,English
+doc_00615,Kalea,Lewis,F,W,1997-05-15,United States,English
+doc_00616,Anthony,Newsom,M,B,2000-05-14,Mexico,Spanish
+doc_00617,Matthew,Haderle,M,W,1994-08-09,United States,English
+doc_00618,Jaida,Matthew,F,B,2006-04-11,United States,English
+doc_00619,Ethan,Springfield,M,W,1996-07-08,United States,French
+doc_00620,Renee,Young,F,W,1999-02-09,Mexico,Spanish
+doc_00621,Noah,Mascarenas,M,H,1993-04-09,United States,English
+doc_00622,Isaiah,Harding,M,B,1988-07-15,United States,English
+doc_00623,John,Adams,M,W,1991-09-08,United States,Spanish
+doc_00624,Dylan,Brooks,M,W,1995-04-05,NA,English
+doc_00625,Evan,Carnahan,M,W,2001-03-25,United States,English
+doc_00626,Roman,Chanez,M,H,1992-05-15,Mexico,Spanish
+doc_00627,Ian,Palmer,M,AI,2001-01-22,United States,English
+doc_00628,Cody,Wright,M,W,1999-11-13,United States,Other
+doc_00629,Chadwick,Lesley,M,B,1985-06-25,United States,English
+doc_00630,Mahkena,Davis,M,B,1986-02-01,United States,English
+doc_00631,Isaiah,Bean,M,B,1994-03-12,United States,English
+doc_00632,Marco,Shammari,M,H,1995-01-17,United States,English
+doc_00633,Taylor,Chavez Perez,F,H,2000-01-11,United States,English
+doc_00634,Xavier,Williams,M,B,1979-03-13,Canada,French
+doc_00635,Imari,Riley,M,B,2003-11-14,Mexico,English
+doc_00636,Christopher,Lakota,M,W,1995-06-14,United States,English
+doc_00637,Jared,Anders,M,H,1998-12-09,United States,English
+doc_00638,Crystabel,Cordova,F,H,1992-04-26,Mexico,Spanish
+doc_00639,Christopher,Mulder,M,AI,1998-12-05,Mexico,Spanish
+doc_00640,Ryan,Mendez,M,H,2002-03-27,United States,Other
+doc_00641,Jackson,Clemenson,M,W,1995-09-14,United States,English
+doc_00642,Jacob,Rives,M,W,1969-05-23,NA,Other
+doc_00643,Casey,Nieweg,M,W,1998-05-06,United States,English
+doc_00644,Joseph,Reimondo,M,W,1993-02-03,Mexico,Spanish
+doc_00645,Alexander,Barry,M,W,1996-06-24,United States,English
+doc_00646,Javon,Lee,M,B,2000-06-22,Canada,French
+doc_00647,Remle,Brown,M,B,1998-04-12,Canada,Other
+doc_00648,Philip,Delaney,M,W,1997-09-16,United States,English
+doc_00649,Lucas,Bland,M,B,1997-06-06,United States,English
+doc_00650,Brandon,Kelkenberg,M,W,1997-06-14,Canada,French
+doc_00651,Samuel,Switzer-Lambrick,M,W,1974-12-09,United States,English
+doc_00652,Cody,Beach,M,W,1999-05-25,Mexico,Spanish
+doc_00653,Phizell,Bain,M,B,1988-03-19,United States,English
+doc_00654,Brandon,Down,M,W,1988-11-23,Mexico,Spanish
+doc_00655,Logan,Hart,M,W,1989-02-12,Canada,French
+doc_00656,Nathaniel,Thompson,M,W,1986-10-15,United States,English
+doc_00657,Alexander,Yeatts,M,W,2004-11-10,United States,English
+doc_00658,Dominique,Randall,M,B,1995-11-24,United States,English
+doc_00659,Tinaj,Williams,M,B,1996-07-11,United States,English
+doc_00660,Amy,Arias,F,H,1998-09-08,Canada,English
+doc_00661,Samuel,Petro,M,W,1997-09-09,United States,English
+doc_00662,Richard,Gonzalez,M,H,1979-07-28,Mexico,Spanish
+doc_00663,Taylor,Ayers,M,B,1998-04-13,United States,French
+doc_00664,Stephen,Lotze,M,W,1997-03-30,United States,English
+doc_00665,Bryce,Kober,M,W,1998-03-11,United States,Spanish
+doc_00666,Anthony,Coney,M,B,2000-05-21,Canada,Other
+doc_00667,Garrett,Kirkman,M,W,1995-04-16,United States,English
+doc_00668,Reece,Watterson,M,AI,1993-09-27,United States,Spanish
+doc_00669,Anthony,Edwards,M,W,2004-03-03,United States,English
+doc_00670,Sterling,Bonthron,M,A,1994-07-14,United States,Spanish
+doc_00671,Brandon,Abeyta,M,H,1997-05-03,United States,English
+doc_00672,Kevin,Forrest,M,B,1986-10-19,Mexico,Other
+doc_00673,Kevin,Waters,M,W,1998-05-23,United States,English
+doc_00674,Elijah,Shockey,M,W,1986-11-08,United States,Other
+doc_00675,Eric,Harris,M,B,2000-04-03,United States,Other
+doc_00676,Kevin,Thompson,M,W,1991-11-16,NA,Other
+doc_00677,Robert,Carrillo,M,W,1991-01-09,United States,English
+doc_00678,Dylan,Tate,M,W,2002-06-07,Mexico,Spanish
+doc_00679,Kelton,Morales,M,AI,1995-11-13,Mexico,Spanish
+doc_00680,Jonathan,Frias,M,H,1990-10-14,United States,English
+doc_00681,Cody,Horn,M,W,1997-10-16,United States,English
+doc_00682,Kimyen,Tran,F,A,1994-07-24,United States,English
+doc_00683,Abdimalik,Johnson,M,B,1989-03-01,United States,English
+doc_00684,Kyle,Ringleka,M,W,1998-03-09,NA,English
+doc_00685,Bradley,Mcdonnell,M,W,2000-01-23,United States,English
+doc_00686,Matthew,Bell,M,W,2003-08-29,United States,English
+doc_00687,Connor,Baskall,M,W,2000-05-24,Mexico,Spanish
+doc_00688,Eduardo,Garcia,M,H,1996-01-12,United States,English
+doc_00689,Wyatt,Courkamp,M,W,1998-03-25,United States,English
+doc_00690,Mickayla,Yoder,F,W,1995-08-25,United States,English
+doc_00691,Kori,Williams,M,B,1981-03-20,United States,English
+doc_00692,Chad,Roberts,M,W,2002-02-05,United States,English
+doc_00693,Nickolas,Guiles,M,B,1988-09-30,United States,English
+doc_00694,Hrach,Snedeker,M,W,1998-04-17,United States,English
+doc_00695,Julian,Starr,M,AI,2002-05-07,United States,English
+doc_00696,C Austin,Bustos,M,H,1986-06-15,United States,English
+doc_00697,Reid,Weber,M,W,1989-06-09,United States,English
+doc_00698,Robert,Cooper,M,W,1988-10-12,United States,English
+doc_00699,Philip,Gibney,M,W,1995-12-09,NA,Other
+doc_00700,Martina,Rivasplata,F,H,1995-05-30,United States,English
+doc_00701,Michael,Patheal,M,W,1996-03-14,United States,English
+doc_00702,Brandon,Dominguez,M,H,1993-07-07,United States,English
+doc_00703,Ashley,Intravaia,F,W,1984-03-13,Canada,English
+doc_00704,Joseph,Baeza,M,H,1992-03-17,United States,English
+doc_00705,Jonathan,Butkovich,M,W,1991-03-30,Mexico,Spanish
+doc_00706,Benjamin,Steeno,M,W,2001-08-30,Canada,French
+doc_00707,Taylar,Ord,F,W,1999-01-01,United States,French
+doc_00708,Tre John,Johnson,M,B,1991-12-19,United States,English
+doc_00709,Dillon,Bachman,M,W,1990-04-29,United States,English
+doc_00710,Samantha,Bellante,F,H,1997-08-29,United States,English
+doc_00711,Matthew,Churchwell,M,W,1997-06-29,United States,English
+doc_00712,Cullen,Kube,M,W,1997-01-26,United States,English
+doc_00713,Travis,Gordon,M,W,2004-07-31,United States,English
+doc_00714,Janice,Scott,F,AI,1985-02-04,United States,English
+doc_00715,Ryan,Swade,M,W,1987-06-24,Mexico,Spanish
+doc_00716,Darian,Steele,M,W,1986-12-03,NA,Spanish
+doc_00717,Chloe,Muniz,F,H,1992-09-30,NA,Spanish
+doc_00718,Andrew,Cortez,M,W,1999-05-10,Mexico,Spanish
+doc_00719,Patrick,Trevizo,M,H,1996-12-10,NA,Spanish
+doc_00720,Charles,Scott,M,W,1996-07-23,United States,French
+doc_00721,Tyree,Logan,M,B,1986-10-23,Canada,French
+doc_00722,Zachary,Whalen,M,W,2003-03-29,United States,English
+doc_00723,Elliot,King,M,B,1994-09-14,United States,Spanish
+doc_00724,Austin,Martinez,M,H,1991-10-10,United States,English
+doc_00725,Nicholas,Beardsley,M,W,1996-02-28,United States,French
+doc_00726,Derek,Bowyer,M,W,2004-11-27,United States,English
+doc_00727,Neil,Musil,M,W,1996-06-04,United States,English
+doc_00728,Guled,Osman,M,B,1975-07-14,United States,Spanish
+doc_00729,Travis,Fry,M,W,1995-12-19,NA,Other
+doc_00730,Brandon,Fermino,M,B,1992-04-06,Canada,English
+doc_00731,Janelle,Bridges,F,B,1998-08-14,United States,English
+doc_00732,Emily,Horton,F,W,1992-10-25,Canada,English
+doc_00733,Grady,Cormier,F,W,1982-10-03,United States,Spanish
+doc_00734,Jerrell,Keeler,M,B,1996-12-22,United States,English
+doc_00735,Thomas,Alexander,M,B,2003-02-26,United States,English
+doc_00736,Isaac,Wilson,M,B,1984-03-25,United States,English
+doc_00737,Micah,Herning,M,W,2000-06-13,United States,English
+doc_00738,Jakob,Tompkins,M,W,1994-06-28,United States,English
+doc_00739,Nicholas,Lewis,M,H,1981-10-02,Canada,English
+doc_00740,Adonus,Ellington-Wright,M,B,1997-05-28,NA,English
+doc_00741,Shalom,Graves,F,B,2000-01-23,United States,English
+doc_00742,Matthew,Taylor,M,B,1994-11-25,Canada,English
+doc_00743,Sierra,Dugan,F,W,1994-03-26,United States,English
+doc_00744,Elijah,Rogers,M,B,1991-01-01,United States,English
+doc_00745,Isaiah,Lopez,M,H,1980-09-02,United States,English
+doc_00746,Thomas,Baker,M,W,1999-11-03,United States,English
+doc_00747,Tyre,Fair,M,B,2004-10-29,Mexico,Spanish
+doc_00748,Jeremy,Palma,M,W,2003-05-23,Mexico,French
+doc_00749,Niesha,Williams,F,B,1998-05-29,United States,English
+doc_00750,Elaina,Isenhart,F,W,2005-03-14,United States,English
+doc_00751,Ashley,Rainey,F,W,2001-12-09,United States,English
+doc_00752,Joshua,Wright,M,B,1988-11-08,United States,English
+doc_00753,Blake,Wilkins,M,W,1991-09-17,NA,English
+doc_00754,Ryan,Weber,M,W,1994-04-14,United States,Spanish
+doc_00755,Tony,Joynton,M,W,1987-04-10,United States,English
+doc_00756,Matthew,Ali,M,B,1989-07-17,United States,Spanish
+doc_00757,Joey,Brown,M,B,1985-07-11,United States,French
+doc_00758,Stephen,Burr,M,W,1997-04-21,United States,English
+doc_00759,Antonio,Corona,M,W,1992-03-06,NA,English
+doc_00760,Yaquelin,Martinez,F,H,1999-10-11,United States,Spanish
+doc_00761,Kimiko,Sapp,F,B,1998-10-22,United States,English
+doc_00762,Desean,Aumiller,M,B,1997-08-24,United States,English
+doc_00763,Creyton,Bonds,M,W,2000-02-26,United States,English
+doc_00764,Sha-Quille,Sisay,M,B,1996-04-04,United States,English
+doc_00765,Alexander,Davis,M,W,2004-07-10,United States,English
+doc_00766,Jacob,Schaub,M,W,2002-07-18,United States,English
+doc_00767,Cierra,Kilpatrick,F,W,1988-08-20,United States,Other
+doc_00768,Jose Luis,Shammari,M,H,2002-01-28,NA,English
+doc_00769,Kodiak,Gordon,M,W,1999-07-06,United States,English
+doc_00770,Cody,Moore,M,W,1992-03-12,United States,English
+doc_00771,Dylan,Delano,M,W,1985-02-26,Mexico,Spanish
+doc_00772,Imaniushandi,Evans,F,B,1984-10-31,United States,English
+doc_00773,Amber,Rhoades,F,W,1996-07-07,United States,Other
+doc_00774,Zachary,Phillips,M,W,1999-01-31,United States,English
+doc_00775,Justin,Jones,M,B,1996-05-08,United States,English
+doc_00776,Paige,Morrissette,F,W,2000-08-07,United States,English
+doc_00777,Ambre,Martinez,F,H,1992-10-25,United States,English
+doc_00778,Amari,Bailey,F,B,1996-01-19,Canada,French
+doc_00779,Kassidy,Mcinnis,F,W,1993-05-02,United States,English
+doc_00780,Darrion,Osborne,M,B,1991-08-05,United States,English
+doc_00781,Eddie,Young,M,B,1998-02-14,United States,English
+doc_00782,Collin,Legatski,M,W,2001-10-08,Mexico,Spanish
+doc_00783,Tyler,Byers,M,W,1994-04-03,United States,French
+doc_00784,Pal,Bankett,M,B,1988-03-12,Mexico,Spanish
+doc_00785,Christopher,Robinson,M,B,1994-09-18,NA,Other
+doc_00786,Samuel,Charlifu,M,W,1993-10-22,NA,French
+doc_00787,Eric,Payne,M,W,1995-11-06,United States,Other
+doc_00788,Brianna,Burnett,F,W,2001-04-29,NA,Other
+doc_00789,Jhonathan,Gonzales,M,H,2003-02-02,United States,English
+doc_00790,Dale,Gardella,M,AI,1993-08-13,United States,English
+doc_00791,Teagan,Courtnage,M,W,2001-04-18,Canada,English
+doc_00792,Trenton,Odoherty,M,W,1990-09-17,United States,English
+doc_00793,Jordan,Long,M,W,1988-06-17,United States,English
+doc_00794,Zachary,Cunningham,M,W,1987-10-14,United States,Spanish
+doc_00795,Asa,Volgamore,M,W,1993-12-31,United States,English
+doc_00796,Wilbert,Angulo,M,B,1996-02-12,NA,English
+doc_00797,Parker,Mccrary,M,W,2000-01-14,United States,English
+doc_00798,Emily,Fehl,F,W,1995-03-05,United States,English
+doc_00799,Jalene,Nguyen,F,A,1995-11-27,United States,Other
+doc_00800,Michael,Kyster,M,W,1997-05-07,Canada,English
+doc_00801,Logan,Bohannon,M,W,1996-03-11,United States,English
+doc_00802,Taylor,Boden,M,W,1990-07-04,United States,English
+doc_00803,Giuseppe,Wells,M,W,1992-05-17,Mexico,Spanish
+doc_00804,Michael,Williams,M,B,1991-06-24,Mexico,Other
+doc_00805,Aaron,Furnish,M,W,2002-07-16,United States,Spanish
+doc_00806,Anthony,Johnson,M,B,1990-09-15,Mexico,Spanish
+doc_00807,Donte,Ford,M,B,1998-03-24,United States,Spanish
+doc_00808,Verity,Johnson,F,B,1999-01-02,United States,English
+doc_00809,Julian,Redding,M,H,1998-09-04,Canada,English
+doc_00810,Sean,Mccann,M,W,1986-01-08,Canada,Spanish
+doc_00811,Morgan,Watkins,F,B,1998-04-23,United States,English
+doc_00812,Brandon,Davis Johnson,M,B,1999-10-14,United States,English
+doc_00813,Benjamin,Hixson,M,W,1997-03-27,NA,English
+doc_00814,Alyssa,Caran,F,W,1994-04-07,United States,English
+doc_00815,Yared,Jones,M,B,1984-02-22,United States,English
+doc_00816,Marcos,Mejia,M,H,1991-11-29,Mexico,Spanish
+doc_00817,Morgan,Berry,M,W,1996-10-11,Mexico,Spanish
+doc_00818,Craig,Martinez,M,W,1976-01-01,Mexico,Spanish
+doc_00819,Johnathon,Soto,M,H,1991-05-22,United States,English
+doc_00820,Tre'Saun,Payton,M,B,1994-10-27,United States,English
+doc_00821,Gerardo,Duran,M,H,1996-06-05,Mexico,Spanish
+doc_00822,Justin,Vareldzis,M,W,1993-03-20,United States,English
+doc_00823,Adam,Merrill,M,W,1990-05-30,United States,English
+doc_00824,Deanna,Bricker,F,W,1983-02-15,United States,English
+doc_00825,Rebekah,Kimeu,F,B,1995-06-30,Mexico,Spanish
+doc_00826,Vincent,Dunlap,M,W,1995-05-20,NA,English
+doc_00827,Alec,Lake,M,W,2000-01-26,United States,English
+doc_00828,Gabriel,Park,M,AI,2000-10-29,Mexico,Spanish
+doc_00829,Milo,Bell,M,B,1991-09-20,Mexico,Spanish
+doc_00830,Nickalos,Moore Jr,M,B,1986-09-03,United States,English
+doc_00831,Mathew,Stubblefield,M,B,1995-10-17,Canada,English
+doc_00832,Kayla,Lowdermilk,F,W,1976-11-19,Mexico,Spanish
+doc_00833,Jordan,Thompson,M,B,1990-12-11,United States,English
+doc_00834,Alexandria,Robb,F,W,2000-08-15,NA,Other
+doc_00835,John,David Rochez,M,H,1999-06-13,United States,English
+doc_00836,Monche'L,Abrams,F,B,1991-02-25,United States,English
+doc_00837,Rogelio,Vargas,M,H,1990-08-11,United States,Other
+doc_00838,Maria,Valdez,F,H,1997-02-10,NA,English
+doc_00839,Kyle,Henry,M,AI,1999-01-01,United States,English
+doc_00840,Ashlynnd,Cordova,M,B,1996-10-30,United States,English
+doc_00841,Zachary,Swendson,M,W,2000-06-14,United States,English
+doc_00842,David,Smith,M,H,1993-11-09,United States,English
+doc_00843,Sara,Johnston,F,W,2001-08-15,United States,English
+doc_00844,Katie,Turner,F,W,1999-01-30,United States,English
+doc_00845,Colton,Mulcahy,M,W,1987-08-04,United States,English
+doc_00846,Mason,Baldwin,M,W,2002-08-04,United States,English
+doc_00847,Arjaylaan,Porter,M,B,2001-10-26,United States,English
+doc_00848,Diego,Vazquez-Villasenor,M,H,1993-03-26,Mexico,Spanish
+doc_00849,Eric,Landrum,M,W,2004-07-15,Mexico,Other
+doc_00850,Alexis,Assenmacher,F,W,1992-07-03,Mexico,Spanish
+doc_00851,Dmitry,Bazzy,M,W,1999-03-23,United States,English
+doc_00852,Jesus,Huarez,M,H,1989-02-05,United States,English
+doc_00853,Brian,Martinez,M,H,1995-02-23,NA,English
+doc_00854,John,Farris,M,B,1997-10-17,Mexico,English
+doc_00855,Levi,Marr,M,W,1970-09-16,United States,English
+doc_00856,Jamie,Armstrong,F,W,1993-08-13,United States,English
+doc_00857,Cody,Burt,M,W,1987-10-28,United States,English
+doc_00858,Anthony,Porterfield,M,B,1991-11-23,United States,Spanish
+doc_00859,Dennis,Willms,M,W,1991-12-08,United States,English
+doc_00860,Terrell,Small,M,B,1993-08-23,NA,Other
+doc_00861,Zachary,Mion,M,B,1995-11-21,Mexico,Spanish
+doc_00862,Kyle,Turner,M,W,1997-11-30,United States,English
+doc_00863,Cameron,Mikolitch,M,W,1990-04-01,Mexico,Spanish
+doc_00864,Kyle,Minshall,M,W,1997-12-28,United States,French
+doc_00865,Michael,Loflin,M,W,1985-08-11,Canada,English
+doc_00866,Alexa,Ruel,F,W,1975-04-20,United States,English
+doc_00867,Ryan,Mcclanahan,M,W,1992-07-06,United States,English
+doc_00868,Isaiah,Cooke,M,B,2003-04-28,Canada,French
+doc_00869,Cesar,Solano,M,H,1998-04-28,United States,Other
+doc_00870,Christopher,Smith,M,W,1989-03-04,United States,English
+doc_00871,Broccan,Hardaway,M,B,2001-03-17,United States,Spanish
+doc_00872,Marquinn,Butler,M,B,1995-07-27,United States,English
+doc_00873,Peter,Posten,M,W,1999-04-26,United States,English
+doc_00874,Christopher,Hicks,M,B,1986-08-06,NA,English
+doc_00875,Kelsey,Donovan,F,W,1994-08-11,United States,English
+doc_00876,David,Lechuga,M,H,1995-08-26,United States,English
+doc_00877,Reilly,Burch,M,W,1963-07-27,United States,English
+doc_00878,Ja,Moore,M,B,1990-04-24,United States,English
+doc_00879,Cameron,Schnittgrund,M,W,1998-04-07,United States,English
+doc_00880,Korena,Ledezma,F,H,1993-08-31,Canada,English
+doc_00881,Blake,Solowiej,M,B,1982-05-18,United States,English
+doc_00882,Elroy,Doria,M,AI,1990-10-21,United States,English
+doc_00883,Aspen,Bachman,F,W,1993-12-27,Canada,English
+doc_00884,Dallas,Hardin,M,B,1982-08-12,United States,English
+doc_00885,Parker,Chancellor,M,W,1994-09-13,United States,Spanish
+doc_00886,Tequael,Winston,M,B,1985-05-03,United States,English
+doc_00887,Ryan,Gorny,M,W,1986-02-19,United States,English
+doc_00888,Brian,Hurne,M,W,1999-07-04,Mexico,Spanish
+doc_00889,Louis,Antoine,M,B,2002-09-05,United States,English
+doc_00890,Katheryne,Phillips,F,B,1988-01-10,United States,Other
+doc_00891,Kquame,Albanez,M,B,1997-11-02,Mexico,Spanish
+doc_00892,Ricardo,Sharkey,M,AI,1996-07-15,NA,Other
+doc_00893,Alex,Stewart III,M,B,1990-10-19,Mexico,Spanish
+doc_00894,Sabastian,Luckey,M,W,1987-11-15,Mexico,Spanish
+doc_00895,Jerel,Parris,M,B,1992-01-05,NA,Other
+doc_00896,Fletcher,Cross,M,W,1983-10-05,United States,English
+doc_00897,Michael,Wallace,M,AI,1992-04-22,United States,French
+doc_00898,Jonatan,Villarreal,M,H,1993-02-05,United States,English
+doc_00899,Evan,Lillis,M,W,1974-02-17,United States,English
+doc_00900,Tyler,Brooks,M,W,1994-02-17,United States,Other
+doc_00901,Yohance,Hobbs,M,B,1995-07-21,Mexico,Spanish
+doc_00902,Jordan,Samoy,F,AI,2001-10-03,United States,English
+doc_00903,Henri,Brackeen,M,W,1999-01-07,United States,English
+doc_00904,Bryce,Johnson,M,W,1990-06-10,Mexico,Spanish
+doc_00905,Michael,Broadus,M,B,1998-09-25,United States,English
+doc_00906,Thomas,Mberwa,M,B,1998-06-23,United States,English
+doc_00907,Amanda,Herrera Navarrete,F,H,1998-01-31,United States,English
+doc_00908,Latondra,Flynn,F,B,1997-01-26,United States,English
+doc_00909,Ashlee,Gillespie,F,B,2000-06-04,United States,English
+doc_00910,Zachary,Mendoza,M,H,2003-06-24,United States,English
+doc_00911,Sophia,Olson,F,W,1989-06-27,United States,English
+doc_00912,Robert,Noble,M,W,1975-12-06,United States,English
+doc_00913,Timothy,Welch Johnson,M,W,2002-12-19,United States,English
+doc_00914,Cayleb,Geisler,M,W,1980-10-14,Mexico,Spanish
+doc_00915,Keith,Horton,M,W,1999-07-05,United States,Other
+doc_00916,Joshua,Burrus,M,W,1999-03-01,United States,English
+doc_00917,Amanda,Paradeis,F,H,1996-10-25,United States,English
+doc_00918,Anthony,Faxon,M,W,1997-01-03,Mexico,Spanish
+doc_00919,Douglas,Mclain,M,W,1998-07-30,United States,English
+doc_00920,Carlos,Velasco,M,H,1998-06-04,Mexico,Spanish
+doc_00921,Samuel,Ford,M,W,1994-10-28,Canada,French
+doc_00922,Sidney,Kyser,M,B,1973-06-08,NA,Spanish
+doc_00923,Megan,Donovan,F,W,1989-11-25,Canada,English
+doc_00924,Victoria,Hurtado-Cerasoli,F,H,1996-01-16,United States,Spanish
+doc_00925,Brandon,Garcia,M,AI,1996-08-22,United States,English
+doc_00926,Anthony,Henrie,M,W,1989-09-21,United States,English
+doc_00927,Rueben,Morgan,M,B,1996-06-25,NA,Other
+doc_00928,Christopher,Garcia,M,H,2003-09-06,United States,English
+doc_00929,Jordan,Brown,M,B,2002-01-29,NA,Spanish
+doc_00930,David,Fisher Mendoza,M,H,1987-07-29,United States,English
+doc_00931,Willard,Garcia,M,H,2000-10-10,Mexico,Spanish
+doc_00932,Brett,Beck,M,W,2001-08-16,NA,Other
+doc_00933,Vincent Ray,Statley,M,B,1996-12-13,United States,English
+doc_00934,Jordan,Brison,M,B,2000-09-04,United States,English
+doc_00935,Jaclyn,Wolfe,F,W,2001-03-21,United States,English
+doc_00936,Trevor,Paul,M,W,2001-04-10,United States,English
+doc_00937,De'Ron,Howard,M,B,1997-03-16,Canada,English
+doc_00938,Rolando,Marquez,M,H,2003-12-25,United States,English
+doc_00939,Bradley,Vassel,M,B,1988-05-27,United States,English
+doc_00940,Devon,Garnett,F,AI,1990-04-28,United States,English
+doc_00941,Eric,Draper,M,W,2001-05-03,United States,English
+doc_00942,Anthony,Sigg,M,W,1993-12-07,United States,English
+doc_00943,Levi,Turner,M,W,1993-02-07,Mexico,Spanish
+doc_00944,Mar Qwaize,Taylor,M,B,1989-03-26,United States,English
+doc_00945,Jose,Molina,M,H,1992-03-07,Mexico,Other
+doc_00946,Alyijia,Elazier,M,B,1992-08-01,United States,English
+doc_00947,Joseph,Stephen,M,W,1997-02-20,United States,English
+doc_00948,Jeffrey,Myers,M,B,1993-03-29,United States,English
+doc_00949,Lindsey,Ernest,F,W,1987-09-04,United States,English
+doc_00950,James,Smith,M,W,1990-07-27,Mexico,Spanish
+doc_00951,Asia,Fesgen,F,W,2000-06-26,NA,Other
+doc_00952,Russell,Hilton,M,W,1996-03-22,United States,Spanish
+doc_00953,Crispin,Gandy,M,B,2000-11-13,United States,English
+doc_00954,Reggie,Epps,M,W,1996-12-25,Mexico,Spanish
+doc_00955,Gerald,Ottley,M,W,2004-02-26,United States,English
+doc_00956,Sashay,Britton,F,B,1990-08-30,United States,English
+doc_00957,Amber,Hammer,F,W,1993-06-19,United States,English
+doc_00958,Elijah,Solowiej,M,B,1988-11-17,United States,English
+doc_00959,Austin,Garrard,M,W,1998-06-14,United States,English
+doc_00960,Scott,Kang,M,A,2000-12-05,NA,Other
+doc_00961,Scott,Van Dinter,M,W,1999-05-06,Mexico,Spanish
+doc_00962,Jacob,Marrs,M,W,1997-04-24,United States,English
+doc_00963,Hannah,Krouse,F,W,1990-06-08,United States,French
+doc_00964,Li,Medina,M,A,1987-12-05,United States,English
+doc_00965,Cole,Gardner,M,W,1994-04-26,United States,English
+doc_00966,Esequiel,Tovar,M,H,1995-04-08,United States,English
+doc_00967,Keason,Roloson,M,B,1989-12-27,United States,English
+doc_00968,Abigail,Burbank,F,B,1997-03-17,United States,English
+doc_00969,Benjamin,Yost,M,AI,1993-11-24,United States,French
+doc_00970,Kendra,Morales,F,H,1985-03-11,Mexico,Spanish
+doc_00971,Brandon,Thompson,M,W,1996-09-28,United States,English
+doc_00972,Ciara,Chavez,F,H,1997-02-13,NA,Other
+doc_00973,Gaghe,Blue,M,B,1995-03-04,United States,Spanish
+doc_00974,Tanner,Hugins,M,W,1995-06-06,Mexico,English
+doc_00975,Adam,Sanchez,M,H,1996-03-09,United States,English
+doc_00976,Simeon,Brown,M,B,1993-01-07,United States,English
+doc_00977,Benjamin,Charter,M,W,1996-01-02,United States,English
+doc_00978,Alexis,Rockhold,F,W,1980-01-27,Mexico,Other
+doc_00979,Ashley,Knowles,F,W,1990-06-16,United States,English
+doc_00980,Sean,Burky,M,W,1996-12-05,United States,English
+doc_00981,Dakota,Hammond,M,W,1994-04-04,United States,English
+doc_00982,Garrett,Pannell,M,W,1991-03-27,Mexico,Spanish
+doc_00983,Antonio,Delvillar,M,H,1993-10-25,United States,French
+doc_00984,Joshua,Velisek,M,W,1991-02-27,United States,English
+doc_00985,Shantel,Charbonneau,F,W,1986-06-30,United States,English
+doc_00986,Brantt,Bortz,M,W,1995-10-22,United States,English
+doc_00987,Shaney,Clarke,F,B,1998-08-22,Mexico,Spanish
+doc_00988,Mason,Woods,M,W,1994-02-20,Mexico,Spanish
+doc_00989,Caroline,Dallas,F,W,2005-01-16,United States,English
+doc_00990,Raferty,Saltzsieder,M,W,1981-03-27,United States,French
+doc_00991,Cameron,Isakson,M,W,1987-03-31,United States,English
+doc_00992,Paxton,Krammes,F,W,1985-05-07,United States,English
+doc_00993,Ashley,King,F,B,1992-04-10,United States,English
+doc_00994,Chandler,Bellman,M,W,1993-05-17,United States,English
+doc_00995,Jacob,Day,M,W,1989-12-17,United States,English
+doc_00996,Devin,Cadenhead,M,W,2000-12-15,United States,English
+doc_00997,Deja,Compton,F,B,2004-04-09,United States,English
+doc_00998,Travis,Muchow,M,W,2000-06-17,United States,Other
+doc_00999,Jorden,Hale,M,W,2000-05-15,NA,Other
+doc_01000,Gilberto,Nunez,M,H,1991-05-12,Mexico,Spanish
+doc_01001,Marcus,Triplett,M,B,2002-10-19,United States,English
+doc_01002,Kaela,Buchanan,F,B,2002-08-06,United States,English
+doc_01003,Anthony,Riggins,M,B,1998-12-23,United States,English
+doc_01004,Nicholas,Jarrell,M,W,1995-07-12,United States,English
+doc_01005,Bryce,Swift,M,W,1990-08-11,United States,English
+doc_01006,Sharday,Phillips,F,B,1991-02-03,Mexico,Spanish
+doc_01007,Miles,Mayfield,M,B,2000-03-26,Mexico,Other
+doc_01008,Akiyoshi,Lamczyk,M,A,2001-02-23,Mexico,Spanish
+doc_01009,Brendan,James,M,W,1999-12-20,NA,Other
+doc_01010,Anthony,Jackson,M,B,1998-11-24,United States,English
+doc_01011,Nikolas,Tempel,M,W,1980-11-08,Canada,English
+doc_01012,Tarik,Lewis,M,B,1999-06-19,United States,English
+doc_01013,Henry,Beairsto,M,W,2000-02-04,Mexico,Spanish
+doc_01014,Stefanie,Weinman,F,W,1997-02-09,United States,English
+doc_01015,Jacob,Kinderknecht,M,W,1995-01-16,United States,Spanish
+doc_01016,Daniel,Carlson,M,W,1992-05-04,Mexico,Spanish
+doc_01017,Dylan,Wambolt,M,W,1995-04-10,NA,English
+doc_01018,Jagger,Ellison,M,W,1997-07-05,Mexico,English
+doc_01019,Ronny,Geisterfer,M,W,1984-02-14,United States,Other
+doc_01020,Branden,Moher-Crook,M,W,1998-12-06,United States,English
+doc_01021,Chelsey,Mims,F,B,1988-12-08,United States,English
+doc_01022,Thomas,Lowe,M,W,2002-11-08,United States,English
+doc_01023,David,Rogers,M,W,1994-12-17,United States,English
+doc_01024,Jordan,Martinez,M,W,1988-11-11,Mexico,Other
+doc_01025,Ryan,Ambrosio,M,W,1994-12-15,United States,English
+doc_01026,Miguel,Solis,M,H,2004-12-25,Mexico,Spanish
+doc_01027,Brandon,Boneta,M,W,1992-08-13,Mexico,Spanish
+doc_01028,Momodou Lamin,Shumake,M,B,1996-06-28,United States,English
+doc_01029,Morgan,Furst,F,W,2000-08-09,United States,English
+doc_01030,Austin,Greiner,M,W,1989-03-30,Mexico,Spanish
+doc_01031,Aaron,Quaney,M,W,1993-10-01,Mexico,Spanish
+doc_01032,Travis,Hanks,M,W,1997-05-27,Mexico,English
+doc_01033,Corey,Bywater,M,W,2003-05-04,Mexico,Spanish
+doc_01034,Julian,Cerrillo,M,H,2005-03-13,Mexico,Spanish
+doc_01035,Sarah,Hager,F,W,1994-09-14,United States,English
+doc_01036,Austin,Phillips,M,W,2000-07-28,United States,English
+doc_01037,Tobias,Vanwijk,M,W,1983-05-27,Mexico,Spanish
+doc_01038,Bryan,Taylor,M,W,1997-08-06,United States,English
+doc_01039,Jordan,Green Jr,M,B,2000-02-19,United States,Spanish
+doc_01040,Destinee,Tanks,F,B,2000-06-19,Mexico,Spanish
+doc_01041,Cody,Saddoris,M,W,1999-09-15,United States,English
+doc_01042,Antonio,Tapia,M,W,1983-05-19,United States,English
+doc_01043,Tyrone,Talbert,M,B,1995-08-25,United States,English
+doc_01044,Oswaldo,Castro-Morales,M,H,1999-03-10,United States,English
+doc_01045,Austin,Rupp,M,W,1976-04-23,United States,English
+doc_01046,Raiden,Oldham,M,W,1994-05-24,United States,English
+doc_01047,Jordan,Lemelin,M,W,1992-12-04,United States,French
+doc_01048,Alexandria,Willcutt,F,AI,1982-12-24,Mexico,Spanish
+doc_01049,Jacob,Price,M,W,2001-09-25,United States,English
+doc_01050,Jonathan,Craft,M,W,1991-06-22,United States,English
+doc_01051,Hassanain,Nguyen,M,A,1990-03-23,Mexico,Spanish
+doc_01052,Charissa,Scaife,F,B,1990-04-02,United States,Spanish
+doc_01053,Justice,Smith,M,B,2004-08-19,United States,English
+doc_01054,Ian,Roberts,M,W,1986-04-12,Mexico,Spanish
+doc_01055,Marcus,Jimmerson,M,B,1997-07-09,United States,English
+doc_01056,Madison,Begaye,F,AI,1995-07-21,Mexico,Spanish
+doc_01057,Justice,Larry,M,B,1997-03-18,United States,English
+doc_01058,Matthew,Schieldt,M,W,1994-09-02,United States,English
+doc_01059,Hayden,Waller,M,W,1992-10-04,United States,English
+doc_01060,Kelsey,Leaming,F,W,1984-07-26,Mexico,Spanish
+doc_01061,Deven,Bartholomew,M,B,1995-12-15,NA,Other
+doc_01062,Devin,Burns,M,W,1996-09-30,United States,English
+doc_01063,Zachary,Tillitson,M,W,2004-12-07,United States,Spanish
+doc_01064,Jordan,Norris,M,W,1979-07-29,Mexico,Spanish
+doc_01065,Brianna,Dunlap,F,B,1999-10-24,United States,English
+doc_01066,Chauncy,Wright,M,B,1997-01-04,United States,English
+doc_01067,Stephon,Witt,M,B,1999-11-01,United States,English
+doc_01068,Harry,Jackson,M,B,1999-07-21,United States,English
+doc_01069,Travis,Jelle,M,W,1984-07-24,United States,English
+doc_01070,Austin,Fayne,M,B,1975-03-27,United States,English
+doc_01071,Jacqueline,Paige,F,W,1994-05-02,United States,English
+doc_01072,Terran,Johnson,M,W,1993-08-19,United States,English
+doc_01073,Philippe,Atkinson,M,W,1991-10-28,United States,English
+doc_01074,Yelyzaveta,Castellano,F,W,1987-01-16,United States,Other
+doc_01075,Alfred,Lopez,M,AI,1998-04-28,Mexico,Spanish
+doc_01076,Courtlandt,Lynch,M,AI,1996-05-05,United States,English
+doc_01077,Jacob,Bernabei,M,W,1996-02-22,United States,English
+doc_01078,Colby,Thomas,M,W,2003-06-16,United States,English
+doc_01079,Timothy,Mosby-Beckworth,M,B,1987-03-08,United States,English
+doc_01080,Andres,Clayton,M,B,2000-05-13,United States,English
+doc_01081,Emily,Hawthorn,F,W,2000-06-17,United States,English
+doc_01082,Jereek,Anderson,M,B,1998-09-21,Mexico,Spanish
+doc_01083,Atiya,Abrams,F,B,1990-03-26,NA,Other
+doc_01084,Mackenzie,Davis,F,W,2002-12-08,Mexico,English
+doc_01085,Evan,Moore,M,B,2001-08-16,Mexico,Spanish
+doc_01086,Darien,Broadway,M,B,2001-03-10,United States,English
+doc_01087,Kaleb,Garske,M,W,1989-05-22,United States,English
+doc_01088,Robert,Appenzeller,M,W,1996-08-21,United States,English
+doc_01089,Amanda,Walkinshaw,F,W,1998-03-31,Mexico,Spanish
+doc_01090,Bryce,Greene,M,W,1990-10-31,Mexico,Spanish
+doc_01091,Nicholas,Virden,M,W,2002-03-22,United States,Other
+doc_01092,Donte,Williams,M,B,1994-11-19,Mexico,Spanish
+doc_01093,Desmond,Rhodes Franklin,M,B,1995-06-16,United States,English
+doc_01094,Michael,Kowalefski,M,W,1997-04-24,United States,English
+doc_01095,Rabecca,Cowan,F,W,1998-04-04,United States,Spanish
+doc_01096,Collin,Silas,M,AI,1991-05-23,United States,English
+doc_01097,Michael,Gonzalez-Meza,M,H,1999-07-13,United States,English
+doc_01098,Audra,Martin,F,W,1996-07-30,United States,English
+doc_01099,Stephanie,Rocha,F,H,1993-08-10,United States,English
+doc_01100,Trevor,Lobjhanidze,M,W,1989-07-16,United States,French
+doc_01101,Amber,Rangel,F,H,1991-05-07,United States,English
+doc_01102,Liam,Pratt,M,W,1997-10-21,United States,English
+doc_01103,Mavis,Lefebvre,F,W,1995-11-30,United States,English
+doc_01104,Keith,Essmeier,M,W,1993-09-21,Canada,French
+doc_01105,Michael,Depew,M,B,1975-01-14,United States,English
+doc_01106,Eryn,Price,F,W,1982-05-19,United States,English
+doc_01107,Giorgio,Jones,M,B,2000-03-26,Canada,English
+doc_01108,Nathanial,Wigert,M,W,1996-11-29,United States,English
+doc_01109,Brice,Weiss,M,W,2003-12-27,Mexico,Spanish
+doc_01110,Wesley,Berumen Portillo,M,H,1993-04-11,United States,French
+doc_01111,Ian,Hayward,M,B,1987-07-26,United States,English
+doc_01112,Jacquelynn,Manosh,F,W,1990-09-29,United States,English
+doc_01113,Alexandria,Rushdoony,F,AI,1990-07-15,United States,English
+doc_01114,Alexander,Lightfoot,M,W,1989-12-11,United States,Spanish
+doc_01115,Burphy,Anderson,M,B,2002-08-25,Mexico,Other
+doc_01116,Martell,Brown,M,B,1999-04-20,United States,English
+doc_01117,Elizabethnyachuol,Minor,F,B,1995-06-30,United States,English
+doc_01118,Raelee,Couchaftis,F,W,1980-06-01,United States,English
+doc_01119,R'Mond,Mengist,M,B,1997-03-30,United States,English
+doc_01120,Forrest,Wallace,M,W,1994-06-08,Mexico,Spanish
+doc_01121,Devone,German,M,B,1993-08-26,United States,English
+doc_01122,Ricardo,Archuleta,M,H,1999-08-31,United States,English
+doc_01123,Mondell,Kendee,M,B,1989-09-04,United States,English
+doc_01124,Morgan,Burns,F,W,1990-11-30,United States,English
+doc_01125,Kyree,Person,M,B,2002-08-08,Canada,Other
+doc_01126,Lavonrick,Vinegar,M,B,2002-12-29,United States,Other
+doc_01127,Jeramy,Sanchez,M,H,1995-05-15,United States,English
+doc_01128,Justin,Willis,M,W,1989-04-14,United States,English
+doc_01129,Treyvon,Haley,M,B,1985-04-19,Mexico,Spanish
+doc_01130,Ollice,Brown,M,B,1997-08-25,United States,Other
+doc_01131,Torri,Wenzel,F,W,1990-05-19,United States,English
+doc_01132,Juan,Rubio,M,H,1999-09-24,Mexico,Spanish
+doc_01133,Randy,Borrego,M,H,2001-08-20,United States,Other
+doc_01134,Bryce,Watson,M,B,2003-10-04,Mexico,Spanish
+doc_01135,Kyle,Deines,M,W,1995-12-16,United States,Spanish
+doc_01136,Corey,Dougal,M,W,1992-08-26,Canada,French
+doc_01137,William,Jones,M,B,2002-07-01,United States,English
+doc_01138,Jacob,Hansen,M,W,1992-01-14,NA,Spanish
+doc_01139,Mikhail,Welter,M,W,1988-06-09,United States,English
+doc_01140,Nicholas,Jennings,M,B,1988-02-15,United States,English
+doc_01141,Yanel,Cabral Chavez,M,H,1995-06-18,United States,English
+doc_01142,Gabrielle,Stull,F,W,2002-12-31,Mexico,Spanish
+doc_01143,Tyler,Li,M,A,2000-11-15,United States,English
+doc_01144,Khevin,Cisneros,M,H,1998-04-17,United States,English
+doc_01145,Anthony,Mercer,M,B,1993-08-03,NA,English
+doc_01146,Rebecca,Dressor,F,W,1986-12-01,Mexico,Spanish
+doc_01147,Enrique,Ramirez,M,H,2000-09-13,United States,English
+doc_01148,Anna Maria,Colding,F,W,2001-08-22,United States,Spanish
+doc_01149,Shelby,Rath,F,W,1996-03-09,United States,English
+doc_01150,Branden,Diggs,M,B,1996-01-11,United States,English
+doc_01151,Jay,D'Orazio,M,W,1985-05-09,United States,English
+doc_01152,Dominik,Botello Allan,M,H,1999-04-06,United States,English
+doc_01153,Maxim,Brown,M,W,2002-06-04,United States,French
+doc_01154,Shy,Hauer,F,W,2001-08-25,United States,Spanish
+doc_01155,Travis,Landwehr,M,A,1988-02-11,United States,English
+doc_01156,Sean,Hutchinson,M,B,1990-09-24,United States,English
+doc_01157,Gustavo,Deleon,M,H,1999-02-28,United States,English
+doc_01158,Te'Kel,Eshete,M,B,1990-09-04,Canada,English
+doc_01159,Alayina,Whiteskunk,F,AI,1993-04-18,United States,Spanish
+doc_01160,Matthew,Shinault,M,B,1997-09-30,United States,English
+doc_01161,Justin,Swenson,M,W,1981-12-31,United States,English
+doc_01162,Ashleigh,Owens,F,W,1998-08-13,NA,French
+doc_01163,Tre'Sean,Bundy,M,B,1997-01-25,United States,English
+doc_01164,Connor,Backer,M,W,2000-04-05,Mexico,Spanish
+doc_01165,Ian,Staheli,M,W,2001-10-23,Mexico,Spanish
+doc_01166,Kyle,Minard,M,W,1994-01-24,United States,Spanish
+doc_01167,Victor,Bowman,M,H,1996-10-21,Mexico,Spanish
+doc_01168,Jake,Barram,M,W,2001-03-22,NA,English
+doc_01169,Neil,Suri,M,W,2000-03-09,United States,English
+doc_01170,Benjamin,Harris,M,W,1988-02-22,Canada,English
+doc_01171,Jacob,Johnson,M,W,1997-11-22,United States,Other
+doc_01172,Jalyn,Jamison,M,B,1991-07-27,United States,English
+doc_01173,Austin,Reilly-Vessey,M,W,2003-07-09,United States,English
+doc_01174,Mikayla,Atkins,F,B,1996-12-15,United States,English
+doc_01175,Joseph,Jones,M,B,2002-11-27,United States,Spanish
+doc_01176,Kyle,Crouse,M,W,2000-07-26,United States,English
+doc_01177,Ian,Shortall,M,W,1991-09-01,United States,English
+doc_01178,Dershon,Horne,M,B,2001-11-19,United States,English
+doc_01179,Shelby,Mero,F,W,2004-08-19,United States,English
+doc_01180,Zachary,Balagat,M,W,1987-03-23,United States,English
+doc_01181,Cole,Hahn,M,W,1986-01-01,Mexico,Spanish
+doc_01182,Brittney,Porter,F,W,2000-01-02,United States,Spanish
+doc_01183,Samuel,Hellen,M,W,2005-03-11,United States,English
+doc_01184,John,Kaempfer,M,W,2002-07-08,Mexico,Spanish
+doc_01185,Annie,West,F,B,1990-11-23,NA,Spanish
+doc_01186,Dylan,Chase,M,W,1999-05-16,United States,English
+doc_01187,Johnny,Pineda,M,H,1980-11-04,United States,English
+doc_01188,Dylan,Kowalke,M,W,1995-07-01,United States,Spanish
+doc_01189,Bunty,Bhatt,M,A,1985-09-18,United States,English
+doc_01190,Jeffrey,Dowling,M,W,1993-09-25,United States,English
+doc_01191,Donte,Salaz,M,B,1993-09-12,Canada,English
+doc_01192,Joshua,Schoelkopf,M,W,1998-12-07,United States,English
+doc_01193,Kirsten,Brinkmeyer,F,W,1992-09-10,Canada,English
+doc_01194,Sharya,Davis,F,B,1993-12-12,Mexico,Spanish
+doc_01195,Sydney,Mcknight,F,B,1992-12-23,United States,English
+doc_01196,Carter,Wild,M,W,2002-05-11,Canada,English
+doc_01197,Gabriel,Meints,M,W,1998-10-17,United States,English
+doc_01198,Matthew,Valdez,M,H,1998-01-29,United States,English
+doc_01199,Giovanti,Holloway,M,B,1999-03-16,United States,Spanish
+doc_01200,Kristy,Vaughn,F,B,1998-03-25,United States,English
+doc_01201,Ellian,Moran,F,W,1987-05-02,United States,English
+doc_01202,Teriuse,Kim,M,A,1994-08-27,United States,English
+doc_01203,Noha,Quast,F,W,1994-09-13,Mexico,Spanish
+doc_01204,Joshua,Zimmerman,M,W,1995-03-17,United States,English
+doc_01205,Madeline,Mancano,F,W,1999-08-15,United States,English
+doc_01206,Tre,Townsend,M,B,1991-04-02,United States,English
+doc_01207,Hannah,Lewis,F,W,1994-07-15,United States,English
+doc_01208,Timothy,Smith,M,B,1987-07-07,United States,English
+doc_01209,Philip,Davis,M,B,1983-05-06,Canada,French
+doc_01210,Michael,Lind,M,W,1979-03-24,United States,English
+doc_01211,Dante,Enkuselasse,M,B,1986-04-28,Mexico,Spanish
+doc_01212,Riley,Estala,M,H,1994-06-17,United States,English
+doc_01213,Tanner,Palmer,M,W,2004-04-18,United States,English
+doc_01214,Vanessa Rhea,Castillo,F,H,1993-11-19,United States,English
+doc_01215,Brett,Barton,M,W,1995-04-10,United States,English
+doc_01216,Nathanael,Johnson,M,W,2002-03-25,United States,English
+doc_01217,Timothy,Sundaram,M,W,1992-09-13,NA,Spanish
+doc_01218,Brian,Rae,M,W,1997-11-22,Mexico,Spanish
+doc_01219,Carey,Bauder,M,W,1999-03-17,United States,English
+doc_01220,Kyle,Reasoner,M,W,1998-07-20,United States,English
+doc_01221,Anthony,Washington,M,B,1993-07-21,Mexico,Spanish
+doc_01222,Caitlin,Terrazas,F,H,1999-04-02,Mexico,Spanish
+doc_01223,William,Milasincic,M,AI,1995-06-24,United States,English
+doc_01224,Terrell,Wilcox,M,B,1999-08-25,United States,Other
+doc_01225,Justin,Turnbaugh,M,W,1979-03-19,United States,English
+doc_01226,Kyle,Fillmore,M,W,1991-11-07,Mexico,Spanish
+doc_01227,Khoa,Mo,M,A,1994-06-10,United States,English
+doc_01228,Christopher,Mcdonald,M,W,1998-11-24,United States,Spanish
+doc_01229,Shane,Slate,M,W,1989-11-30,Canada,English
+doc_01230,Abrionna,Charles,F,B,1990-04-15,NA,English
+doc_01231,Demario,Varney,M,B,2002-11-17,United States,English
+doc_01232,Ameri,Hickman,M,B,1994-06-30,United States,English
+doc_01233,Dekeveion,Samuel,F,B,1993-05-18,Canada,French
+doc_01234,Annalee,Rayl,F,W,2002-09-04,United States,Spanish
+doc_01235,Jay,Drury-Parlett,M,AI,2002-08-06,Mexico,Spanish
+doc_01236,Matthew,Wong,M,A,1996-12-26,United States,English
+doc_01237,Darian,Teague,M,B,1993-07-03,United States,English
+doc_01238,Alejandro,Laboy,M,H,1995-08-23,United States,English
+doc_01239,Sydni,Calvin,F,B,1990-02-13,United States,English
+doc_01240,Mario,Meraz,M,H,2004-04-02,United States,English
+doc_01241,Sheldon,Williams,M,B,1991-09-30,United States,English
+doc_01242,Claire,Laframboise,F,W,1998-10-17,United States,English
+doc_01243,Edward,Penn,M,B,2000-07-28,United States,English
+doc_01244,John,Bluejacket,M,AI,1998-02-05,United States,English
+doc_01245,Madison,Nielson,M,W,2003-04-22,Mexico,English
+doc_01246,Robert,Kiser,M,W,1993-10-29,United States,English
+doc_01247,Jason,Wilson,M,B,1997-06-05,United States,English
+doc_01248,Tristan,Nettles,M,W,1998-11-28,United States,Other
+doc_01249,Trevelle,Clark,M,B,1993-04-20,Mexico,Spanish
+doc_01250,Dajour,Jones,M,B,1986-06-22,United States,English
+doc_01251,Kathleen,Johnson,F,W,1999-08-11,United States,English
+doc_01252,Amber,Phillips,F,W,1996-09-20,United States,English
+doc_01253,Joelontay,Field,M,B,1993-10-21,United States,English
+doc_01254,Ishmael,Stamps,M,B,1992-10-31,United States,Spanish
+doc_01255,Richard,Cohn,M,W,1996-09-23,United States,English
+doc_01256,Joshua,Jappe,M,W,1998-08-20,United States,English
+doc_01257,Makayla,Newsom,F,B,1993-12-04,Mexico,Spanish
+doc_01258,Michael,Olaka,M,B,1992-09-08,United States,English
+doc_01259,Samone,Fofana,F,B,1991-11-10,Mexico,Spanish
+doc_01260,Lluvia,Zapata Morales,F,H,1992-04-28,United States,English
+doc_01261,Jazmine,Dorado,F,H,2001-07-28,United States,English
+doc_01262,Dakota,Yuknas,M,W,1994-09-21,United States,English
+doc_01263,William,Smyczynski,M,W,1998-03-07,NA,English
+doc_01264,David,Kolozsy,M,B,1998-10-09,United States,English
+doc_01265,Cory,Coon,M,W,1997-03-18,United States,English
+doc_01266,Anna,Doyle,F,W,2000-01-11,Mexico,Spanish
+doc_01267,Brandon,Brinson,M,B,2001-01-22,United States,English
+doc_01268,Josiah,Bishop,M,B,1981-06-02,United States,English
+doc_01269,Sarpong,Crockett,M,B,2001-05-13,United States,English
+doc_01270,Micah,Cobbs,M,B,1998-01-12,United States,English
+doc_01271,Kevin,Main,M,W,1999-10-11,United States,French
+doc_01272,Marissa,Miles,F,W,1998-04-06,Canada,English
+doc_01273,Tyler,Carrano,M,W,1998-12-05,United States,English
+doc_01274,Tiana,Grimes,F,B,1974-08-27,Mexico,Spanish
+doc_01275,Joseph,Cotonuts,M,AI,1996-12-01,United States,English
+doc_01276,Jacob,Briseno,M,AI,1983-01-28,Mexico,Spanish
+doc_01277,Joseph,Dominguez-Ontiveros,M,H,1997-09-08,Mexico,Spanish
+doc_01278,Joshua,Salas,M,H,1998-07-15,United States,English
+doc_01279,Cody,Young,M,B,1989-04-28,Mexico,Spanish
+doc_01280,Jeremiah,Davis,M,B,1993-08-20,United States,English
+doc_01281,Shannon,Jackson,M,B,1988-07-25,United States,Spanish
+doc_01282,Timothy,Alvarez,M,H,1978-08-01,United States,English
+doc_01283,Mitchell,Zubia,M,W,1997-06-28,Mexico,Spanish
+doc_01284,Sakic,Greis,M,W,1978-10-27,Mexico,Spanish
+doc_01285,Kristy,Montgomery,F,W,1999-05-18,United States,English
+doc_01286,Francisco,Montes,M,H,1989-04-24,United States,English
+doc_01287,Nicholas,Willoughby,M,W,1995-01-02,United States,English
+doc_01288,Jonathan,Evans,M,W,1995-03-24,United States,English
+doc_01289,Hudson,Berens,M,W,1993-12-13,United States,English
+doc_01290,Ian,Sutter,M,W,1999-02-28,United States,English
+doc_01291,Grace,Morgan,F,W,2000-04-16,United States,English
+doc_01292,Christopher,Sayers,M,B,1999-04-27,United States,English
+doc_01293,Nicholas,Rieder,M,W,1996-06-27,United States,English
+doc_01294,Marquise,Pope-Mitchell,M,B,2003-05-31,United States,English
+doc_01295,Mikaela,Doublin,F,B,2001-02-26,United States,English
+doc_01296,Samuel,Miller,M,W,1986-11-03,United States,French
+doc_01297,Cassandra,Buzzell,F,W,2005-03-09,United States,English
+doc_01298,Josue,Martinez,M,H,1997-03-07,United States,English
+doc_01299,Jesse,Holiday,M,AI,2000-08-25,Mexico,Spanish
+doc_01300,Shanye,Lanier,F,B,1990-05-14,Mexico,Other
+doc_01301,Kassie,Grimes,F,W,1998-07-02,United States,English
+doc_01302,Austin,Koch,M,W,1996-05-14,United States,English
+doc_01303,Lashaad,Smith,M,B,2002-12-28,United States,English
+doc_01304,Joseph,Michaels,M,W,2005-10-25,United States,English
+doc_01305,Jordan,Hamlin,M,B,2002-03-29,United States,English
+doc_01306,Robert,Jenkins,M,AI,1998-01-26,United States,English
+doc_01307,Megan,Franks,F,W,1994-09-29,United States,English
+doc_01308,Tyreece,Griffin,M,B,1997-09-18,Canada,French
+doc_01309,Daniela,Hargash,F,W,1991-03-22,United States,English
+doc_01310,Tanya,Mondragon,F,H,1998-04-11,United States,Spanish
+doc_01311,Matthew,Prince,M,B,1992-11-20,Canada,English
+doc_01312,Brady,Waller,M,W,2003-05-31,Mexico,Spanish
+doc_01313,Tanner,Wisemon,M,W,1986-09-17,United States,Other
+doc_01314,Derek,Alexander,M,W,1992-04-12,United States,English
+doc_01315,Kayla,Comer,F,W,1993-12-28,United States,English
+doc_01316,De Jon,Amadou,M,B,2002-02-15,Mexico,English
+doc_01317,Mattilyn,Sommerville,F,W,1992-11-24,United States,English
+doc_01318,Benjamin,Magoon,M,W,1997-04-02,United States,English
+doc_01319,Bradley,Nettik,M,W,2003-05-09,NA,Other
+doc_01320,Alexandra,Waldrep,F,W,2001-01-12,Mexico,Spanish
+doc_01321,Michael,Hill,M,W,1989-03-09,United States,English
+doc_01322,Alexandra,Ford,F,W,1996-01-27,United States,English
+doc_01323,Brent,Castillo,M,H,1998-06-08,United States,English
+doc_01324,Mikesia,Mmopi,F,B,1992-05-18,United States,Spanish
+doc_01325,Zachery,Bunting,M,AI,1999-02-26,NA,English
+doc_01326,Alexis,Dyer,F,W,1994-12-13,Mexico,Spanish
+doc_01327,Mehedi,Cowen,M,W,2000-06-22,United States,Spanish
+doc_01328,Cole,Walker,M,W,1999-08-22,Mexico,Spanish
+doc_01329,Keenon,Deschambault,M,W,1995-08-26,United States,Spanish
+doc_01330,Jacob,Harvey,M,W,1994-01-18,United States,Spanish
+doc_01331,Margaret,Petersen,F,W,1999-08-22,United States,English
+doc_01332,Charles,Lauer,M,B,1994-02-08,United States,English
+doc_01333,Dylan,Sinner,M,AI,1993-05-13,NA,Other
+doc_01334,John,Jackson,M,W,1995-07-10,Mexico,Spanish
+doc_01335,Damian,Hair,M,W,1999-11-29,Mexico,Spanish
+doc_01336,Taylor,Frey,F,W,1991-09-25,Mexico,Spanish
+doc_01337,Alyssa,Hansman,F,W,1997-07-01,United States,English
+doc_01338,Matthew,Kemling,M,W,1988-07-07,United States,English
+doc_01339,Mariah,Duran,F,H,1992-08-17,United States,English
+doc_01340,Miguel,Puentes-Rizo,M,H,2003-10-19,Mexico,Spanish
+doc_01341,Kyle,Mitchell,M,W,1991-11-22,United States,English
+doc_01342,Lucas,Harvey,M,W,1981-01-04,United States,English
+doc_01343,Lissandra,Flores,F,H,2002-04-24,Mexico,Spanish
+doc_01344,Shaquille,Inks,M,B,2000-10-26,United States,English
+doc_01345,Laquan,Williams,M,B,2002-02-27,United States,English
+doc_01346,Phillip,Shepherd,M,W,2000-07-15,United States,French
+doc_01347,Rachael,Velasquez,F,H,2001-04-11,United States,English
+doc_01348,Travis,Rheinheimer,M,W,1989-11-27,Mexico,Spanish
+doc_01349,Sarah,Reinicke,F,W,1996-02-04,Mexico,Spanish
+doc_01350,Scarlett,Reynolds,F,W,1988-02-13,United States,Other
+doc_01351,Malik,Reid,M,B,2000-01-12,Mexico,Spanish
+doc_01352,Brea,Alemseged,F,B,1996-02-13,United States,English
+doc_01353,Carlos,Ramos Padilla,M,H,2001-04-18,United States,English
+doc_01354,Yekalo,Banks,M,B,1994-01-09,Mexico,English
+doc_01355,Mario,Osman,M,B,1996-02-13,United States,English
+doc_01356,Rachel,Meredith,F,W,1989-04-04,United States,English
+doc_01357,Lea,Strahl,F,B,1997-01-24,Canada,French
+doc_01358,Edwin,Quintana,M,H,1994-04-17,United States,French
+doc_01359,Levi,Elliott,M,W,1996-05-19,United States,English
+doc_01360,Xavier,Crittenden,M,B,2004-11-14,United States,English
+doc_01361,Jordon Alan,North-Wanner,M,W,1995-01-14,United States,English
+doc_01362,John,Wilk,M,W,1980-10-29,Canada,Other
+doc_01363,Cody,Romero,M,W,1994-04-02,United States,English
+doc_01364,Michael,Martin,M,W,1989-07-15,United States,French
+doc_01365,Joel-Ira,Knights,M,B,1988-07-18,Mexico,Spanish
+doc_01366,Alexandrea,Arroyo Ruiz,F,H,2001-04-09,United States,English
+doc_01367,Shandi,Whitney,F,W,1983-09-03,United States,English
+doc_01368,Rodney,Gates,M,B,2001-02-12,United States,English
+doc_01369,James,Ahmadu,M,B,2002-03-18,United States,English
+doc_01370,Mariah,Jefferson,F,AI,1997-10-23,United States,English
+doc_01371,Fernando,Buck,M,H,1991-07-28,Mexico,Spanish
+doc_01372,Beau,Denney,M,W,1994-06-26,United States,English
+doc_01373,Michea,Waldner,F,B,2003-07-28,United States,English
+doc_01374,Omar,Del Val,M,H,1998-05-10,United States,English
+doc_01375,William,Watkins IV,M,B,1985-11-11,United States,English
+doc_01376,Leaman,Cook,M,B,1988-05-29,United States,English
+doc_01377,Arnesha,Smith,F,B,1997-03-16,United States,English
+doc_01378,Jared,Walters,M,W,1995-01-15,NA,Other
+doc_01379,Kailib,Chestnut,M,B,1995-06-30,United States,English
+doc_01380,Jacob,Newell,M,W,1984-05-22,Mexico,Spanish
+doc_01381,Carlos,Spatola,M,H,1995-09-26,United States,English
+doc_01382,Jaquey,Morris,M,B,1994-01-16,United States,French
+doc_01383,Thomas,King,M,W,1989-06-24,United States,English
+doc_01384,Tewodros,Durham,M,B,2000-09-04,United States,English
+doc_01385,Da Qwann,Adams,M,B,1997-09-29,United States,English
+doc_01386,Kerrigan,Moody,F,W,2001-07-13,United States,Spanish
+doc_01387,Anna,Hull,F,W,1996-11-24,United States,English
+doc_01388,Nicholas,Brandt,M,W,2001-01-05,NA,Other
+doc_01389,Homero,Perez,M,H,1980-07-06,United States,English
+doc_01390,Remy,Yu,M,A,1997-10-18,United States,English
+doc_01391,Makela,Williams,F,B,1998-01-16,United States,English
+doc_01392,Ryan,Peterson,M,W,1998-10-18,United States,English
+doc_01393,Reginald,Urban,M,W,1995-11-20,NA,English
+doc_01394,Anthony,Scheifley,M,W,1993-12-25,United States,English
+doc_01395,Austin,Nordby,M,W,1996-12-17,United States,French
+doc_01396,Robert,Loucks,M,W,2002-05-17,Canada,English
+doc_01397,Andreas,Nwizu,M,B,1995-06-10,United States,English
+doc_01398,Otoniel,Trujillo,M,H,2004-05-05,United States,English
+doc_01399,Jordan,Lockett,M,B,1994-08-05,Mexico,Spanish
+doc_01400,Candido,Dunn,M,H,1991-03-21,United States,English
