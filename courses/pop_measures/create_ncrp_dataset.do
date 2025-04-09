@@ -28,38 +28,40 @@ foreach v of varlist * {
 * drop variables we don't need
 drop mand_prisrel_year proj_prisrel_year parelig_year timesrvd education sentlgth offdetail
 rename abt_inmate_id person_id
+rename admityr admit_year
+rename releaseyr release_year
 
 * drop years we don't need
 ** don't need releases prior to 2017 or records with no admission year
-tab1 admityr releaseyr, missing
-drop if releaseyr < 2017 | admityr == 9999 
+tab1 admit_year release_year, missing
+drop if release_year < 2017 | admit_year == 9999 
 
 ** set missing release year to actual missing value
-replace releaseyr = . if releaseyr == 9999
-tab releaseyr, missing
-summarize admityr releaseyr, detail
+replace release_year = . if release_year == 9999
+tab release_year, missing
+summarize admit_year release_year, detail
 
-** drop "missing" release types & age at release if releaseyr is blank 
+** drop "missing" release types & age at release if release_year is blank 
 ** these people have not been released, so info is not actually missing
-replace reltype = . if releaseyr == .
-replace agerelease = . if releaseyr == .
+replace reltype = . if release_year == .
+replace agerelease = . if release_year == .
 tab1 reltype agerelease, missing
 
 ** cut down size of file - don't need 3M records!
 ** take 300 records per state & year
-sample 300, count by(state releaseyr)
+sample 300, count by(state release_year)
 
 * save SAMPLE of raw data to this repo
 export delimited "ncrp_raw_1991-2021_ds0001_sample.csv", replace
 
 * ------------------------------------------------- *
 * using sample data csv 
-import delimited "ncrp_raw_1991-2021_ds0001_sample.csv", clear
+import delimited "ncrp_raw_1991-2021_ds0001_sample.csv", clear varnames(1)
 
 * -----------------------
 * randomly generate fake admission MONTH 
 ** get difference between admit and release year
-generate los_apprx_yrs = releaseyr - admityr
+generate los_apprx_yrs = release_year - admit_year
 tab los_apprx_yrs, missing
 
 ** generate random month value (integer between 1 and 12)
@@ -112,7 +114,7 @@ tab adm_day_rand_updt updt_day_flag if los_apprx_yrs == 0, missing
 
 * -----------------------
 * combine random month & day into admission date
-generate admit_date = mdy(adm_mon_rand_updt, adm_day_rand_updt, admityr)
+generate admit_date = mdy(adm_mon_rand_updt, adm_day_rand_updt, admit_year)
 format admit_date %td
 
 summarize admit_date, format detail
@@ -130,7 +132,7 @@ generate los_apprx_days_min = los_apprx_yrs * 365
 * max = 1 less than # of days in los_apprx_yrs+1
 * if los_apprx_yrs is 0, max = number of days to end of year
 generate los_apprx_days_max = ((los_apprx_yrs + 1) * 365) - 1
-replace los_apprx_days_max = datediff(admit_date, mdy(12, 31, releaseyr), "day") if los_apprx_yrs == 0
+replace los_apprx_days_max = datediff(admit_date, mdy(12, 31, release_year), "day") if los_apprx_yrs == 0
 replace los_apprx_days_max = 364 if los_apprx_days_max == 365
 
 * check min/max days for each value
@@ -144,7 +146,7 @@ generate los_days_rand = runiformint(los_apprx_days_min, los_apprx_days_max)
 summarize los_days_rand, detail
 
 tab los_days_rand if los_days_rand < 30
-tab los_days_rand if admit_date == mdy(12, 31, releaseyr)
+tab los_days_rand if admit_date == mdy(12, 31, release_year)
 tab los_days_rand if adm_mon_rand_updt == 12 & los_apprx_yrs == 0
 
 * -----------------------
@@ -152,16 +154,16 @@ tab los_days_rand if adm_mon_rand_updt == 12 & los_apprx_yrs == 0
 generate release_date = admit_date + los_days_rand
 format release_date %td
 
-** check for any records where release date is not in releaseyr
+** check for any records where release date is not in release_year
 generate reldate_flag = 0
-replace reldate_flag = 1 if year(release_date) != releaseyr
+replace reldate_flag = 1 if year(release_date) != release_year
 tab reldate_flag
 tab los_apprx_yrs if reldate_flag == 1
 
-** update fake release date to use releaseyr 
+** update fake release date to use release_year 
 ** fix leap year dates
-generate release_date_updt = mdy(month(release_date), day(release_date), releaseyr) if reldate_flag == 1
-replace release_date_updt = mdy(2, 28, releaseyr) if release_date_updt == . & month(release_date) == 2 & day(release_date) == 29
+generate release_date_updt = mdy(month(release_date), day(release_date), release_year) if reldate_flag == 1
+replace release_date_updt = mdy(2, 28, release_year) if release_date_updt == . & month(release_date) == 2 & day(release_date) == 29
 format release_date_updt %td
 
 ** check using updated release date
@@ -177,13 +179,13 @@ tab rel_updt_flag, missing
 ** overwrite release_date with updated values
 replace release_date = release_date_updt if reldate_flag == 1 & release_date_updt != .
 
-** re-check for records where release date is not in releaseyr
+** re-check for records where release date is not in release_year
 generate reldate_flag_chk = 0
-replace reldate_flag_chk = 1 if year(release_date) != releaseyr
+replace reldate_flag_chk = 1 if year(release_date) != release_year
 tab reldate_flag_chk
 
-** make sure all records with releaseyr have a release_date
-tab releaseyr if release_date == . & releaseyr != ., missing
+** make sure all records with release_year have a release_date
+tab release_year if release_date == . & release_year != ., missing
 
 * -----------------------
 * decode values
@@ -195,7 +197,7 @@ label define race 1 "White, non-Hispanic" 2 "Black, non-Hispanic" 3 "Hispanic, a
 label define ageadmit 1 "18-24 years" 2 "25-34 years" 3 "35-44 years" 4 "45-54 years" 5 "55+ years" 9 "Missing"
 label define agerelease 1 "18-24 years" 2 "25-34 years" 3 "35-44 years" 4 "45-54 years" 5 "55+ years" 9 "Missing" 
 label define reltype 1 "Conditional release" 2 "Unconditional release" 3 "Other release" 9 "Missing"
-label define state 1 "Alabama" 2 "Alaska" 4 "Arizona" 5 "Arkansas" 6 "California" 8 "Colorado" 9 "Connecticut" 10 "Delaware" 11 "District of Columbia" 12 "Florida" 13 "Georgia" 15 "Hawaii" 16 "Idaho" 17 "Illinois" 18 "Indiana" 19 "Iowa" 20 "Kansas" 21 "Kentucky" 22 "Louisiana" 23 "Maine" 24 "Maryland" 25 "Massachusetts" 26 "Michigan" 27 "Minnesota" 28 "Mississippi" 29 "Missouri" 30 "Montana" 31 "Nebraska" 32 "Nevada" 33 "New Hampshire" 34 "New Jersey" 35 "New Mexico" 36 "New York" 37 "North Carolina" 38 "North Dakota" 39 "Ohio" 40 "Oklahoma" 41 "Oregon" 42 "Pennsylvania" 44 "Rhode Island" 45 "South Carolina" 46 "South Dakota" 47 "Tennessee" 48 "Texas" 49 "Utah" 50 "Vermont" 51 "Virginia" 53 "Washington" 54 "West Virginia" 55 "Wisconsin"
+label define state 1 "Alabama" 2 "Alaska" 4 "Arizona" 5 "Arkansas" 6 "California" 8 "Colorado" 9 "Connecticut" 10 "Delaware" 11 "District of Columbia" 12 "Florida" 13 "Georgia" 15 "Hawaii" 16 "Idaho" 17 "Illinois" 18 "Indiana" 19 "Iowa" 20 "Kansas" 21 "Kentucky" 22 "Louisiana" 23 "Maine" 24 "Maryland" 25 "Massachusetts" 26 "Michigan" 27 "Minnesota" 28 "Mississippi" 29 "Missouri" 30 "Montana" 31 "Nebraska" 32 "Nevada" 33 "New Hampshire" 34 "New Jersey" 35 "New Mexico" 36 "New York" 37 "North Carolina" 38 "North Dakota" 39 "Ohio" 40 "Oklahoma" 41 "Oregon" 42 "Pennsylvania" 44 "Rhode Island" 45 "South Carolina" 46 "South Dakota" 47 "Tennessee" 48 "Texas" 49 "Utah" 50 "Vermont" 51 "Virginia" 53 "Washington" 54 "West Virginia" 55 "Wisconsin" 56 "Wyoming"
 
 ** add value labels to each variable
 foreach v of varlist sex admtype offgeneral race ageadmit agerelease reltype state {
@@ -217,16 +219,24 @@ decode agerelease, generate(age_at_release)
 drop *_enc admtype reltype offgeneral ageadmit agerelease
 
 * -----------------------
-* final file cleanup 
-describe, fullnames
-rename admityr admit_year
-rename releaseyr release_year
+* prep file for export
+
+** change format of date vars & set to strings
+foreach v in admit release {
+	rename `v'_date `v'_date_fmt
+	format `v'_date_fmt %tdCCYY-NN-DD
+	tostring `v'_date_fmt, generate(`v'_date) format(%tdCCYY-NN-DD) force	
+	replace `v'_date = "" if `v'_date == "."
+	label var `v'_date 
+}
 
 ** drop vars for creating fake dates
+describe, fullnames
 drop adm_*_rand mon_maxdays *_flag *_chk *_updt los_* 
+describe, fullnames
 
 ** reorder vars
-order person_id admit_date admit_type release_date release_type offense_category sex race age_at_admit age_at_release state admit_year release_year
+order person_id admit_date admit_type release_date release_type offense_category sex race age_at_admit age_at_release state admit_year release_year admit_date_fmt release_date_fmt
 sort person_id admit_date
 
 ** save file as csv
