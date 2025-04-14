@@ -27,7 +27,6 @@ foreach v of varlist * {
 
 * drop variables we don't need
 drop mand_prisrel_year proj_prisrel_year parelig_year timesrvd education sentlgth offdetail
-rename abt_inmate_id person_id
 rename admityr admit_year
 rename releaseyr release_year
 
@@ -57,6 +56,13 @@ export delimited "ncrp_raw_1991-2021_ds0001_sample.csv", replace
 * ------------------------------------------------- *
 * using sample data csv 
 import delimited "ncrp_raw_1991-2021_ds0001_sample.csv", clear varnames(1)
+
+* shorten IDs for outputs but keep distinct numbers for people/state
+sort abt_inmate_id admit_year admtype release_year reltype
+generate person_id = _n + 200000
+
+** use same new ID number if old ID is the same
+replace person_id = person_id[_n-1] if abt_inmate_id == abt_inmate_id[_n-1]
 
 * -----------------------
 * randomly generate fake admission MONTH 
@@ -234,6 +240,10 @@ foreach v in admit release {
 describe, fullnames
 drop adm_*_rand mon_maxdays *_flag *_chk *_updt los_* 
 describe, fullnames
+
+** drop original ID var
+drop abt_inmate_id
+tostring person_id, replace
 
 ** reorder vars
 order person_id admit_date admit_type release_date release_type offense_category sex race age_at_admit age_at_release state admit_year release_year admit_date_fmt release_date_fmt
