@@ -307,7 +307,7 @@ drop *_enc admtype reltype offgeneral
 * -----------------------
 * prep file for export
 ** drop extra vars
-drop person_n person_N *_date_fmt *_year
+drop person_n person_N *_date_fmt 
 
 ** drop all variable labels
 foreach v of varlist * {
@@ -315,22 +315,126 @@ foreach v of varlist * {
 }
 
 ** reorder vars
-order person_id admit_date admit_datetime admit_type release_date release_datetime release_type offense_category sex race 
+order person_id admit_date admit_datetime admit_type release_date release_datetime release_type offense_category sex race admit_year release_year
 sort person_id admit_datetime
 
 * ------------------------------------------------- *
 * export datasets
 * ------------------------------------------------- *
-* "FACILITY" data
-** no modifications needed 
+** export FULL file as csv
+export delimited "pop_measures_sample_data.csv", replace
+
+* -----------------------
+* "FACILITY" dataset
+** start with full file
+import delimited "pop_measures_sample_data.csv", clear varnames(1) stringcols(_all)
+
+** randomly select 10,000 records
+sample 10000, count
+
+** make sure values are distributed the way we want
+tab1 admit_year release_year, missing
+tab1 admit_type release_type offense_category, missing
+tab1 sex race, missing
+
+** build in scenarios for examples
+sort person_id admit_datetime
+* force some records to have 2023 admission & release dates
+replace admit_date = "2023-02-13" in 2
+replace admit_type = "New court commitment" in 2
+replace release_date = "2023-10-14" in 2
+replace release_type = "Conditional release" in 2
+replace admit_date = "2023-05-01" in 4
+replace admit_type = "Parole return/revocation" in 4
+replace release_date = "2023-10-23" in 4
+replace release_type = "Unconditional release" in 4
+* force some people to have n>1
+replace person_id = "10000119" in 5/6
+replace sex = "Male" in 5/6 
+replace race = "Black, non-Hispanic" in 5/6
+replace admit_date = "2023-01-16" in 5
+replace admit_type = "Parole return/revocation" in 5
+replace offense_category = "Violent" in 5
+replace release_date = "2023-03-24" in 5
+replace release_type = "Unconditional release" in 5
+replace admit_date = "2023-06-21" in 6
+replace admit_type = "New court commitment" in 6
+replace offense_category = "Public order" in 6
+replace release_date = "" in 6
+replace release_datetime = "" in 6
+replace release_type = "" in 6
+replace person_id = "10000159" in 8/9
+replace sex = "Male" in 8/9
+replace race = "White, non-Hispanic" in 8/9
+replace admit_date = "2019-10-11" in 8 
+replace admit_type = "New court commitment" in 8
+replace release_date = "2023-06-19" in 8 
+replace release_type = "Conditional release" in 8
+replace admit_date = "2023-09-04" in 9
+replace admit_type = "Parole return/revocation" in 9
+replace release_date = "2023-12-06" in 9
+replace release_type = "Conditional release" in 9
+* flag updated records
+generate updated = 0
+replace updated = 1 in 2
+replace updated = 1 in 4/6
+replace updated = 1 in 8/9
+tab updated
+
+** update admit datetime after changing data
+* pull out time from original datetime & append to updated date
+generate admit_time = substr(admit_datetime, -8, .) 
+replace admit_datetime = admit_date + " " + admit_time 
+generate release_time = substr(release_datetime, -8, .) 
+* flag records missing release time
+generate no_reltime = 0
+replace no_reltime = 1 if release_time == "" & release_date != ""
+tab no_reltime updated, missing
+* randomly generate time for records missing release time
+generate new_rel_hr = runiformint(0, 23) if no_reltime == 1 & updated == 1
+generate new_rel_min = runiformint(0, 59) if no_reltime == 1 & updated == 1
+generate new_rel_time = strofreal(new_rel_hr, "%02.0f") + ":" + ///
+	strofreal(new_rel_min, "%02.0f") + ":00" if no_reltime == 1 & updated == 1
+* update release_datetime
+replace release_datetime = release_date + " " + new_rel_time if no_reltime == 1 & updated == 1
+* make sure date values match
+generate adm_flag = 0
+replace adm_flag = 1 if substr(admit_date, 1, 10) != substr(admit_datetime, 1, 10)
+generate rel_flag = 0
+replace rel_flag = 1 if substr(release_date, 1, 10) != substr(release_datetime, 1, 10)
+tab1 adm_flag rel_flag
+* drop flags & new values
+drop *_time *_flag updated new_rel_* no_reltime
+
+** update admit/release year after changing data
+replace admit_year = substr(admit_date, 1, 4)
+replace release_year = substr(release_date, 1, 4)
+
+** check for any duplicates
+duplicates drop
+
+** DO NOT RE-SORT, or the records we just updated will be moved around!
 ** export file as csv
-export delimited "pop_measures_facility_data.csv", replace
+export delimited "pop_measures_sample_facility_data.csv", replace
 
 * -----------------------
 * "SUPERVISION" data
+** start with full file
+import delimited "pop_measures_sample_data.csv", clear varnames(1) stringcols(_all)
+
+** randomly select 10,000 records
+sample 10000, count
+
+** make sure values are distributed the way we want
+tab1 admit_year release_year, missing
+tab1 offense_category, missing
+tab1 sex race, missing
+
 ** rename admit/release dates
 rename admit_date start_date
-rename release_date end_date 
+rename release_date end_date
+rename admit_year start_year
+rename release_year end_year 
 
 ** drop datetime & admit/release vars
 drop *_datetime admit_type release_type
@@ -345,8 +449,16 @@ drop id_num id_update
 
 ** randomly assign probation or parole
 generate rand_type = runiformint(1,2)
+tab rand_type
+* slightly decrease number of parole records
+generate rand_parole = runiformint(1,3) if rand_type == 1
+tab rand_type rand_parole, missing
+replace rand_type = 2 if rand_parole == 1
+tab rand_type
+* categorize values
 generate supervision_type = "Probation" if rand_type == 2
 replace supervision_type = "Parole" if rand_type == 1
+tab supervision_type, missing
 
 ** randomly assign outcome (completed, revoked, other)
 generate rand_outcome = runiformint(1,3) if end_date != ""
@@ -365,13 +477,32 @@ tab rand_outcome
 generate end_reason = "Completed" if rand_outcome == 1
 replace end_reason = "Revoked" if rand_outcome == 2
 replace end_reason = "Other" if rand_outcome == 3
+tab end_reason, missing
 
 ** drop random values
 drop rand_*
 
-** reorder & re-sort
-order person_id supervision_type start_date end_date end_reason offense_category sex race
+** build in scenarios for examples
 sort person_id start_date
+* force a record to have n>1 
+replace person_id = "10915996" in 3/4
+replace supervision_type = "Probation" in 3/4
+replace start_date = "2022-06-02" in 3
+replace start_date = "2017-06-28" in 4
+replace end_date = "" in 3/4
+replace end_reason = "" in 3/4
+replace offense_category = "Violent" in 3
+replace offense_category = "Public order" in 4
+replace race = "Black, non-Hispanic" in 3/4
+replace sex = "Male" in 3/4
 
+** update start/end year after changing data
+replace start_year = substr(start_date, 1, 4)
+replace end_year = substr(end_date, 1, 4)
+
+** check for any duplicates
+duplicates drop
+
+** DO NOT RE-SORT, or the records we just updated will be moved around!
 ** export file as csv
-export delimited "pop_measures_supervision_data.csv", replace
+export delimited "pop_measures_sample_supervision_data.csv", replace
