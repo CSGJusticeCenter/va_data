@@ -89,11 +89,7 @@ residents <- randomNames(
       birth_country == "Mexico" ~ sample_lang(prob = c(0.05, 0.89, 0.01, 0.05)),
       birth_country == "Canada"  ~ sample_lang(prob = c(0.6, 0.05, 0.3, 0.05)),
       TRUE ~ sample_lang(prob = c(0.45, 0.2, 0.05, 0.3))
-      ),
-    ed_level_id = sample(
-      1:5,
-      size = 1000, replace = TRUE, prob = c(0.3, 0.2, 0.2, 0.18, 0.13)
-      ),
+      )
     ) |> 
   rowwise() |> 
   mutate(age_at_first_arrest = sample(seq(17, age, by = 1), 1)) |> 
@@ -107,11 +103,9 @@ residents <- randomNames(
     dob,
     age_at_first_arrest,
     birth_country,
-    primary_language,
-    ed_level_id
+    primary_language
     ) |> 
   mutate(dob = as.character(dob))
-
 
 facilities <- tribble(
   ~facil_id, ~facil_name, ~facil_beds, ~secure_level,
@@ -121,16 +115,13 @@ facilities <- tribble(
    "WSCF", "Western State Correctional Facility", 750, "Low"
 )
 
-
 rel_date_norm <- rnorm(1000, mean = 30, sd = 10)
 days_to_rel_record <- round(pmin(pmax(rel_date_norm, 10), 60))
-
 
 sent_date_norm <- rnorm(1000, mean = 12, sd = 5)
 days_to_admit <- round(pmin(pmax(sent_date_norm, 1), 30))
 
 intakes <- residents |> 
-  sample_frac() |> 
   mutate(
     intake_id = row_number(),
     admission_date = sample(
@@ -156,7 +147,17 @@ intakes <- residents |>
     rel_ready_date = admission_date + days_to_rel_record,
     sentence_date = admission_date - days_to_admit,
     exp_release_date = sentence_date + sentence_years * 365 + sentence_months * 30,
-    across(ends_with("date"), as.character)
+    across(ends_with("date"), as.character),
+    sentence_date = if_else(
+      sample(c(TRUE, FALSE), 1000, replace = TRUE, prob = c(0.86, 0.14)),
+      sentence_date, NA
+      ),
+    rel_ready_date = if_else(!is.na(sentence_date), rel_ready_date, NA),
+    rel_ready_date = if_else(
+      sample(c(TRUE, FALSE), 1000, replace = TRUE, prob = c(0.88, 0.12)),
+      rel_ready_date, NA 
+    ),
+    exp_release_date = if_else(!is.na(rel_ready_date), exp_release_date, NA),
     ) |> 
   select(
     intake_id,
@@ -173,23 +174,14 @@ intakes <- residents |>
   )
 
 counties <- tribble(
-  ~county_id, ~county_name,
-  1, "Washington",
-  2, "Hamilton",
-  3, "Jefferson",
-  4, "Adams",
-  5, "Madison",
-  6, "Orleans",
-  7, "Wright"
-)
-
-ed_levels <- tribble(
-  ~ed_level_id, ~ed_level_text,
-  1, "Less than high school",
-  2, "High school degree or GED",
-  3, "Some college",
-  4, "College degree",
-  5, "Post-secondary degree"
+  ~county_id, ~county_name, ~county_fips, ~region,
+  1, "Washington", "89101", "North",
+  2, "Hamilton", "89102", "North",
+  3, "Jefferson", "89103", "South",
+  4, "Adams", "89104", "West",
+  5, "Madison", "89105", "East",
+  6, "Orleans", "89106", "South",
+  7, "Wright", "89107", "South"
 )
 
 con <- dbConnect(RSQLite::SQLite(), "courses/intro_sql/state_doc.db")
@@ -198,7 +190,6 @@ dbWriteTable(con, "residents", residents)
 dbWriteTable(con, "intakes", intakes)
 dbWriteTable(con, "counties", counties)
 dbWriteTable(con, "facilities", facilities)
-dbWriteTable(con, "ed_levels", ed_levels)
 
 dbListTables(con)
 
