@@ -13,17 +13,12 @@
 #
 # "Facility" data
 #   - total N: 10,000
-#   - variables: 12
+#   - variables: 10
 #
 # "Supervision" data
 #   - total N: 10,000
 #   - variables: 10
 # ---------------------------------- #
-
-
-## ! DELETE THIS ! ----
-rpath <- "C:/Users/rdruckhammer/The Council of State Governments/JC Research - Documents/Division Resources/06_Website/National Reports Data/Data/Converted/NCRP/"
-csv_path <- "C:/Users/rdruckhammer/repos/csgjc_projects/va_data/courses/pop_measures/"
 
 
 # ---------------------------------- #
@@ -33,6 +28,17 @@ library(tidyverse)
 
 # set seed for random values
 set.seed(646787321)
+
+# The "rpath" and "csv_path" values are hidden here. 
+# To run this code on your own machine, set the values below to 
+#   the corresponding paths on your computer
+
+## "rpath" will be the path to the folder where you have downloaded 
+##    and unzipped the NCRP data files
+# rpath <- "paste full folder path here with, a "/" at the end"
+
+## "csv_path" will be the path to your local clone of this repository
+# csv_path <- "paste full folder path here with, a "/" at the end"
 
 # ---------------------------------- #  
 # IMPORT & PREP ----
@@ -59,6 +65,7 @@ ncrp_250k <- ncrp_raw |>
   ## drop columns we won't be using; keep columns we *might* use
   select(-c(mand_prisrel_year, proj_prisrel_year, parelig_year, timesrvd))
 
+# check dataset
 head(ncrp_250k)
 
 # save file with 250k records prior to changing data
