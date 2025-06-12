@@ -1,558 +1,321 @@
 resident_id,sentencing_date,sentence_nr,offense,verdict,sentence
-doc_00887,2019-07-05,1,possession of paraphernalia,not guilty,NA
-doc_00645,2020-02-23,1,possession of paraphernalia,charges dropped,NA
-doc_00434,2022-09-24,1,assault,guilty,prison
-doc_00918,2022-06-22,1,terroristic threat,guilty,suspended
-doc_00880,2021-06-17,1,embezzlement,guilty,prison
-doc_00850,2022-09-04,1,sexual assault,guilty,prison
-doc_01131,2022-09-19,1,smuggling of persons,guilty,prison
-doc_00280,2018-05-20,1,aggravated robbery,guilty,prison
-doc_01393,2021-12-17,1,aggravated assault,guilty,probation
-doc_00124,2021-12-22,1,rape,guilty,prison
-doc_00252,2021-01-07,1,rape,charges dropped,NA
-doc_01266,2019-03-30,1,embezzlement,guilty,prison
-doc_00012,2021-03-17,1,aggravated robbery,guilty,probation
-doc_01110,2018-11-11,1,drug possession,guilty,prison
-doc_01235,2018-10-05,1,smuggling of persons,charges dropped,NA
-doc_00180,2022-02-17,1,possession of paraphernalia,guilty,probation
-doc_00320,2022-11-17,1,terroristic threat,guilty,prison
-doc_01192,2020-03-28,1,aggravated assault,guilty,probation
-doc_01131,2022-09-19,2,terroristic threat,guilty,prison
-doc_00735,2022-10-17,1,rape,guilty,probation
-doc_00748,2019-09-10,1,embezzlement,guilty,probation
-doc_01371,2018-11-17,1,drug possession,guilty,probation
-doc_00083,2019-06-14,1,possession of paraphernalia,guilty,probation
-doc_00559,2019-12-30,1,DUI,guilty,suspended
-doc_01132,2019-08-23,1,burglary,charges dropped,NA
-doc_01057,2019-07-14,1,theft,guilty,prison
-doc_01260,2017-07-16,1,drug possession,guilty,prison
-doc_00320,2022-11-17,2,DUI,charges dropped,NA
-doc_01280,2018-04-27,1,larceny,guilty,prison
-doc_00217,2019-09-27,1,sexual assault,guilty,prison
-doc_00852,2019-10-01,1,larceny,charges dropped,NA
-doc_00097,2018-07-12,1,smuggling of persons,not guilty,NA
-doc_01357,2022-08-23,1,larceny,charges dropped,NA
-doc_00682,2020-07-15,1,smuggling of persons,guilty,probation
-doc_00588,2021-07-25,1,sexual assault,guilty,probation
-doc_00882,2022-04-20,1,rape,guilty,prison
-doc_00627,2020-01-15,1,smuggling of persons,guilty,prison
-doc_00912,2023-03-30,1,aggravated robbery,guilty,suspended
-doc_00771,2023-02-18,1,terroristic threat,guilty,prison
-doc_00706,2019-11-23,1,theft,charges dropped,NA
-doc_01390,2020-05-23,1,smuggling of persons,guilty,prison
-doc_00516,2023-07-14,1,sexual assault,guilty,prison
-doc_01280,2018-04-27,2,possession of paraphernalia,guilty,prison
-doc_01178,2022-02-09,1,aggravated assault,guilty,prison
-doc_01107,2022-05-23,1,aggravated robbery,guilty,suspended
-doc_01397,2018-05-18,1,embezzlement,guilty,suspended
-doc_00185,2020-03-31,1,assault,not guilty,NA
-doc_00886,2020-12-18,1,sexual assault,guilty,prison
-doc_00837,2018-08-03,1,burglary,not guilty,NA
-doc_00333,2018-06-11,1,smuggling of persons,guilty,prison
-doc_00921,2020-02-03,1,larceny,charges dropped,NA
-doc_00189,2018-11-11,1,possession of paraphernalia,guilty,prison
-doc_00164,2020-05-16,1,arson,not guilty,NA
-doc_00949,2020-01-25,1,theft,guilty,suspended
-doc_00124,2021-12-22,2,rape,guilty,prison
-doc_00650,2020-09-24,1,trafficking,guilty,prison
-doc_00791,2018-09-15,1,theft,not guilty,NA
-doc_01208,2021-02-03,1,arson,guilty,prison
-doc_00559,2019-12-30,2,theft,guilty,prison
-doc_01180,2019-01-03,1,burglary,charges dropped,NA
-doc_00541,2019-04-07,1,possession of paraphernalia,guilty,prison
-doc_00636,2018-10-10,1,aggravated assault,guilty,prison
-doc_00303,2020-04-22,1,aggravated assault,guilty,probation
-doc_00671,2019-05-20,1,rape,not guilty,NA
-doc_00334,2017-12-16,1,smuggling of persons,guilty,suspended
-doc_01279,2021-02-18,1,burglary,not guilty,NA
-doc_01111,2021-04-26,1,DUI,guilty,probation
-doc_00949,2020-01-25,2,burglary,charges dropped,NA
-doc_00908,2019-10-30,1,assault,guilty,prison
-doc_01037,2022-12-22,1,theft,charges dropped,NA
-doc_00208,2021-12-17,1,sexual assault,not guilty,NA
-doc_00235,2019-06-23,1,drug possession,guilty,prison
-doc_00955,2020-10-25,1,arson,charges dropped,NA
-doc_00047,2021-04-10,1,DUI,guilty,probation
-doc_00145,2019-11-14,1,trafficking,guilty,prison
-doc_00669,2022-10-10,1,aggravated robbery,guilty,prison
-doc_00362,2023-01-09,1,theft,guilty,prison
-doc_00269,2022-05-17,1,rape,charges dropped,NA
-doc_00265,2018-08-19,1,aggravated assault,not guilty,NA
-doc_00194,2021-11-19,1,embezzlement,not guilty,NA
-doc_01170,2021-06-05,1,smuggling of persons,guilty,suspended
-doc_00933,2020-04-06,1,sexual assault,not guilty,NA
-doc_00830,2019-11-11,1,DUI,guilty,prison
-doc_00083,2019-06-14,2,aggravated assault,guilty,probation
-doc_01091,2022-08-18,1,rape,charges dropped,NA
-doc_01075,2020-01-22,1,rape,charges dropped,NA
-doc_00227,2021-11-14,1,aggravated robbery,guilty,prison
-doc_01399,2020-10-29,1,assault,guilty,suspended
-doc_00237,2022-09-14,1,trafficking,charges dropped,NA
-doc_01015,2020-07-30,1,embezzlement,charges dropped,NA
-doc_00719,2019-08-25,1,burglary,guilty,suspended
-doc_00852,2019-10-01,2,smuggling of persons,guilty,prison
-doc_01260,2017-07-16,2,drug possession,charges dropped,NA
-doc_00850,2022-09-04,2,theft,guilty,prison
-doc_00323,2020-12-22,1,rape,guilty,prison
-doc_01175,2020-08-16,1,trafficking,guilty,probation
-doc_00527,2018-09-13,1,sexual assault,guilty,probation
-doc_01154,2019-09-01,1,rape,guilty,probation
-doc_01140,2019-02-21,1,arson,guilty,suspended
-doc_00440,2019-08-06,1,burglary,not guilty,NA
-doc_00881,2020-07-10,1,arson,not guilty,NA
-doc_00739,2021-01-28,1,burglary,guilty,prison
-doc_00892,2021-08-06,1,aggravated assault,charges dropped,NA
-doc_00722,2018-10-26,1,aggravated robbery,guilty,suspended
-doc_01357,2022-08-23,2,theft,guilty,prison
-doc_00577,2018-12-19,1,drug possession,guilty,suspended
-doc_00095,2020-12-13,1,embezzlement,not guilty,NA
-doc_01300,2021-08-22,1,DUI,guilty,prison
-doc_00671,2019-05-20,2,drug possession,charges dropped,NA
-doc_01215,2019-05-27,1,theft,charges dropped,NA
-doc_00705,2022-02-01,1,drug possession,guilty,prison
-doc_01357,2022-08-23,3,sexual assault,not guilty,NA
-doc_00596,2022-02-19,1,DUI,guilty,probation
-doc_01221,2019-01-21,1,arson,guilty,prison
-doc_01107,2022-05-23,2,trafficking,guilty,prison
-doc_00230,2022-02-12,1,drug possession,guilty,prison
-doc_00821,2020-10-19,1,theft,guilty,prison
-doc_00429,2019-09-01,1,assault,charges dropped,NA
-doc_00384,2020-05-13,1,rape,not guilty,NA
-doc_00842,2022-08-14,1,embezzlement,not guilty,NA
-doc_00221,2022-08-06,1,aggravated robbery,charges dropped,NA
-doc_00804,2020-05-04,1,assault,charges dropped,NA
-doc_01179,2021-10-15,1,possession of paraphernalia,guilty,prison
-doc_00344,2021-09-27,1,theft,not guilty,NA
-doc_00986,2017-12-12,1,burglary,guilty,prison
-doc_00397,2018-12-14,1,drug possession,not guilty,NA
-doc_00807,2020-07-09,1,smuggling of persons,not guilty,NA
-doc_00441,2019-02-16,1,smuggling of persons,not guilty,NA
-doc_01178,2022-02-09,2,arson,guilty,prison
-doc_01180,2019-01-03,2,theft,guilty,prison
-doc_01165,2020-11-27,1,burglary,guilty,probation
-doc_00130,2019-09-03,1,trafficking,charges dropped,NA
-doc_01085,2021-12-12,1,rape,guilty,suspended
-doc_01272,2022-01-14,1,theft,not guilty,NA
-doc_00640,2020-12-24,1,trafficking,guilty,prison
-doc_00343,2020-04-18,1,aggravated assault,guilty,prison
-doc_01046,2018-04-16,1,rape,guilty,prison
-doc_00903,2020-07-03,1,DUI,not guilty,NA
-doc_00584,2020-08-11,1,aggravated assault,guilty,suspended
-doc_00201,2020-01-25,1,burglary,guilty,prison
-doc_00758,2018-10-12,1,aggravated assault,guilty,prison
-doc_00666,2021-04-02,1,burglary,guilty,suspended
-doc_01132,2019-08-23,2,arson,guilty,prison
-doc_00954,2021-03-28,1,trafficking,guilty,suspended
-doc_00683,2018-08-15,1,rape,guilty,probation
-doc_01043,2020-11-26,1,theft,guilty,prison
-doc_00272,2018-02-01,1,arson,not guilty,NA
-doc_00434,2022-09-24,2,arson,charges dropped,NA
-doc_00645,2020-02-23,2,smuggling of persons,charges dropped,NA
-doc_01225,2019-10-20,1,DUI,charges dropped,NA
-doc_00480,2022-03-23,1,terroristic threat,guilty,prison
-doc_00455,2021-02-13,1,DUI,guilty,prison
-doc_00685,2019-03-09,1,DUI,guilty,probation
-doc_00387,2019-05-08,1,possession of paraphernalia,guilty,prison
-doc_00567,2019-05-24,1,rape,guilty,prison
-doc_00949,2020-01-25,3,assault,not guilty,NA
-doc_00572,2019-03-25,1,possession of paraphernalia,guilty,suspended
-doc_00960,2020-08-13,1,burglary,guilty,probation
-doc_00460,2018-09-21,1,DUI,guilty,probation
-doc_00727,2020-03-12,1,smuggling of persons,charges dropped,NA
-doc_00598,2021-12-09,1,sexual assault,charges dropped,NA
-doc_00169,2022-04-08,1,terroristic threat,guilty,probation
-doc_00354,2019-06-05,1,aggravated assault,not guilty,NA
-doc_00480,2022-03-23,2,DUI,not guilty,NA
-doc_01390,2020-05-23,2,drug possession,guilty,probation
-doc_00949,2020-01-25,4,trafficking,guilty,prison
-doc_00265,2018-08-19,2,burglary,guilty,prison
-doc_01263,2019-05-24,1,sexual assault,guilty,probation
-doc_00342,2020-04-04,1,drug possession,guilty,suspended
-doc_01226,2021-06-25,1,assault,guilty,prison
-doc_00683,2018-08-15,2,assault,guilty,prison
-doc_00577,2018-12-19,2,assault,charges dropped,NA
-doc_01225,2019-10-20,2,assault,guilty,probation
-doc_00343,2020-04-18,2,DUI,charges dropped,NA
-doc_01369,2022-05-01,1,smuggling of persons,charges dropped,NA
-doc_01252,2020-01-27,1,aggravated assault,guilty,suspended
-doc_00925,2021-02-02,1,burglary,guilty,suspended
-doc_00441,2019-02-16,2,sexual assault,guilty,suspended
-doc_00706,2019-11-23,2,drug possession,guilty,probation
-doc_00381,2018-05-28,1,rape,charges dropped,NA
-doc_00774,2022-09-05,1,smuggling of persons,guilty,prison
-doc_00171,2021-11-09,1,smuggling of persons,guilty,prison
-doc_01320,2020-12-29,1,larceny,not guilty,NA
-doc_01221,2019-01-21,2,assault,charges dropped,NA
-doc_00345,2022-01-09,1,DUI,guilty,prison
-doc_00949,2020-01-25,5,DUI,guilty,prison
-doc_00364,2022-05-09,1,DUI,not guilty,NA
-doc_00545,2021-12-07,1,terroristic threat,not guilty,NA
-doc_00842,2022-08-14,2,rape,guilty,probation
-doc_00146,2022-06-20,1,possession of paraphernalia,guilty,probation
-doc_00162,2021-05-06,1,embezzlement,guilty,prison
-doc_01065,2022-09-25,1,sexual assault,guilty,prison
-doc_00524,2020-05-14,1,arson,not guilty,NA
-doc_00385,2020-09-30,1,sexual assault,guilty,prison
-doc_00061,2019-02-14,1,embezzlement,not guilty,NA
-doc_00773,2022-06-10,1,aggravated assault,guilty,probation
-doc_00529,2021-01-30,1,smuggling of persons,charges dropped,NA
-doc_00915,2019-01-08,1,smuggling of persons,charges dropped,NA
-doc_01110,2018-11-11,2,rape,charges dropped,NA
-doc_01355,2020-10-25,1,burglary,guilty,prison
-doc_00057,2021-12-24,1,possession of paraphernalia,guilty,probation
-doc_00576,2018-06-24,1,terroristic threat,guilty,prison
-doc_00893,2019-08-27,1,assault,guilty,probation
-doc_00136,2018-06-01,1,aggravated assault,charges dropped,NA
-doc_00761,2019-08-06,1,sexual assault,guilty,prison
-doc_00334,2017-12-16,2,aggravated robbery,guilty,prison
-doc_00537,2021-08-22,1,theft,guilty,probation
-doc_01106,2019-09-03,1,theft,guilty,probation
-doc_01067,2021-01-25,1,smuggling of persons,not guilty,NA
-doc_00593,2020-01-21,1,assault,guilty,suspended
-doc_00941,2020-10-16,1,terroristic threat,guilty,prison
-doc_00208,2021-12-17,2,possession of paraphernalia,not guilty,NA
-doc_00739,2021-01-28,2,DUI,guilty,probation
-doc_01237,2018-12-14,1,aggravated robbery,guilty,suspended
-doc_01252,2020-01-27,2,aggravated assault,guilty,prison
-doc_00807,2020-07-09,2,sexual assault,guilty,prison
-doc_00756,2016-11-30,1,embezzlement,guilty,probation
-doc_00757,2020-10-08,1,burglary,not guilty,NA
-doc_00203,2022-10-08,1,larceny,guilty,probation
-doc_01215,2019-05-27,2,sexual assault,guilty,prison
-doc_00882,2022-04-20,2,DUI,guilty,prison
-doc_00516,2023-07-14,2,arson,guilty,prison
-doc_00055,2022-07-20,1,possession of paraphernalia,guilty,suspended
-doc_00455,2021-02-13,2,aggravated robbery,guilty,suspended
-doc_01177,2021-03-11,1,arson,not guilty,NA
-doc_01133,2022-03-22,1,rape,guilty,prison
-doc_00758,2018-10-12,2,assault,not guilty,NA
-doc_00845,2020-07-03,1,theft,not guilty,NA
-doc_00757,2020-10-08,2,arson,not guilty,NA
-doc_00886,2020-12-18,2,DUI,guilty,suspended
-doc_01245,2022-03-21,1,rape,not guilty,NA
-doc_00791,2018-09-15,2,theft,charges dropped,NA
-doc_00845,2020-07-03,2,aggravated assault,guilty,probation
-doc_00352,2019-04-01,1,drug possession,guilty,prison
-doc_00673,2021-11-09,1,rape,guilty,probation
-doc_00391,2021-09-30,1,arson,guilty,prison
-doc_01229,2018-11-09,1,aggravated robbery,not guilty,NA
-doc_00994,2021-07-08,1,rape,charges dropped,NA
-doc_00128,2021-04-30,1,aggravated robbery,not guilty,NA
-doc_01301,2021-08-06,1,larceny,guilty,prison
-doc_01091,2022-08-18,2,arson,guilty,probation
-doc_00598,2021-12-09,2,sexual assault,charges dropped,NA
-doc_01107,2022-05-23,3,DUI,charges dropped,NA
-doc_00441,2019-02-16,3,burglary,charges dropped,NA
-doc_01397,2018-05-18,2,trafficking,guilty,suspended
-doc_01170,2021-06-05,2,smuggling of persons,guilty,prison
-doc_00674,2022-05-12,1,theft,guilty,prison
-doc_00176,2022-11-01,1,drug possession,guilty,prison
-doc_00969,2018-08-28,1,aggravated robbery,guilty,prison
-doc_00201,2020-01-25,2,possession of paraphernalia,guilty,prison
-doc_01107,2022-05-23,4,theft,not guilty,NA
-doc_00852,2019-10-01,3,rape,not guilty,NA
-doc_00392,2021-11-12,1,rape,not guilty,NA
-doc_00067,2018-09-13,1,terroristic threat,guilty,prison
-doc_00664,2019-08-13,1,assault,charges dropped,NA
-doc_01326,2019-06-11,1,smuggling of persons,not guilty,NA
-doc_01270,2023-08-26,1,aggravated robbery,guilty,prison
-doc_00818,2020-07-25,1,embezzlement,guilty,prison
-doc_00628,2018-09-06,1,possession of paraphernalia,guilty,suspended
-doc_01361,2023-03-30,1,larceny,not guilty,NA
-doc_00408,2021-12-04,1,aggravated robbery,guilty,prison
-doc_00826,2021-04-28,1,smuggling of persons,guilty,prison
-doc_00918,2022-06-22,2,aggravated robbery,guilty,probation
-doc_00441,2019-02-16,4,burglary,guilty,prison
-doc_00624,2021-03-07,1,larceny,guilty,prison
-doc_00174,2019-03-09,1,terroristic threat,charges dropped,NA
-doc_01127,2023-01-17,1,burglary,guilty,probation
-doc_01050,2019-02-06,1,burglary,guilty,prison
-doc_00572,2019-03-25,2,terroristic threat,guilty,probation
-doc_00519,2022-03-29,1,aggravated assault,guilty,prison
-doc_00800,2020-11-29,1,drug possession,guilty,prison
-doc_00392,2021-11-12,2,drug possession,charges dropped,NA
-doc_00254,2021-09-08,1,trafficking,guilty,prison
-doc_00227,2021-11-14,2,possession of paraphernalia,guilty,prison
-doc_00039,2020-11-07,1,aggravated robbery,charges dropped,NA
-doc_01182,2021-12-06,1,aggravated assault,not guilty,NA
-doc_00183,2019-01-11,1,terroristic threat,guilty,prison
-doc_00007,2020-10-19,1,aggravated robbery,guilty,prison
-doc_00766,2018-05-09,1,larceny,guilty,prison
-doc_00636,2018-10-10,2,possession of paraphernalia,guilty,prison
-doc_01115,2020-09-25,1,smuggling of persons,charges dropped,NA
-doc_01070,2017-07-13,1,terroristic threat,guilty,prison
-doc_00938,2021-01-12,1,aggravated assault,guilty,probation
-doc_00957,2022-12-31,1,theft,guilty,probation
-doc_01398,2022-07-14,1,theft,guilty,probation
-doc_01232,2022-06-25,1,DUI,not guilty,NA
-doc_01165,2020-11-27,2,sexual assault,not guilty,NA
-doc_00457,2021-01-08,1,burglary,guilty,prison
-doc_01202,2022-10-02,1,aggravated assault,guilty,suspended
-doc_01042,2021-08-16,1,smuggling of persons,guilty,prison
-doc_01204,2021-07-09,1,larceny,guilty,prison
-doc_00784,2021-12-12,1,theft,guilty,probation
-doc_00938,2021-01-12,2,rape,charges dropped,NA
-doc_00310,2021-12-07,1,larceny,guilty,prison
-doc_00559,2019-12-30,3,arson,guilty,prison
-doc_00220,2019-11-12,1,smuggling of persons,charges dropped,NA
-doc_01300,2021-08-22,2,larceny,charges dropped,NA
-doc_00757,2020-10-08,3,aggravated robbery,guilty,prison
-doc_00666,2021-04-02,2,rape,guilty,prison
-doc_00524,2020-05-14,2,smuggling of persons,charges dropped,NA
-doc_01174,2021-09-04,1,arson,charges dropped,NA
-doc_01292,2022-11-02,1,sexual assault,charges dropped,NA
-doc_00001,2018-09-21,1,drug possession,charges dropped,NA
-doc_00208,2021-12-17,3,aggravated assault,not guilty,NA
-doc_01065,2022-09-25,2,burglary,charges dropped,NA
-doc_00504,2021-06-25,1,aggravated assault,guilty,suspended
-doc_01298,2018-06-18,1,terroristic threat,not guilty,NA
-doc_01300,2021-08-22,3,larceny,not guilty,NA
-doc_00208,2021-12-17,4,aggravated assault,guilty,probation
-doc_00567,2019-05-24,2,sexual assault,guilty,prison
-doc_01202,2022-10-02,2,theft,guilty,suspended
-doc_00065,2023-04-29,1,arson,guilty,prison
-doc_01162,2021-06-01,1,arson,charges dropped,NA
-doc_00510,2020-03-11,1,theft,charges dropped,NA
-doc_00169,2022-04-08,2,aggravated robbery,charges dropped,NA
-doc_00882,2022-04-20,3,aggravated robbery,charges dropped,NA
-doc_00890,2021-10-16,1,burglary,not guilty,NA
-doc_01270,2023-08-26,2,aggravated robbery,not guilty,NA
-doc_00887,2019-07-05,2,aggravated assault,guilty,probation
-doc_00612,2018-02-27,1,embezzlement,charges dropped,NA
-doc_00516,2023-07-14,3,arson,charges dropped,NA
-doc_00227,2021-11-14,3,assault,guilty,prison
-doc_00116,2022-07-04,1,trafficking,not guilty,NA
-doc_00272,2018-02-01,2,terroristic threat,guilty,prison
-doc_00673,2021-11-09,2,DUI,guilty,prison
-doc_00176,2022-11-01,2,theft,charges dropped,NA
-doc_00600,2020-02-26,1,arson,guilty,prison
-doc_01263,2019-05-24,2,DUI,not guilty,NA
-doc_01367,2022-03-31,1,rape,guilty,probation
-doc_00276,2019-10-03,1,sexual assault,guilty,prison
-doc_01398,2022-07-14,2,arson,guilty,suspended
-doc_00471,2022-11-18,1,DUI,guilty,prison
-doc_00333,2018-06-11,2,aggravated robbery,guilty,probation
-doc_00612,2018-02-27,2,drug possession,guilty,prison
-doc_00278,2019-08-17,1,drug possession,charges dropped,NA
-doc_01115,2020-09-25,2,terroristic threat,guilty,prison
-doc_01084,2019-01-16,1,theft,guilty,probation
-doc_00887,2019-07-05,3,assault,guilty,suspended
-doc_01399,2020-10-29,2,larceny,guilty,suspended
-doc_00194,2021-11-19,2,terroristic threat,guilty,prison
-doc_00636,2018-10-10,3,rape,guilty,prison
-doc_00282,2020-12-06,1,terroristic threat,guilty,suspended
-doc_01393,2021-12-17,2,sexual assault,charges dropped,NA
-doc_01335,2020-10-29,1,terroristic threat,guilty,suspended
-doc_00998,2019-08-05,1,possession of paraphernalia,not guilty,NA
-doc_00230,2022-02-12,2,possession of paraphernalia,guilty,suspended
-doc_00099,2019-08-27,1,possession of paraphernalia,charges dropped,NA
-doc_00293,2020-11-08,1,trafficking,guilty,prison
-doc_00334,2017-12-16,3,drug possession,guilty,prison
-doc_01078,2018-05-10,1,drug possession,charges dropped,NA
-doc_00291,2021-10-27,1,sexual assault,guilty,prison
-doc_01245,2022-03-21,2,possession of paraphernalia,guilty,prison
-doc_00142,2018-04-02,1,theft,charges dropped,NA
-doc_01088,2018-10-15,1,aggravated robbery,charges dropped,NA
-doc_00545,2021-12-07,2,burglary,guilty,prison
-doc_00269,2022-05-17,2,smuggling of persons,guilty,suspended
-doc_01034,2018-05-11,1,aggravated assault,charges dropped,NA
-doc_00362,2023-01-09,2,aggravated robbery,not guilty,NA
-doc_00227,2021-11-14,4,aggravated assault,charges dropped,NA
-doc_00397,2018-12-14,2,assault,not guilty,NA
-doc_00933,2020-04-06,2,burglary,charges dropped,NA
-doc_01114,2020-10-23,1,arson,guilty,suspended
-doc_00969,2018-08-28,2,trafficking,guilty,probation
-doc_00914,2020-03-07,1,possession of paraphernalia,charges dropped,NA
-doc_01034,2018-05-11,2,smuggling of persons,charges dropped,NA
-doc_00727,2020-03-12,2,rape,guilty,probation
-doc_00705,2022-02-01,2,trafficking,guilty,prison
-doc_00569,2019-09-09,1,drug possession,guilty,prison
-doc_00378,2019-05-07,1,terroristic threat,guilty,suspended
-doc_01181,2023-08-03,1,theft,not guilty,NA
-doc_01390,2020-05-23,3,possession of paraphernalia,guilty,suspended
-doc_01204,2021-07-09,2,possession of paraphernalia,guilty,prison
-doc_00678,2019-09-06,1,aggravated assault,guilty,prison
-doc_00658,2021-06-14,1,assault,guilty,prison
-doc_01324,2020-02-09,1,aggravated assault,guilty,prison
-doc_00700,2020-02-23,1,terroristic threat,guilty,probation
-doc_00333,2018-06-11,3,assault,charges dropped,NA
-doc_00180,2022-02-17,2,theft,guilty,probation
-doc_00593,2020-01-21,2,drug possession,guilty,prison
-doc_01298,2018-06-18,2,larceny,charges dropped,NA
-doc_00333,2018-06-11,4,theft,guilty,suspended
-doc_00194,2021-11-19,3,burglary,not guilty,NA
-doc_00509,2022-06-21,1,arson,guilty,prison
-doc_00874,2020-03-27,1,larceny,not guilty,NA
-doc_00624,2021-03-07,2,aggravated assault,guilty,suspended
-doc_00454,2022-04-26,1,smuggling of persons,charges dropped,NA
-doc_00291,2021-10-27,2,burglary,guilty,prison
-doc_00008,2019-09-23,1,assault,guilty,probation
-doc_00249,2021-02-18,1,theft,guilty,probation
-doc_00303,2020-04-22,2,embezzlement,not guilty,NA
-doc_00571,2021-03-27,1,aggravated robbery,guilty,prison
-doc_00807,2020-07-09,3,embezzlement,guilty,prison
-doc_00938,2021-01-12,3,burglary,guilty,suspended
-doc_00510,2020-03-11,2,arson,guilty,probation
-doc_01329,2021-04-18,1,arson,charges dropped,NA
-doc_00527,2018-09-13,2,drug possession,charges dropped,NA
-doc_01270,2023-08-26,3,larceny,guilty,probation
-doc_00509,2022-06-21,2,aggravated assault,guilty,probation
-doc_00845,2020-07-03,3,embezzlement,guilty,prison
-doc_01028,2022-07-31,1,assault,guilty,prison
-doc_00588,2021-07-25,2,larceny,guilty,prison
-doc_01237,2018-12-14,2,aggravated robbery,guilty,probation
-doc_01078,2018-05-10,2,arson,not guilty,NA
-doc_00807,2020-07-09,4,rape,guilty,suspended
-doc_00912,2023-03-30,2,terroristic threat,not guilty,NA
-doc_00645,2020-02-23,3,theft,not guilty,NA
-doc_00958,2020-10-10,1,DUI,guilty,prison
-doc_00719,2019-08-25,2,arson,guilty,prison
-doc_00757,2020-10-08,4,trafficking,guilty,suspended
-doc_00288,2022-05-11,1,sexual assault,not guilty,NA
-doc_00722,2018-10-26,2,theft,charges dropped,NA
-doc_01329,2021-04-18,2,aggravated robbery,not guilty,NA
-doc_00408,2021-12-04,2,rape,guilty,suspended
-doc_00555,2022-07-14,1,smuggling of persons,guilty,prison
-doc_00647,2020-10-12,1,rape,guilty,prison
-doc_00986,2017-12-12,2,larceny,guilty,prison
-doc_01280,2018-04-27,3,embezzlement,guilty,probation
-doc_00645,2020-02-23,4,aggravated assault,guilty,suspended
-doc_00787,2021-08-20,1,arson,guilty,prison
-doc_00576,2018-06-24,2,burglary,guilty,prison
-doc_00767,2021-01-09,1,assault,not guilty,NA
-doc_00240,2021-12-09,1,aggravated assault,charges dropped,NA
-doc_01390,2020-05-23,4,possession of paraphernalia,charges dropped,NA
-doc_01085,2021-12-12,2,rape,guilty,prison
-doc_01037,2022-12-22,2,DUI,not guilty,NA
-doc_01110,2018-11-11,3,larceny,guilty,prison
-doc_01317,2019-10-02,1,burglary,guilty,suspended
-doc_01326,2019-06-11,2,arson,charges dropped,NA
-doc_00950,2019-11-02,1,burglary,guilty,prison
-doc_01046,2018-04-16,2,sexual assault,guilty,prison
-doc_00162,2021-05-06,2,arson,guilty,probation
-doc_00229,2022-05-21,1,larceny,guilty,prison
-doc_01313,2020-06-06,1,embezzlement,guilty,probation
-doc_00452,2018-02-27,1,embezzlement,guilty,suspended
-doc_01034,2018-05-11,3,burglary,guilty,suspended
-doc_00278,2019-08-17,2,smuggling of persons,guilty,prison
-doc_00962,2022-11-24,1,smuggling of persons,guilty,prison
-doc_01028,2022-07-31,2,smuggling of persons,guilty,prison
-doc_00382,2022-05-10,1,possession of paraphernalia,guilty,prison
-doc_01315,2022-04-07,1,possession of paraphernalia,guilty,prison
-doc_00310,2021-12-07,2,theft,guilty,suspended
-doc_01370,2023-03-15,1,DUI,guilty,probation
-doc_01075,2020-01-22,2,smuggling of persons,guilty,probation
-doc_00624,2021-03-07,3,sexual assault,guilty,probation
-doc_01235,2018-10-05,2,smuggling of persons,not guilty,NA
-doc_00957,2022-12-31,2,theft,guilty,suspended
-doc_00954,2021-03-28,2,possession of paraphernalia,guilty,probation
-doc_01226,2021-06-25,2,smuggling of persons,guilty,prison
-doc_00457,2021-01-08,2,assault,guilty,probation
-doc_00559,2019-12-30,4,aggravated assault,charges dropped,NA
-doc_00381,2018-05-28,2,aggravated assault,not guilty,NA
-doc_00183,2019-01-11,2,theft,guilty,prison
-doc_00164,2020-05-16,2,DUI,not guilty,NA
-doc_00700,2020-02-23,2,aggravated robbery,guilty,prison
-doc_01336,2019-04-28,1,aggravated assault,guilty,prison
-doc_00291,2021-10-27,3,assault,guilty,prison
-doc_00392,2021-11-12,3,smuggling of persons,guilty,prison
-doc_00581,2019-05-02,1,possession of paraphernalia,guilty,suspended
-doc_00220,2019-11-12,2,aggravated assault,guilty,suspended
-doc_00245,2022-03-09,1,terroristic threat,guilty,prison
-doc_00235,2019-06-23,2,DUI,not guilty,NA
-doc_01280,2018-04-27,4,terroristic threat,charges dropped,NA
-doc_00915,2019-01-08,2,arson,guilty,probation
-doc_00956,2019-12-12,1,aggravated assault,charges dropped,NA
-doc_00761,2019-08-06,2,drug possession,guilty,suspended
-doc_01095,2017-02-19,1,possession of paraphernalia,guilty,suspended
-doc_00472,2023-05-19,1,arson,charges dropped,NA
-doc_00460,2018-09-21,2,DUI,guilty,prison
-doc_00364,2022-05-09,2,drug possession,guilty,prison
-doc_00939,2020-11-06,1,embezzlement,guilty,prison
-doc_01324,2020-02-09,2,burglary,charges dropped,NA
-doc_00804,2020-05-04,2,drug possession,guilty,prison
-doc_00137,2020-07-26,1,aggravated robbery,guilty,prison
-doc_00136,2018-06-01,2,assault,guilty,suspended
-doc_00313,2022-04-15,1,arson,guilty,suspended
-doc_00850,2022-09-04,3,embezzlement,guilty,prison
-doc_00471,2022-11-18,2,burglary,guilty,prison
-doc_01315,2022-04-07,2,aggravated assault,charges dropped,NA
-doc_00846,2023-01-10,1,drug possession,guilty,prison
-doc_00748,2019-09-10,2,theft,guilty,prison
-doc_01386,2021-11-21,1,sexual assault,guilty,prison
-doc_01132,2019-08-23,3,burglary,not guilty,NA
-doc_00603,2021-04-27,1,sexual assault,charges dropped,NA
-doc_00309,2018-01-17,1,assault,guilty,probation
-doc_00440,2019-08-06,2,burglary,guilty,suspended
-doc_00061,2019-02-14,2,assault,charges dropped,NA
-doc_00918,2022-06-22,3,aggravated assault,not guilty,NA
-doc_00612,2018-02-27,3,burglary,not guilty,NA
-doc_00611,2018-05-23,1,rape,guilty,prison
-doc_00385,2020-09-30,2,smuggling of persons,guilty,suspended
-doc_00218,2020-01-15,1,rape,guilty,prison
-doc_00706,2019-11-23,3,drug possession,not guilty,NA
-doc_00183,2019-01-11,3,terroristic threat,guilty,prison
-doc_00385,2020-09-30,3,rape,guilty,prison
-doc_00890,2021-10-16,2,possession of paraphernalia,guilty,probation
-doc_01123,2019-11-14,1,smuggling of persons,guilty,prison
-doc_00688,2020-10-05,1,sexual assault,guilty,probation
-doc_00962,2022-11-24,2,DUI,guilty,prison
-doc_00954,2021-03-28,3,arson,guilty,prison
-doc_00230,2022-02-12,3,burglary,not guilty,NA
-doc_00465,2020-08-01,1,embezzlement,guilty,prison
-doc_00532,2019-01-04,1,sexual assault,charges dropped,NA
-doc_01088,2018-10-15,2,embezzlement,guilty,prison
-doc_01292,2022-11-02,2,assault,guilty,prison
-doc_00771,2023-02-18,2,aggravated robbery,guilty,prison
-doc_00484,2022-04-04,1,arson,not guilty,NA
-doc_00393,2021-04-26,1,trafficking,not guilty,NA
-doc_01209,2018-03-05,1,terroristic threat,guilty,probation
-doc_01005,2022-03-19,1,sexual assault,not guilty,NA
-doc_01070,2017-07-13,2,possession of paraphernalia,guilty,suspended
-doc_00880,2021-06-17,2,sexual assault,guilty,probation
-doc_01090,2021-05-21,1,burglary,guilty,prison
-doc_01058,2017-04-19,1,aggravated assault,guilty,prison
-doc_00826,2021-04-28,2,aggravated robbery,guilty,prison
-doc_00960,2020-08-13,2,trafficking,guilty,prison
-doc_01090,2021-05-21,2,drug possession,guilty,prison
-doc_00682,2020-07-15,2,burglary,guilty,prison
-doc_01293,2020-01-11,1,aggravated assault,guilty,prison
-doc_00394,2023-01-04,1,theft,guilty,prison
-doc_00320,2022-11-17,3,theft,guilty,suspended
-doc_01164,2019-11-06,1,aggravated robbery,guilty,probation
-doc_01351,2018-10-28,1,terroristic threat,guilty,prison
-doc_01209,2018-03-05,2,trafficking,guilty,prison
-doc_00083,2019-06-14,3,trafficking,guilty,prison
-doc_00756,2016-11-30,2,aggravated assault,not guilty,NA
-doc_01260,2017-07-16,3,aggravated assault,guilty,suspended
-doc_01270,2023-08-26,4,arson,charges dropped,NA
-doc_00815,2021-07-16,1,trafficking,guilty,prison
-doc_01113,2021-05-22,1,burglary,charges dropped,NA
-doc_00200,2021-02-04,1,drug possession,guilty,suspended
-doc_01204,2021-07-09,3,DUI,guilty,prison
-doc_00956,2019-12-12,2,embezzlement,guilty,prison
-doc_00320,2022-11-17,4,rape,guilty,prison
-doc_00467,2020-12-08,1,trafficking,charges dropped,NA
-doc_01115,2020-09-25,3,burglary,not guilty,NA
-doc_00914,2020-03-07,2,DUI,guilty,probation
-doc_01113,2021-05-22,2,aggravated robbery,guilty,prison
-doc_01106,2019-09-03,2,burglary,guilty,probation
-doc_00600,2020-02-26,2,sexual assault,guilty,prison
-doc_00221,2022-08-06,2,aggravated assault,charges dropped,NA
-doc_00323,2020-12-22,2,rape,charges dropped,NA
-doc_00850,2022-09-04,4,arson,guilty,prison
-doc_00106,2019-10-28,1,theft,guilty,prison
-doc_01131,2022-09-19,3,trafficking,guilty,probation
-doc_00007,2020-10-19,2,burglary,guilty,probation
-doc_00719,2019-08-25,3,rape,not guilty,NA
-doc_00774,2022-09-05,2,aggravated assault,charges dropped,NA
-doc_00604,2019-03-13,1,theft,guilty,prison
-doc_01213,2023-04-10,1,assault,guilty,suspended
-doc_01351,2018-10-28,2,smuggling of persons,guilty,probation
-doc_00099,2019-08-27,2,trafficking,guilty,suspended
-doc_00581,2019-05-02,2,embezzlement,guilty,prison
-doc_00484,2022-04-04,2,assault,guilty,probation
-doc_01304,2021-05-30,1,larceny,not guilty,NA
-doc_01355,2020-10-25,2,theft,not guilty,NA
-doc_00067,2018-09-13,2,theft,guilty,prison
-doc_01292,2022-11-02,3,smuggling of persons,guilty,probation
+doc_00758,2019-12-26,1,assault,guilty,prison
+doc_00295,2021-05-18,1,sexual assault,guilty,prison
+doc_01311,2021-08-27,1,assault,guilty,prison
+doc_01351,2019-09-13,1,DUI,guilty,prison
+doc_00845,2019-09-03,1,assault,guilty,prison
+doc_01047,2020-10-28,1,assault,guilty,probation
+doc_00689,2021-09-26,1,terroristic threat,not guilty,NA
+doc_00693,2019-07-26,1,DUI,guilty,prison
+doc_00455,2020-12-11,1,smuggling of persons,guilty,prison
+doc_01232,2021-06-14,1,trafficking,charges dropped,NA
+doc_00519,2021-03-17,1,assault,not guilty,NA
+doc_00845,2019-09-03,2,possession of paraphernalia,guilty,probation
+doc_00933,2020-09-30,1,possession of paraphernalia,guilty,prison
+doc_00397,2017-11-02,1,DUI,guilty,prison
+doc_00761,2019-04-03,1,embezzlement,not guilty,NA
+doc_00263,2021-08-20,1,burglary,guilty,prison
+doc_00013,2021-03-17,1,aggravated robbery,guilty,probation
+doc_00320,2022-07-22,1,embezzlement,guilty,prison
+doc_01075,2019-03-02,1,aggravated robbery,guilty,probation
+doc_00581,2018-02-28,1,assault,not guilty,NA
+doc_00130,2019-10-03,1,aggravated assault,charges dropped,NA
+doc_00699,2018-12-19,1,drug possession,charges dropped,NA
+doc_00291,2021-06-03,1,larceny,charges dropped,NA
+doc_00774,2022-10-22,1,arson,guilty,suspended
+doc_01192,2020-11-11,1,drug possession,charges dropped,NA
+doc_00900,2018-02-10,1,theft,guilty,prison
+doc_00708,2020-09-22,1,smuggling of persons,guilty,suspended
+doc_00256,2021-04-11,1,aggravated assault,guilty,probation
+doc_00265,2019-08-25,1,arson,guilty,prison
+doc_01235,2017-03-04,1,larceny,not guilty,NA
+doc_01235,2017-03-04,2,possession of paraphernalia,not guilty,NA
+doc_00309,2018-06-15,1,possession of paraphernalia,guilty,prison
+doc_01393,2023-01-20,1,smuggling of persons,charges dropped,NA
+doc_00705,2020-12-23,1,possession of paraphernalia,guilty,prison
+doc_00645,2019-06-20,1,larceny,guilty,prison
+doc_00276,2019-09-02,1,terroristic threat,guilty,suspended
+doc_00200,2021-05-10,1,embezzlement,guilty,prison
+doc_01181,2023-06-03,1,embezzlement,not guilty,NA
+doc_01120,2020-04-07,1,theft,guilty,probation
+doc_00354,2019-05-16,1,theft,guilty,prison
+doc_00313,2023-03-05,1,sexual assault,charges dropped,NA
+doc_00830,2020-04-28,1,aggravated robbery,charges dropped,NA
+doc_00169,2020-07-29,1,larceny,charges dropped,NA
+doc_01165,2021-05-19,1,drug possession,charges dropped,NA
+doc_01128,2019-01-22,1,DUI,charges dropped,NA
+doc_00596,2021-06-06,1,theft,guilty,prison
+doc_00893,2020-03-08,1,theft,charges dropped,NA
+doc_00065,2023-02-03,1,smuggling of persons,charges dropped,NA
+doc_00252,2020-12-04,1,aggravated assault,guilty,prison
+doc_00555,2021-07-19,1,possession of paraphernalia,charges dropped,NA
+doc_01189,2021-02-05,1,arson,guilty,prison
+doc_00957,2021-03-19,1,sexual assault,guilty,prison
+doc_00227,2021-10-02,1,terroristic threat,guilty,suspended
+doc_00004,2018-03-18,1,assault,guilty,suspended
+doc_00958,2020-12-17,1,aggravated robbery,guilty,prison
+doc_00227,2021-10-02,2,larceny,guilty,prison
+doc_00537,2022-04-22,1,rape,guilty,suspended
+doc_01078,2018-08-11,1,theft,guilty,prison
+doc_00235,2017-09-27,1,larceny,guilty,prison
+doc_00831,2020-07-08,1,aggravated robbery,charges dropped,NA
+doc_00288,2021-02-13,1,larceny,guilty,prison
+doc_01361,2022-07-09,1,terroristic threat,guilty,probation
+doc_01071,2022-03-14,1,assault,guilty,prison
+doc_01399,2021-01-22,1,sexual assault,guilty,suspended
+doc_00309,2018-06-15,2,aggravated assault,not guilty,NA
+doc_01131,2022-02-02,1,assault,not guilty,NA
+doc_00650,2021-12-21,1,burglary,guilty,prison
+doc_00128,2022-01-21,1,possession of paraphernalia,charges dropped,NA
+doc_01266,2019-03-11,1,burglary,guilty,probation
+doc_01127,2021-05-23,1,possession of paraphernalia,guilty,prison
+doc_00527,2018-04-04,1,embezzlement,guilty,probation
+doc_00886,2022-01-22,1,sexual assault,guilty,prison
+doc_00545,2023-04-22,1,aggravated assault,not guilty,NA
+doc_00695,2020-04-06,1,possession of paraphernalia,guilty,probation
+doc_01090,2022-04-17,1,burglary,guilty,probation
+doc_00602,2021-03-26,1,aggravated assault,guilty,probation
+doc_00203,2022-01-05,1,sexual assault,guilty,suspended
+doc_00950,2019-10-19,1,aggravated robbery,not guilty,NA
+doc_00850,2022-09-25,1,drug possession,guilty,prison
+doc_01140,2020-01-25,1,rape,guilty,prison
+doc_00667,2019-08-26,1,trafficking,guilty,prison
+doc_01065,2021-08-26,1,smuggling of persons,guilty,prison
+doc_01073,2019-12-09,1,burglary,guilty,prison
+doc_00758,2019-12-26,2,sexual assault,guilty,suspended
+doc_00080,2023-04-17,1,aggravated robbery,charges dropped,NA
+doc_00221,2021-12-16,1,aggravated assault,guilty,suspended
+doc_01270,2022-07-15,1,aggravated assault,guilty,probation
+doc_00693,2019-07-26,2,aggravated assault,guilty,probation
+doc_01162,2020-06-01,1,terroristic threat,guilty,prison
+doc_01071,2022-03-14,2,rape,guilty,prison
+doc_00954,2020-08-14,1,larceny,charges dropped,NA
+doc_00637,2019-10-05,1,aggravated robbery,guilty,prison
+doc_01299,2020-04-28,1,assault,guilty,probation
+doc_00276,2019-09-02,2,smuggling of persons,guilty,prison
+doc_00618,2020-08-28,1,drug possession,not guilty,NA
+doc_00645,2019-06-20,2,rape,guilty,prison
+doc_01102,2018-10-16,1,drug possession,guilty,prison
+doc_00472,2023-01-08,1,embezzlement,not guilty,NA
+doc_00136,2018-07-21,1,drug possession,guilty,suspended
+doc_00263,2021-08-20,2,smuggling of persons,charges dropped,NA
+doc_00012,2020-10-24,1,smuggling of persons,guilty,prison
+doc_01335,2019-02-06,1,theft,not guilty,NA
+doc_00969,2018-09-12,1,burglary,guilty,prison
+doc_00960,2020-09-28,1,possession of paraphernalia,charges dropped,NA
+doc_00254,2021-02-05,1,burglary,guilty,prison
+doc_00880,2021-01-26,1,larceny,guilty,prison
+doc_00460,2018-09-22,1,smuggling of persons,guilty,suspended
+doc_00509,2021-05-27,1,terroristic threat,guilty,prison
+doc_00852,2020-10-14,1,larceny,not guilty,NA
+doc_00471,2021-11-02,1,rape,not guilty,NA
+doc_00075,2020-10-10,1,aggravated robbery,not guilty,NA
+doc_00195,2018-06-17,1,possession of paraphernalia,guilty,prison
+doc_01235,2017-03-04,3,burglary,guilty,probation
+doc_00362,2022-02-11,1,aggravated assault,guilty,prison
+doc_00220,2020-06-12,1,smuggling of persons,charges dropped,NA
+doc_00293,2020-01-20,1,smuggling of persons,guilty,probation
+doc_00602,2021-03-26,2,assault,guilty,suspended
+doc_00467,2021-11-12,1,embezzlement,not guilty,NA
+doc_00295,2021-05-18,2,smuggling of persons,charges dropped,NA
+doc_00237,2022-07-22,1,possession of paraphernalia,charges dropped,NA
+doc_01042,2022-04-29,1,larceny,not guilty,NA
+doc_01015,2018-11-20,1,burglary,charges dropped,NA
+doc_01221,2020-08-05,1,burglary,guilty,suspended
+doc_00727,2020-06-23,1,possession of paraphernalia,charges dropped,NA
+doc_00295,2021-05-18,3,drug possession,guilty,prison
+doc_01355,2020-01-25,1,larceny,guilty,probation
+doc_00998,2019-11-29,1,sexual assault,guilty,probation
+doc_01369,2021-10-13,1,possession of paraphernalia,guilty,prison
+doc_01399,2021-01-22,2,theft,guilty,prison
+doc_00617,2019-09-15,1,DUI,guilty,prison
+doc_00958,2020-12-17,2,smuggling of persons,charges dropped,NA
+doc_01244,2018-07-06,1,possession of paraphernalia,guilty,probation
+doc_01119,2019-04-04,1,arson,guilty,probation
+doc_00893,2020-03-08,2,aggravated robbery,charges dropped,NA
+doc_00900,2018-02-10,2,larceny,guilty,probation
+doc_00069,2022-04-16,1,smuggling of persons,guilty,prison
+doc_00452,2018-06-01,1,trafficking,guilty,probation
+doc_00994,2020-08-30,1,possession of paraphernalia,guilty,prison
+doc_00360,2016-10-18,1,trafficking,guilty,suspended
+doc_00030,2019-10-27,1,DUI,guilty,prison
+doc_00645,2019-06-20,3,arson,guilty,suspended
+doc_00387,2020-01-06,1,theft,guilty,prison
+doc_00421,2018-03-03,1,arson,not guilty,NA
+doc_01046,2017-06-23,1,larceny,charges dropped,NA
+doc_00915,2020-01-22,1,drug possession,guilty,prison
+doc_00229,2021-12-17,1,DUI,guilty,prison
+doc_01179,2022-04-06,1,arson,guilty,prison
+doc_00960,2020-09-28,2,arson,guilty,prison
+doc_00541,2019-11-05,1,embezzlement,guilty,probation
+doc_00766,2019-08-30,1,smuggling of persons,charges dropped,NA
+doc_00142,2019-01-29,1,DUI,guilty,probation
+doc_00455,2020-12-11,2,aggravated robbery,guilty,suspended
+doc_00083,2018-12-18,1,rape,guilty,prison
+doc_00850,2022-09-25,2,assault,charges dropped,NA
+doc_01313,2019-06-09,1,terroristic threat,not guilty,NA
+doc_00666,2020-01-30,1,assault,guilty,probation
+doc_01298,2018-06-09,1,DUI,guilty,suspended
+doc_00925,2021-04-24,1,trafficking,guilty,prison
+doc_00342,2020-07-13,1,arson,guilty,suspended
+doc_01304,2021-05-16,1,aggravated assault,charges dropped,NA
+doc_00440,2020-07-05,1,theft,guilty,prison
+doc_01180,2019-10-15,1,larceny,guilty,prison
+doc_00708,2020-09-22,2,aggravated assault,guilty,prison
+doc_01244,2018-07-06,2,terroristic threat,guilty,prison
+doc_00890,2022-05-20,1,assault,guilty,probation
+doc_01107,2021-09-09,1,aggravated robbery,charges dropped,NA
+doc_00519,2021-03-17,2,theft,guilty,prison
+doc_00413,2018-05-12,1,sexual assault,guilty,prison
+doc_00538,2022-03-02,1,drug possession,charges dropped,NA
+doc_00454,2020-10-27,1,aggravated assault,guilty,prison
+doc_00936,2018-08-30,1,theft,guilty,prison
+doc_00912,2022-03-29,1,embezzlement,guilty,prison
+doc_01043,2021-02-04,1,aggravated robbery,guilty,prison
+doc_00716,2021-05-08,1,DUI,not guilty,NA
+doc_01311,2021-08-27,2,assault,guilty,suspended
+doc_01084,2017-07-22,1,larceny,charges dropped,NA
+doc_00344,2021-05-07,1,assault,guilty,probation
+doc_00761,2019-04-03,2,smuggling of persons,charges dropped,NA
+doc_00787,2021-01-16,1,trafficking,guilty,prison
+doc_00504,2020-12-16,1,assault,guilty,suspended
+doc_00265,2019-08-25,2,arson,not guilty,NA
+doc_01213,2021-10-02,1,drug possession,not guilty,NA
+doc_00795,2020-01-30,1,larceny,guilty,prison
+doc_00969,2018-09-12,2,aggravated assault,guilty,probation
+doc_00496,2020-02-23,1,assault,guilty,prison
+doc_00208,2023-05-18,1,assault,guilty,suspended
+doc_00183,2019-12-21,1,theft,guilty,prison
+doc_00695,2020-04-06,2,burglary,guilty,prison
+doc_00529,2020-12-03,1,larceny,guilty,prison
+doc_00846,2022-11-09,1,smuggling of persons,guilty,prison
+doc_00637,2019-10-05,2,theft,not guilty,NA
+doc_00604,2019-05-23,1,aggravated assault,guilty,suspended
+doc_00915,2020-01-22,2,burglary,guilty,prison
+doc_00722,2018-06-25,1,drug possession,guilty,prison
+doc_00571,2021-02-05,1,theft,guilty,suspended
+doc_00830,2020-04-28,2,smuggling of persons,guilty,prison
+doc_00682,2019-10-16,1,embezzlement,charges dropped,NA
+doc_00234,2022-06-30,1,larceny,guilty,probation
+doc_01324,2021-03-14,1,larceny,not guilty,NA
+doc_00604,2019-05-23,2,smuggling of persons,guilty,prison
+doc_00527,2018-04-04,2,drug possession,not guilty,NA
+doc_00429,2020-10-16,1,burglary,guilty,prison
+doc_00893,2020-03-08,3,embezzlement,guilty,prison
+doc_00748,2019-12-26,1,aggravated robbery,not guilty,NA
+doc_00997,2019-08-21,1,terroristic threat,guilty,prison
+doc_00144,2021-05-25,1,embezzlement,guilty,probation
+doc_00394,2021-03-30,1,theft,guilty,prison
+doc_01015,2018-11-20,2,terroristic threat,not guilty,NA
+doc_01355,2020-01-25,2,theft,not guilty,NA
+doc_00705,2020-12-23,2,terroristic threat,not guilty,NA
+doc_00852,2020-10-14,2,theft,guilty,probation
+doc_01103,2021-05-11,1,terroristic threat,charges dropped,NA
+doc_00169,2020-07-29,2,arson,guilty,prison
+doc_00128,2022-01-21,2,aggravated assault,charges dropped,NA
+doc_01037,2022-05-25,1,aggravated robbery,charges dropped,NA
+doc_01103,2021-05-11,2,drug possession,guilty,probation
+doc_00567,2019-05-20,1,larceny,guilty,prison
+doc_00391,2022-03-06,1,terroristic threat,guilty,probation
+doc_00570,2019-11-13,1,larceny,charges dropped,NA
+doc_01113,2022-09-05,1,terroristic threat,guilty,prison
+doc_00280,2017-08-10,1,burglary,guilty,probation
+doc_00938,2019-11-24,1,assault,charges dropped,NA
+doc_00265,2019-08-25,3,aggravated robbery,guilty,prison
+doc_01050,2020-01-23,1,embezzlement,guilty,prison
+doc_00821,2020-01-17,1,larceny,not guilty,NA
+doc_01084,2017-07-22,2,drug possession,not guilty,NA
+doc_01252,2019-07-08,1,trafficking,guilty,probation
+doc_00345,2021-09-13,1,larceny,guilty,suspended
+doc_00593,2018-06-22,1,rape,guilty,suspended
+doc_00795,2020-01-30,2,terroristic threat,not guilty,NA
+doc_00693,2019-07-26,3,burglary,not guilty,NA
+doc_00385,2021-10-10,1,burglary,guilty,probation
+doc_00700,2020-07-29,1,burglary,guilty,probation
+doc_01113,2022-09-05,2,trafficking,not guilty,NA
+doc_00293,2020-01-20,2,DUI,guilty,prison
+doc_01229,2019-09-11,1,aggravated robbery,guilty,suspended
+doc_00761,2019-04-03,3,trafficking,guilty,prison
+doc_01215,2020-10-18,1,possession of paraphernalia,guilty,prison
+doc_00269,2021-05-20,1,aggravated assault,guilty,prison
+doc_00130,2019-10-03,2,drug possession,guilty,prison
+doc_00880,2021-01-26,2,theft,guilty,suspended
+doc_01043,2021-02-04,2,smuggling of persons,guilty,probation
+doc_00152,2018-05-01,1,aggravated robbery,guilty,probation
+doc_01128,2019-01-22,2,aggravated robbery,guilty,prison
+doc_01208,2020-09-21,1,rape,guilty,prison
+doc_01373,2021-09-04,1,aggravated assault,guilty,suspended
+doc_00900,2018-02-10,3,DUI,guilty,prison
+doc_00809,2018-04-30,1,aggravated assault,guilty,prison
+doc_01328,2022-07-24,1,smuggling of persons,charges dropped,NA
+doc_00136,2018-07-21,2,aggravated assault,not guilty,NA
+doc_00434,2021-12-10,1,theft,charges dropped,NA
+doc_00200,2021-05-10,2,terroristic threat,guilty,prison
+doc_00008,2018-12-19,1,assault,charges dropped,NA
+doc_01260,2018-02-10,1,arson,guilty,probation
+doc_00323,2019-07-16,1,theft,guilty,prison
+doc_01070,2018-02-10,1,burglary,charges dropped,NA
+doc_00455,2020-12-11,3,theft,guilty,suspended
+doc_00685,2018-02-27,1,assault,not guilty,NA
+doc_01075,2019-03-02,2,sexual assault,guilty,prison
+doc_00282,2021-01-27,1,theft,guilty,probation
+doc_01120,2020-04-07,2,rape,guilty,probation
+doc_01043,2021-02-04,3,arson,guilty,prison
+doc_00392,2021-07-26,1,burglary,charges dropped,NA
+doc_00867,2022-03-23,1,assault,guilty,prison
+doc_01095,2018-03-06,1,theft,charges dropped,NA
+doc_01260,2018-02-10,2,burglary,guilty,probation
+doc_00152,2018-05-01,2,aggravated robbery,guilty,suspended
+doc_00524,2020-03-29,1,embezzlement,guilty,prison
+doc_01301,2022-05-31,1,theft,charges dropped,NA
+doc_00189,2019-07-21,1,burglary,guilty,probation
+doc_01370,2021-06-21,1,possession of paraphernalia,guilty,prison
+doc_01019,2023-03-16,1,trafficking,guilty,probation
+doc_00362,2022-02-11,2,arson,guilty,prison
+doc_01300,2021-03-15,1,DUI,guilty,prison
+doc_00527,2018-04-04,3,drug possession,guilty,prison
+doc_01158,2019-08-22,1,aggravated robbery,guilty,suspended
+doc_00936,2018-08-30,2,aggravated robbery,guilty,suspended
+doc_01041,2019-09-14,1,DUI,charges dropped,NA
+doc_01234,2019-11-25,1,sexual assault,guilty,prison
+doc_01114,2020-02-03,1,drug possession,guilty,prison
+doc_00986,2017-12-23,1,burglary,guilty,prison
+doc_01106,2019-06-11,1,drug possession,guilty,prison
+doc_00434,2021-12-10,2,drug possession,charges dropped,NA
+doc_01298,2018-06-09,2,aggravated assault,charges dropped,NA
+doc_00962,2021-10-10,1,DUI,guilty,prison
+doc_00960,2020-09-28,3,assault,charges dropped,NA
+doc_00645,2019-06-20,4,larceny,guilty,prison
+doc_00235,2017-09-27,2,embezzlement,charges dropped,NA
+doc_00729,2022-03-24,1,drug possession,guilty,prison
+doc_00293,2020-01-20,3,drug possession,guilty,suspended
+doc_00288,2021-02-13,2,theft,guilty,prison
+doc_00683,2019-04-23,1,terroristic threat,guilty,prison
+doc_00229,2021-12-17,2,larceny,guilty,prison
+doc_00194,2020-02-19,1,larceny,guilty,probation
+doc_00354,2019-05-16,2,embezzlement,guilty,suspended
+doc_00804,2020-03-20,1,rape,charges dropped,NA
+doc_00322,2021-11-18,1,trafficking,guilty,prison
+doc_00265,2019-08-25,4,terroristic threat,guilty,suspended
+doc_00960,2020-09-28,4,sexual assault,not guilty,NA
+doc_01095,2018-03-06,2,terroristic threat,guilty,prison
+doc_00587,2020-12-25,1,aggravated assault,guilty,prison
+doc_01005,2023-03-09,1,DUI,guilty,prison
+doc_00254,2021-02-05,2,larceny,charges dropped,NA
+doc_01266,2019-03-11,2,larceny,guilty,prison
+doc_00291,2021-06-03,2,rape,not guilty,NA
+doc_01037,2022-05-25,2,aggravated assault,guilty,suspended
+doc_00541,2019-11-05,2,DUI,guilty,prison
+doc_00925,2021-04-24,2,aggravated assault,guilty,suspended
+doc_01304,2021-05-16,2,aggravated assault,guilty,prison
+doc_00394,2021-03-30,2,larceny,not guilty,NA
+doc_00600,2019-05-03,1,trafficking,guilty,prison
+doc_00529,2020-12-03,2,terroristic threat,guilty,suspended
+doc_00229,2021-12-17,3,larceny,guilty,prison
+doc_00950,2019-10-19,2,arson,not guilty,NA
+doc_00617,2019-09-15,2,possession of paraphernalia,not guilty,NA
+doc_01189,2021-02-05,2,aggravated robbery,guilty,probation
+doc_00136,2018-07-21,3,sexual assault,guilty,prison
+doc_00288,2021-02-13,3,sexual assault,charges dropped,NA
+doc_01026,2021-02-14,1,assault,guilty,prison
+doc_00295,2021-05-18,4,possession of paraphernalia,guilty,probation
