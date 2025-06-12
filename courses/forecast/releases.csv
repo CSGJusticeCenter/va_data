@@ -1,0 +1,81 @@
+rel_year,sex,off_group,n
+2010,Female,Drugs,3834
+2010,Female,Property,5674
+2010,Female,Public order,734
+2010,Female,Violent,1815
+2010,Male,Drugs,29425
+2010,Male,Property,36096
+2010,Male,Public order,17408
+2010,Male,Violent,31219
+2011,Female,Drugs,2894
+2011,Female,Property,4707
+2011,Female,Public order,632
+2011,Female,Violent,1710
+2011,Male,Drugs,24871
+2011,Male,Property,32143
+2011,Male,Public order,15640
+2011,Male,Violent,30085
+2012,Female,Drugs,1175
+2012,Female,Property,1906
+2012,Female,Public order,347
+2012,Female,Violent,953
+2012,Male,Drugs,10163
+2012,Male,Property,12212
+2012,Male,Public order,7876
+2012,Male,Violent,14934
+2013,Female,Drugs,455
+2013,Female,Property,875
+2013,Female,Public order,278
+2013,Female,Violent,955
+2013,Male,Drugs,5790
+2013,Male,Property,7498
+2013,Male,Public order,6025
+2013,Male,Violent,14922
+2014,Female,Drugs,344
+2014,Female,Property,913
+2014,Female,Public order,363
+2014,Female,Violent,1044
+2014,Male,Drugs,5912
+2014,Male,Property,7898
+2014,Male,Public order,6811
+2014,Male,Violent,15515
+2015,Female,Drugs,323
+2015,Female,Property,849
+2015,Female,Public order,476
+2015,Female,Violent,1200
+2015,Male,Drugs,5421
+2015,Male,Property,8260
+2015,Male,Public order,7855
+2015,Male,Violent,16768
+2016,Female,Drugs,179
+2016,Female,Property,636
+2016,Female,Public order,434
+2016,Female,Violent,1102
+2016,Male,Drugs,3025
+2016,Male,Property,5864
+2016,Male,Public order,8288
+2016,Male,Violent,15259
+2017,Female,Drugs,174
+2017,Female,Property,673
+2017,Female,Public order,482
+2017,Female,Violent,1311
+2017,Male,Drugs,2656
+2017,Male,Property,5980
+2017,Male,Public order,8680
+2017,Male,Violent,16114
+2018,Female,Drugs,162
+2018,Female,Property,672
+2018,Female,Public order,496
+2018,Female,Violent,1343
+2018,Male,Drugs,2675
+2018,Male,Property,6090
+2018,Male,Public order,8901
+2018,Male,Violent,17347
+2019,Female,Drugs,166
+2019,Female,Property,705
+2019,Female,Public order,528
+2019,Female,Violent,1463
+2019,Male,Drugs,2512
+2019,Male,Property,6006
+2019,Male,Public order,8939
+2019,Male,Violent,17495
