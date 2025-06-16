@@ -33,7 +33,7 @@ admissions <- da39234.0002 |>
     ) |> 
   recode_sex_off() |> 
   remove_other_na() |> 
-  count(admit_year = admityr, sex, off_group)
+  count(year = admityr, sex, off_group)
 
 releases <- da39234.0003 |> 
   clean_names() |>
@@ -43,17 +43,17 @@ releases <- da39234.0003 |>
     ) |> 
   recode_sex_off() |> 
   remove_other_na() |> 
-  count(rel_year = relyr, sex, off_group)
+  count(year = relyr, sex, off_group)
 
 population <- da39234.0004 |> 
   clean_names() |>
   filter(
     state == my_state,
-    rptyear == max_year,
+    between(rptyear, min_year, max_year),
     ) |> 
   recode_sex_off() |>
   remove_other_na() |> 
-  count(pop_year = rptyear, sex, off_group)
+  count(year = rptyear, sex, off_group)
 
 write_csv(admissions, "courses/forecast/admissions.csv")
 write_csv(releases, "courses/forecast/releases.csv")

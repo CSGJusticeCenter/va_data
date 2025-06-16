@@ -1,4 +1,76 @@
-pop_year,sex,off_group,n
+year,sex,off_group,n
+2010,Female,Drugs,2070
+2010,Female,Property,3258
+2010,Female,Public order,502
+2010,Female,Violent,3968
+2010,Male,Drugs,22136
+2010,Male,Property,27123
+2010,Male,Public order,13764
+2010,Male,Violent,92157
+2011,Female,Drugs,1468
+2011,Female,Property,2450
+2011,Female,Public order,419
+2011,Female,Violent,3784
+2011,Male,Drugs,17240
+2011,Male,Property,22032
+2011,Male,Public order,12235
+2011,Male,Violent,90447
+2012,Female,Drugs,632
+2012,Female,Property,1317
+2012,Female,Public order,349
+2012,Female,Violent,3862
+2012,Male,Drugs,11210
+2012,Male,Property,16572
+2012,Male,Public order,10461
+2012,Male,Violent,91479
+2013,Female,Drugs,486
+2013,Female,Property,1321
+2013,Female,Public order,445
+2013,Female,Violent,4018
+2013,Male,Drugs,10040
+2013,Male,Property,16282
+2013,Male,Public order,11172
+2013,Male,Violent,92798
+2014,Female,Drugs,428
+2014,Female,Property,1200
+2014,Female,Public order,518
+2014,Female,Violent,4148
+2014,Male,Drugs,8851
+2014,Male,Property,15363
+2014,Male,Public order,11831
+2014,Male,Violent,93798
+2015,Female,Drugs,266
+2015,Female,Property,951
+2015,Female,Public order,503
+2015,Female,Violent,4046
+2015,Male,Drugs,5975
+2015,Male,Property,12646
+2015,Male,Public order,11953
+2015,Male,Violent,93103
+2016,Female,Drugs,238
+2016,Female,Property,962
+2016,Female,Public order,525
+2016,Female,Violent,4162
+2016,Male,Drugs,5321
+2016,Male,Property,12641
+2016,Male,Public order,12261
+2016,Male,Violent,94033
+2017,Female,Drugs,217
+2017,Female,Property,957
+2017,Female,Public order,554
+2017,Female,Violent,4137
+2017,Male,Drugs,5115
+2017,Male,Property,12732
+2017,Male,Public order,12639
+2017,Male,Violent,94669
+2018,Female,Drugs,192
+2018,Female,Property,957
+2018,Female,Public order,533
+2018,Female,Violent,4105
+2018,Male,Drugs,4661
+2018,Male,Property,12234
+2018,Male,Public order,12388
+2018,Male,Violent,93436
 2019,Female,Drugs,177
 2019,Female,Property,923
 2019,Female,Public order,500
