@@ -33,7 +33,7 @@
 # *.xlsx
 # *.xls
 *.xml
-*.zip
+#*.zip
 
 # possible output files
 *.docx
